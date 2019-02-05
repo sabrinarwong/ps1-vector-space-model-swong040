@@ -15,12 +15,13 @@ g++ -Wall -std=c++11 main.cpp -o main.out;
 
 ## About
 Included in this repo is 
+	
 	1. an excel sheet of Part 1
 	2. source code (main.cpp and main.h) to create indices and compute tf.idf for the term
 	3. the output file (docIndex.txt, postingList.txt, output.txt) of the indices created and tests ran.
 
 ## Assumptions and Disclaimers
-	* Terms are not tokenized.
+* Terms are not tokenized.
 
 
 ## Contributing
