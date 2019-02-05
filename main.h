@@ -54,24 +54,30 @@ class docIndex{
 			term t = text;
 			int k = 20; // total num of docs
 			int pSize = t.postings.size(); // num of docs with term
+			
+			// IDF(t) = log_e(Total number of documents / Number of documents with term t in it).
+			double idf = log(k / (double)pSize);
 
-			// TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document).
 			for(int i = 0; i < pSize; i++){
 				int id, n;
 				int freq = t.postings[i].second; // freq of term in doc
 				for(int j = 0; j < docs.size(); j++){
 					if(t.postings[i].first == docs[j].first){
 						id = docs[j].first;
-						n = docs[j].second;
+						n = docs[j].second;	// total num terms in doc
 						break;
 					}
 				}
+				// TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document).
+				double tf = freq / (double)n;
+
+				cout << "Doc: " << id << " : (" 
+					 << tf << ", " 
+					 << idf << ", " 
+					 << tf * idf << ")" << endl;
 			}
 
-			// IDF(t) = log_e(Total number of documents / Number of documents with term t in it).
-			double idf = log(k / (double)pSize);
 
-			cout << "Term: " << t.t << endl;
 
 		}
 
