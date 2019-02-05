@@ -2,117 +2,142 @@
 #define MAIN_H
 
 #include <iostream>
-#include <fstream>
-#include <iomanip>
-#include <sstream>
-#include <map>
-#include <list>
 #include <vector>
-#include <string.h>
+#include <utility>
+#include <set>
+#include <cmath>
+#include <iomanip>
+#include <fstream>
+#include <sstream>
 
 using namespace std;
 
+typedef pair<int, int> posting; // (docId, freq of term in doc)
+typedef pair<int, int> termsInDoc; // (docId, total num terms in doc)
 
-void createIndex(){
-	ifstream input; 
-	int fileCount = 1;
-	map<int, int> mapDocs; // maps docNum, numTerms
+struct term{ 
+	string t; // term in index
+	set<int> ids; // num of docs with term
+	vector<posting> postings; // list of term postings
 
-	// used to take out stop words in data files
-	ifstream stopWords; vector<string>stopList;
-	stopWords.open("stoplist.txt");
-	if(stopWords.is_open()){
-		while(!stopWords.eof()){
-			string stop;
-			stopWords >> stop;
-			stopList.push_back(stop);
+	term(string text): t(text) {}; 
+
+};
+
+
+class docIndex{
+	private:
+		// check if term is in index
+		void addPosting(string text, int docId){
+			term t = text;
+			for(set<int>::iterator i=t.ids.begin(); i!=t.ids.end(); ++i){
+				if(*i == docId){
+					for(int j = 0; j < t.postings.size(); j++){
+						if(t.postings[j].first == docId){
+							t.postings[j].second++;
+							return;
+						}
+					}
+				}
+			}
+			t.ids.insert(docId);
+			posting p = make_pair(docId, 1);
+			t.postings.push_back(p);
 		}
-	}
-	stopWords.close();
-	cout << "   Stop Words vector created." << endl;
 
-	while (fileCount < 21){
-		ostringstream fileNum;
-	
-		// file name
-		fileNum << std::setw(2) << std::setfill('0') << fileCount;
-		string file = "./data/file" + fileNum.str() + ".txt";
-		input.open(file);
+		/*		
+			if term is in word index 
+			- display list of positings for that term
+			- for each posting, generate the term weightings (tf, idf, tf-idf) as such
+		*/
+		void print(string text, vector<termsInDoc> docs){
+			term t = text;
+			int k = 20; // total num of docs
+			int pSize = t.postings.size(); // num of docs with term
 
-		// read current document
-		if(input.is_open()){
-			int termCount = 0;
-			while(!input.eof()){
-				string term = ""; 
-				int stopFlag = false;
-
-				input >> term;
-				transform(term.begin(), term.end(), term.begin(), ::tolower); 
-				
-				// take out stop words then count terms
-				for(int i = 0; i < stopList.size(); i++){
-					if(strcmp(stopList[i].c_str(), term.c_str())==0){
-						//if term matches a stop word
-						stopFlag = true;
+			// TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document).
+			for(int i = 0; i < pSize; i++){
+				int id, n;
+				int freq = t.postings[i].second; // freq of term in doc
+				for(int j = 0; j < docs.size(); j++){
+					if(t.postings[i].first == docs[j].first){
+						id = docs[j].first;
+						n = docs[j].second;
 						break;
 					}
 				}
-				if(stopFlag) continue; // next term if curr is stop word
-
-				
-				// take out hyphenated words
-				// posting list
-
-				// batch of documents -> partial index -> index merge
-				// sorted list -> merge lists of the same
-
-				termCount++;
-
 			}
 
-			// document index
-			mapDocs.insert(pair<int,int>(fileCount,termCount));
+			// IDF(t) = log_e(Total number of documents / Number of documents with term t in it).
+			double idf = log(k / (double)pSize);
+
+			cout << "Term: " << t.t << endl;
 
 		}
-		input.close();
 
-		fileCount++;
-	}
 
-	// output to docIndex for 2nd index creation
-	ofstream output; output.open("docIndex.txt");
-	output << "Document Index contains:\n";
-	for (map<int,int>::iterator it=mapDocs.begin(); it!=mapDocs.end(); ++it)
-		output << "Doc: " << it->first << ": " << it->second << " terms\n";
-	cout << "   Document Index file created. " << endl;
+		void createIndex(){
+			ifstream input; 
+			int fileCount = 1;
 
-	output.close();
-}
+			while (fileCount < 21){
+				ostringstream fileNum;
+			
+				// file name
+				fileNum << std::setw(2) << std::setfill('0') << fileCount;
+				string file = "./data/file" + fileNum.str() + ".txt";
+				input.open(file);
+
+				// read current document
+				if(input.is_open()){
+					int termCount = 0;
+					while(!input.eof()){
+						string term = ""; 
+						int stopFlag = false;
+
+						input >> term;
+						transform(term.begin(), term.end(), term.begin(), ::tolower); 
+						
+						// take out stop words then count terms
+
+						// take out hyphenated words
+						// posting list
+
+						// batch of documents -> partial index -> index merge
+						// sorted list -> merge lists of the same
+
+						termCount++;
+
+					}
+
+					// document index
+
+				}
+				input.close();
+
+				fileCount++;
+			}
+
+		}
+
+	public:
+		docIndex(){
+			createIndex();
+		}
+
+};
 
 void test(string input){
 
-	// TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document).
-	// IDF(t) = log_e(Total number of documents / Number of documents with term t in it).
+	// int exists = docIndex::search(input);
+	// if(exists){	// if term is in index
+	// 	docIndex::print(exists);
 
-	/* if term is in index
-		display list of posting
-		generate (tf,idf, tf-idf)
-	if not in index
-		display message
-		return to main
-	*/
-
-
-	if(false){
-		// if term is in index
-		// 	display list of posting
-		// 	generate (tf,idf, tf-idf)
-	} else{
-		cout << "Term not found in index." << endl;
-		return;
-	}
+	// } else{
+	// 	cout << "Term not found in index." << endl;
+	// 	return;
+	// }
 
 }
-
 
 #endif

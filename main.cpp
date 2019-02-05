@@ -9,7 +9,7 @@ int main(){
 
 	// create index here
 	cout << "Creating index." << endl;
-	createIndex();
+	docIndex();
 	cout << "Index created." << endl << endl;
 
 
