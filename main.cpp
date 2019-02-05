@@ -9,8 +9,10 @@ int main(){
 
 	// create index here
 	cout << "Creating index." << endl;
-	docIndex();
+	docIndex *index = new docIndex();
+	index->print_index(); // testing purposes
 	cout << "Index created." << endl << endl;
+
 
 
 	cout << "Enter a term to query: " << endl;
@@ -20,7 +22,7 @@ int main(){
 
 	while (input != "quit"){
 		// test user input here
-		test(input);
+		index->test(input);
 
 		cout << endl;
 		cout << "Enter a term to query: " << endl;
