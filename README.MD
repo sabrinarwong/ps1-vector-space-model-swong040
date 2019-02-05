@@ -14,17 +14,19 @@ g++ -Wall -std=c++11 main.cpp -o main.out;
 // TBA
 
 ## About
-// short description of what is included in submission and how to run program
+Included in this repo is 
+	1. an excel sheet of Part 1
+	2. source code (main.cpp and main.h) to create indices and compute tf.idf for the term
+	3. the output file (docIndex.txt, postingList.txt, output.txt) of the indices created and tests ran.
+
+## Assumptions and Disclaimers
+	* Terms are not tokenized.
 
 
 ## Contributing
 Sabrina Wong
+swong040@ucr.edu
 861195047
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-## README - include a readme file:
-	a. describes the design of code
-	b. detailed instructions for running program
-	c. short description of what is included in submission and how to run program

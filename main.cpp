@@ -8,9 +8,9 @@ using namespace std;
 int main(){
 
 	// create index here
-	cout << "creating index." << endl;
+	cout << "Creating index." << endl;
 	createIndex();
-	cout << "index created." << endl << endl;
+	cout << "Index created." << endl << endl;
 
 
 	cout << "Enter a term to query: " << endl;
@@ -23,6 +23,7 @@ int main(){
 		test(input);
 
 		cout << endl;
+		cout << "Enter a term to query: " << endl;
 		cin >> input; transform(input.begin(), input.end(), input.begin(), ::tolower);
 	}
 
