@@ -10,9 +10,9 @@ int main(){
 	// create index here
 	cout << "Creating index." << endl;
 	docIndex *index = new docIndex();
-	index->print_index(); // testing purposes
-	cout << "Index created." << endl << endl;
 
+	// index->print_index(); // testing purposes
+	cout << "Index created." << endl << endl;
 
 
 	cout << "Enter a term to query: " << endl;

@@ -1,3 +1,8610 @@
 Document Index contains:
+Doc: 1: 470 terms
+Doc: 2: 431 terms
+Doc: 3: 346 terms
+Doc: 4: 419 terms
+Doc: 5: 495 terms
+Doc: 6: 313 terms
+Doc: 7: 363 terms
+Doc: 8: 350 terms
+Doc: 9: 456 terms
+Doc: 10: 337 terms
+Doc: 11: 505 terms
+Doc: 12: 525 terms
+Doc: 13: 542 terms
+Doc: 14: 525 terms
+Doc: 15: 373 terms
+Doc: 16: 432 terms
+Doc: 17: 472 terms
+Doc: 18: 365 terms
+Doc: 19: 479 terms
+Doc: 20: 491 terms
 
 Posting List contains:
+secret(1)
+    Doc: 1: 1 times
+lives(1)
+    Doc: 1: 2 times
+galaxies(2)
+    Doc: 1: 14 times
+    Doc: 9: 1 times
+unveiled(2)
+    Doc: 1: 1 times
+    Doc: 17: 1 times
+03(1)
+    Doc: 1: 1 times
+hubble(3)
+    Doc: 1: 7 times
+    Doc: 11: 4 times
+    Doc: 17: 5 times
+goes(3)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 20: 1 times
+deep(4)
+    Doc: 1: 2 times
+    Doc: 9: 1 times
+    Doc: 11: 1 times
+    Doc: 18: 12 times
+sample(1)
+    Doc: 1: 2 times
+young(3)
+    Doc: 1: 1 times
+    Doc: 15: 1 times
+    Doc: 18: 1 times
+view(2)
+    Doc: 1: 1 times
+    Doc: 17: 1 times
+all(5)
+    Doc: 1: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 12: 2 times
+    Doc: 20: 2 times
+images(8)
+    Doc: 1: 1 times
+    Doc: 7: 6 times
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+    Doc: 16: 2 times
+    Doc: 17: 4 times
+    Doc: 19: 1 times
+    Doc: 20: 5 times
+two(7)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 2 times
+    Doc: 12: 3 times
+    Doc: 14: 2 times
+    Doc: 20: 2 times
+nasas(1)
+    Doc: 1: 1 times
+great(4)
+    Doc: 1: 2 times
+    Doc: 3: 1 times
+    Doc: 12: 1 times
+    Doc: 20: 1 times
+observatories(2)
+    Doc: 1: 2 times
+    Doc: 12: 1 times
+bolstered(1)
+    Doc: 1: 1 times
+largest(3)
+    Doc: 1: 2 times
+    Doc: 9: 1 times
+    Doc: 17: 2 times
+based(9)
+    Doc: 1: 1 times
+    Doc: 2: 2 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 11: 1 times
+    Doc: 15: 1 times
+    Doc: 17: 3 times
+    Doc: 19: 2 times
+telescopes(4)
+    Doc: 1: 1 times
+    Doc: 12: 1 times
+    Doc: 17: 3 times
+    Doc: 19: 4 times
+around(6)
+    Doc: 1: 1 times
+    Doc: 8: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 4 times
+    Doc: 18: 3 times
+    Doc: 19: 2 times
+world(6)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+    Doc: 11: 1 times
+    Doc: 16: 4 times
+    Doc: 18: 2 times
+beginning(1)
+    Doc: 1: 1 times
+harvest(1)
+    Doc: 1: 1 times
+clues(1)
+    Doc: 1: 1 times
+origin(2)
+    Doc: 1: 1 times
+    Doc: 20: 1 times
+evolution(2)
+    Doc: 1: 3 times
+    Doc: 6: 1 times
+universes(1)
+    Doc: 1: 2 times
+building(2)
+    Doc: 1: 2 times
+    Doc: 3: 1 times
+block(1)
+    Doc: 1: 1 times
+bit(1)
+    Doc: 1: 1 times
+like(11)
+    Doc: 1: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+    Doc: 12: 3 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+    Doc: 17: 6 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+finding(3)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+family(2)
+    Doc: 1: 2 times
+    Doc: 7: 1 times
+scrapbook(1)
+    Doc: 1: 1 times
+containing(3)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+snapshots(2)
+    Doc: 1: 1 times
+    Doc: 17: 1 times
+capture(4)
+    Doc: 1: 1 times
+    Doc: 7: 1 times
+    Doc: 17: 2 times
+    Doc: 18: 1 times
+members(1)
+    Doc: 1: 1 times
+infancy(1)
+    Doc: 1: 1 times
+through(11)
+    Doc: 1: 2 times
+    Doc: 4: 2 times
+    Doc: 9: 1 times
+    Doc: 10: 3 times
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 15: 2 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+adolescence(1)
+    Doc: 1: 1 times
+adulthood(1)
+    Doc: 1: 1 times
+first(11)
+    Doc: 1: 1 times
+    Doc: 2: 2 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 2 times
+time(10)
+    Doc: 1: 4 times
+    Doc: 2: 1 times
+    Doc: 4: 7 times
+    Doc: 5: 5 times
+    Doc: 9: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 4 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+cosmic(3)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+tale(1)
+    Doc: 1: 1 times
+how(10)
+    Doc: 1: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 9: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 2 times
+    Doc: 16: 1 times
+    Doc: 20: 1 times
+build(2)
+    Doc: 1: 3 times
+    Doc: 12: 1 times
+themselves(2)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+been(11)
+    Doc: 1: 1 times
+    Doc: 2: 2 times
+    Doc: 6: 2 times
+    Doc: 8: 1 times
+    Doc: 9: 4 times
+    Doc: 10: 1 times
+    Doc: 11: 2 times
+    Doc: 12: 1 times
+    Doc: 13: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+traced(1)
+    Doc: 1: 1 times
+reliably(1)
+    Doc: 1: 1 times
+such(9)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 6: 1 times
+    Doc: 9: 1 times
+    Doc: 12: 2 times
+    Doc: 13: 1 times
+    Doc: 15: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+early(5)
+    Doc: 1: 4 times
+    Doc: 5: 1 times
+    Doc: 9: 1 times
+    Doc: 12: 1 times
+    Doc: 19: 1 times
+times(8)
+    Doc: 1: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 4 times
+    Doc: 18: 1 times
+    Doc: 19: 4 times
+life(6)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+says(1)
+    Doc: 1: 1 times
+mauro(1)
+    Doc: 1: 1 times
+giavalisco(1)
+    Doc: 1: 2 times
+head(1)
+    Doc: 1: 1 times
+space(18)
+    Doc: 1: 4 times
+    Doc: 2: 4 times
+    Doc: 3: 2 times
+    Doc: 4: 2 times
+    Doc: 5: 1 times
+    Doc: 7: 2 times
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 17 times
+    Doc: 12: 10 times
+    Doc: 13: 3 times
+    Doc: 14: 6 times
+    Doc: 15: 2 times
+    Doc: 16: 4 times
+    Doc: 17: 8 times
+    Doc: 18: 6 times
+    Doc: 19: 1 times
+    Doc: 20: 3 times
+telescope(4)
+    Doc: 1: 4 times
+    Doc: 11: 2 times
+    Doc: 17: 7 times
+    Doc: 19: 3 times
+portion(3)
+    Doc: 1: 1 times
+    Doc: 6: 1 times
+    Doc: 19: 2 times
+survey(1)
+    Doc: 1: 4 times
+research(16)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 3: 5 times
+    Doc: 4: 2 times
+    Doc: 5: 3 times
+    Doc: 6: 3 times
+    Doc: 7: 2 times
+    Doc: 8: 2 times
+    Doc: 9: 1 times
+    Doc: 10: 5 times
+    Doc: 11: 5 times
+    Doc: 12: 1 times
+    Doc: 14: 2 times
+    Doc: 16: 2 times
+    Doc: 17: 1 times
+    Doc: 20: 2 times
+astronomer(3)
+    Doc: 1: 1 times
+    Doc: 11: 1 times
+    Doc: 18: 1 times
+science(10)
+    Doc: 1: 1 times
+    Doc: 4: 2 times
+    Doc: 7: 1 times
+    Doc: 11: 10 times
+    Doc: 14: 6 times
+    Doc: 15: 10 times
+    Doc: 16: 4 times
+    Doc: 17: 6 times
+    Doc: 18: 2 times
+    Doc: 20: 3 times
+institute(10)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 2 times
+    Doc: 14: 2 times
+    Doc: 17: 3 times
+    Doc: 18: 1 times
+    Doc: 19: 2 times
+    Doc: 20: 4 times
+stsci(2)
+    Doc: 1: 3 times
+    Doc: 17: 2 times
+baltimore(2)
+    Doc: 1: 1 times
+    Doc: 17: 1 times
+md(6)
+    Doc: 1: 1 times
+    Doc: 13: 2 times
+    Doc: 16: 2 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+so(9)
+    Doc: 1: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 2 times
+    Doc: 8: 1 times
+    Doc: 9: 3 times
+    Doc: 11: 1 times
+    Doc: 14: 1 times
+    Doc: 17: 3 times
+    Doc: 20: 2 times
+far(4)
+    Doc: 1: 2 times
+    Doc: 3: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+joined(3)
+    Doc: 1: 2 times
+    Doc: 11: 1 times
+    Doc: 15: 1 times
+forces(1)
+    Doc: 1: 1 times
+chandra(2)
+    Doc: 1: 6 times
+    Doc: 9: 9 times
+ray(6)
+    Doc: 1: 4 times
+    Doc: 9: 5 times
+    Doc: 13: 3 times
+    Doc: 14: 2 times
+    Doc: 17: 1 times
+    Doc: 19: 13 times
+observatory(4)
+    Doc: 1: 2 times
+    Doc: 9: 2 times
+    Doc: 13: 1 times
+    Doc: 17: 5 times
+relatively(1)
+    Doc: 1: 2 times
+broad(1)
+    Doc: 1: 1 times
+swath(1)
+    Doc: 1: 1 times
+sky(2)
+    Doc: 1: 1 times
+    Doc: 16: 1 times
+encompassing(1)
+    Doc: 1: 1 times
+tens(1)
+    Doc: 1: 1 times
+thousands(4)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+stretching(1)
+    Doc: 1: 1 times
+back(6)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 1 times
+    Doc: 15: 2 times
+    Doc: 17: 1 times
+into(10)
+    Doc: 1: 2 times
+    Doc: 2: 3 times
+    Doc: 5: 3 times
+    Doc: 9: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 3 times
+    Doc: 18: 2 times
+    Doc: 19: 4 times
+unprecedented(1)
+    Doc: 1: 1 times
+soon(4)
+    Doc: 1: 2 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 13: 1 times
+infrared(4)
+    Doc: 1: 1 times
+    Doc: 11: 1 times
+    Doc: 16: 1 times
+    Doc: 20: 1 times
+facility(2)
+    Doc: 1: 1 times
+    Doc: 6: 1 times
+sirtf(1)
+    Doc: 1: 1 times
+launched(3)
+    Doc: 1: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+august(3)
+    Doc: 1: 1 times
+    Doc: 7: 1 times
+    Doc: 11: 1 times
+2003(13)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 2 times
+    Doc: 19: 2 times
+    Doc: 20: 1 times
+called(5)
+    Doc: 1: 1 times
+    Doc: 2: 2 times
+    Doc: 7: 1 times
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+origins(1)
+    Doc: 1: 1 times
+goods(1)
+    Doc: 1: 5 times
+astronomers(3)
+    Doc: 1: 4 times
+    Doc: 9: 3 times
+    Doc: 17: 4 times
+studying(2)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+galaxy(2)
+    Doc: 1: 3 times
+    Doc: 9: 3 times
+formation(5)
+    Doc: 1: 2 times
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+over(8)
+    Doc: 1: 3 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+    Doc: 16: 2 times
+    Doc: 20: 2 times
+wide(3)
+    Doc: 1: 1 times
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+range(6)
+    Doc: 1: 1 times
+    Doc: 3: 1 times
+    Doc: 10: 2 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+distances(1)
+    Doc: 1: 1 times
+ages(1)
+    Doc: 1: 1 times
+project(10)
+    Doc: 1: 2 times
+    Doc: 2: 1 times
+    Doc: 6: 2 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 12: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+tracing(1)
+    Doc: 1: 1 times
+assembly(2)
+    Doc: 1: 1 times
+    Doc: 12: 1 times
+history(2)
+    Doc: 1: 2 times
+    Doc: 18: 1 times
+stellar(2)
+    Doc: 1: 1 times
+    Doc: 17: 1 times
+populations(1)
+    Doc: 1: 1 times
+gusher(1)
+    Doc: 1: 1 times
+energy(5)
+    Doc: 1: 2 times
+    Doc: 3: 1 times
+    Doc: 9: 4 times
+    Doc: 14: 2 times
+    Doc: 19: 2 times
+star(5)
+    Doc: 1: 3 times
+    Doc: 9: 1 times
+    Doc: 13: 5 times
+    Doc: 17: 6 times
+    Doc: 19: 4 times
+active(1)
+    Doc: 1: 2 times
+nuclei(1)
+    Doc: 1: 1 times
+powered(1)
+    Doc: 1: 1 times
+immense(1)
+    Doc: 1: 2 times
+black(3)
+    Doc: 1: 7 times
+    Doc: 9: 9 times
+    Doc: 19: 5 times
+holes(2)
+    Doc: 1: 6 times
+    Doc: 9: 1 times
+preliminary(1)
+    Doc: 1: 1 times
+results(5)
+    Doc: 1: 5 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 20: 4 times
+published(3)
+    Doc: 1: 2 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+astrophysical(1)
+    Doc: 1: 2 times
+journal(4)
+    Doc: 1: 2 times
+    Doc: 13: 1 times
+    Doc: 14: 2 times
+    Doc: 20: 1 times
+report(3)
+    Doc: 1: 1 times
+    Doc: 13: 2 times
+    Doc: 14: 2 times
+sizes(1)
+    Doc: 1: 3 times
+clearly(1)
+    Doc: 1: 1 times
+increase(4)
+    Doc: 1: 2 times
+    Doc: 3: 1 times
+    Doc: 7: 2 times
+    Doc: 15: 1 times
+continuously(2)
+    Doc: 1: 1 times
+    Doc: 10: 1 times
+universe(5)
+    Doc: 1: 8 times
+    Doc: 9: 3 times
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+1(4)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 18: 4 times
+    Doc: 20: 1 times
+billion(2)
+    Doc: 1: 6 times
+    Doc: 9: 2 times
+years(11)
+    Doc: 1: 7 times
+    Doc: 2: 1 times
+    Doc: 9: 4 times
+    Doc: 10: 2 times
+    Doc: 11: 1 times
+    Doc: 12: 3 times
+    Doc: 13: 1 times
+    Doc: 14: 2 times
+    Doc: 15: 1 times
+    Doc: 17: 2 times
+    Doc: 20: 2 times
+old(2)
+    Doc: 1: 3 times
+    Doc: 2: 1 times
+age(1)
+    Doc: 1: 4 times
+6(3)
+    Doc: 1: 1 times
+    Doc: 15: 1 times
+    Doc: 20: 1 times
+approximately(6)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 5: 2 times
+    Doc: 10: 1 times
+    Doc: 15: 2 times
+    Doc: 17: 1 times
+half(4)
+    Doc: 1: 2 times
+    Doc: 12: 1 times
+    Doc: 17: 2 times
+    Doc: 19: 1 times
+current(5)
+    Doc: 1: 2 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+7(3)
+    Doc: 1: 2 times
+    Doc: 10: 1 times
+    Doc: 15: 1 times
+also(15)
+    Doc: 1: 3 times
+    Doc: 2: 2 times
+    Doc: 3: 1 times
+    Doc: 4: 2 times
+    Doc: 5: 3 times
+    Doc: 7: 1 times
+    Doc: 8: 2 times
+    Doc: 9: 1 times
+    Doc: 10: 2 times
+    Doc: 11: 1 times
+    Doc: 12: 2 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 2 times
+    Doc: 20: 1 times
+find(3)
+    Doc: 1: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+birth(2)
+    Doc: 1: 1 times
+    Doc: 19: 3 times
+rate(2)
+    Doc: 1: 2 times
+    Doc: 13: 2 times
+rose(1)
+    Doc: 1: 1 times
+mildly(1)
+    Doc: 1: 1 times
+factor(1)
+    Doc: 1: 1 times
+3(3)
+    Doc: 1: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+between(9)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 4: 2 times
+    Doc: 6: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 2 times
+    Doc: 15: 1 times
+    Doc: 17: 2 times
+    Doc: 18: 1 times
+5(3)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+remained(2)
+    Doc: 1: 1 times
+    Doc: 9: 2 times
+high(4)
+    Doc: 1: 1 times
+    Doc: 3: 2 times
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+until(3)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+ago(4)
+    Doc: 1: 1 times
+    Doc: 10: 1 times
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+when(11)
+    Doc: 1: 3 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 3 times
+    Doc: 11: 1 times
+    Doc: 12: 2 times
+    Doc: 17: 2 times
+    Doc: 18: 1 times
+    Doc: 20: 2 times
+quickly(2)
+    Doc: 1: 2 times
+    Doc: 11: 1 times
+dropped(1)
+    Doc: 1: 1 times
+tenth(1)
+    Doc: 1: 1 times
+earlier(3)
+    Doc: 1: 1 times
+    Doc: 11: 1 times
+    Doc: 20: 1 times
+baby(1)
+    Doc: 1: 1 times
+boomer(1)
+    Doc: 1: 1 times
+further(4)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 9: 1 times
+evidence(3)
+    Doc: 1: 1 times
+    Doc: 9: 2 times
+    Doc: 20: 1 times
+major(4)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 6: 1 times
+    Doc: 15: 1 times
+trailed(1)
+    Doc: 1: 1 times
+off(4)
+    Doc: 1: 1 times
+    Doc: 3: 1 times
+    Doc: 8: 1 times
+    Doc: 15: 1 times
+size(3)
+    Doc: 1: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+consistent(1)
+    Doc: 1: 2 times
+up(9)
+    Doc: 1: 1 times
+    Doc: 3: 2 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 11: 2 times
+    Doc: 12: 5 times
+    Doc: 13: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 2 times
+models(1)
+    Doc: 1: 1 times
+where(11)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 2 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 2 times
+grow(2)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+hierarchically(1)
+    Doc: 1: 1 times
+mergers(1)
+    Doc: 1: 1 times
+accretion(2)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+smaller(2)
+    Doc: 1: 1 times
+    Doc: 18: 2 times
+satellite(4)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 16: 4 times
+    Doc: 19: 3 times
+idea(1)
+    Doc: 1: 1 times
+match(1)
+    Doc: 1: 1 times
+glove(2)
+    Doc: 1: 1 times
+    Doc: 10: 1 times
+certain(1)
+    Doc: 1: 1 times
+fraction(2)
+    Doc: 1: 1 times
+    Doc: 18: 1 times
+matter(2)
+    Doc: 1: 4 times
+    Doc: 19: 1 times
+halos(1)
+    Doc: 1: 1 times
+dark(3)
+    Doc: 1: 2 times
+    Doc: 7: 1 times
+    Doc: 20: 4 times
+invisible(1)
+    Doc: 1: 2 times
+form(7)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 12: 1 times
+    Doc: 20: 1 times
+mass(4)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+comprises(1)
+    Doc: 1: 1 times
+most(8)
+    Doc: 1: 3 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 11: 2 times
+    Doc: 16: 1 times
+    Doc: 17: 2 times
+    Doc: 19: 2 times
+theory(4)
+    Doc: 1: 1 times
+    Doc: 10: 1 times
+    Doc: 13: 2 times
+    Doc: 19: 1 times
+essentially(2)
+    Doc: 1: 1 times
+    Doc: 8: 1 times
+pooled(1)
+    Doc: 1: 1 times
+gravitational(2)
+    Doc: 1: 1 times
+    Doc: 13: 13 times
+puddles(1)
+    Doc: 1: 1 times
+then(7)
+    Doc: 1: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 9: 1 times
+    Doc: 12: 1 times
+    Doc: 14: 2 times
+    Doc: 19: 2 times
+collected(2)
+    Doc: 1: 1 times
+    Doc: 6: 1 times
+normal(3)
+    Doc: 1: 1 times
+    Doc: 2: 2 times
+    Doc: 3: 1 times
+gas(4)
+    Doc: 1: 3 times
+    Doc: 9: 18 times
+    Doc: 13: 1 times
+    Doc: 17: 3 times
+contracted(1)
+    Doc: 1: 1 times
+clusters(2)
+    Doc: 1: 1 times
+    Doc: 9: 4 times
+small(8)
+    Doc: 1: 2 times
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 17: 2 times
+    Doc: 18: 1 times
+    Doc: 20: 3 times
+these(13)
+    Doc: 1: 2 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 7: 2 times
+    Doc: 9: 5 times
+    Doc: 10: 2 times
+    Doc: 12: 2 times
+    Doc: 13: 3 times
+    Doc: 14: 3 times
+    Doc: 16: 4 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+dwarf(2)
+    Doc: 1: 1 times
+    Doc: 17: 1 times
+merged(1)
+    Doc: 1: 1 times
+piece(1)
+    Doc: 1: 1 times
+billions(2)
+    Doc: 1: 1 times
+    Doc: 7: 1 times
+spiral(1)
+    Doc: 1: 1 times
+elliptical(1)
+    Doc: 1: 1 times
+we(15)
+    Doc: 1: 2 times
+    Doc: 3: 1 times
+    Doc: 5: 4 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 2 times
+    Doc: 10: 2 times
+    Doc: 11: 1 times
+    Doc: 12: 5 times
+    Doc: 13: 1 times
+    Doc: 14: 3 times
+    Doc: 15: 3 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 2 times
+see(4)
+    Doc: 1: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 3 times
+    Doc: 20: 2 times
+today(4)
+    Doc: 1: 1 times
+    Doc: 7: 1 times
+    Doc: 11: 1 times
+    Doc: 17: 1 times
+observations(2)
+    Doc: 1: 1 times
+    Doc: 9: 3 times
+amounted(1)
+    Doc: 1: 1 times
+core(3)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+allowing(1)
+    Doc: 1: 1 times
+us(8)
+    Doc: 1: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 2 times
+    Doc: 6: 1 times
+    Doc: 11: 1 times
+    Doc: 14: 1 times
+    Doc: 19: 2 times
+    Doc: 20: 1 times
+study(6)
+    Doc: 1: 1 times
+    Doc: 5: 2 times
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+almost(5)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+entire(1)
+    Doc: 1: 1 times
+niel(1)
+    Doc: 1: 1 times
+brandt(1)
+    Doc: 1: 1 times
+penn(1)
+    Doc: 1: 1 times
+state(4)
+    Doc: 1: 1 times
+    Doc: 14: 2 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+university(7)
+    Doc: 1: 1 times
+    Doc: 5: 2 times
+    Doc: 11: 1 times
+    Doc: 13: 3 times
+    Doc: 14: 4 times
+    Doc: 18: 2 times
+    Doc: 20: 7 times
+investigator(7)
+    Doc: 1: 2 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 18: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+team(8)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 10: 2 times
+    Doc: 12: 3 times
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+studied(3)
+    Doc: 1: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+fascinating(1)
+    Doc: 1: 1 times
+findings(4)
+    Doc: 1: 2 times
+    Doc: 14: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+deepest(2)
+    Doc: 1: 1 times
+    Doc: 9: 2 times
+image(3)
+    Doc: 1: 1 times
+    Doc: 7: 6 times
+    Doc: 17: 1 times
+ever(4)
+    Doc: 1: 2 times
+    Doc: 9: 2 times
+    Doc: 11: 1 times
+    Doc: 17: 1 times
+taken(5)
+    Doc: 1: 1 times
+    Doc: 5: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 2 times
+    Doc: 20: 1 times
+discovery(3)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 18: 2 times
+mysterious(2)
+    Doc: 1: 2 times
+    Doc: 19: 1 times
+no(6)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 9: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+optical(4)
+    Doc: 1: 3 times
+    Doc: 5: 1 times
+    Doc: 17: 2 times
+    Doc: 19: 1 times
+counterparts(1)
+    Doc: 1: 1 times
+found(5)
+    Doc: 1: 3 times
+    Doc: 6: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 4 times
+    Doc: 14: 2 times
+seven(4)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+    Doc: 18: 1 times
+sources(5)
+    Doc: 1: 1 times
+    Doc: 6: 1 times
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+    Doc: 20: 1 times
+completely(1)
+    Doc: 1: 1 times
+anton(1)
+    Doc: 1: 1 times
+koekemoer(1)
+    Doc: 1: 2 times
+both(3)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 7: 2 times
+teams(3)
+    Doc: 1: 2 times
+    Doc: 12: 1 times
+    Doc: 15: 2 times
+compared(2)
+    Doc: 1: 1 times
+    Doc: 14: 1 times
+reslts(1)
+    Doc: 1: 1 times
+either(2)
+    Doc: 1: 1 times
+    Doc: 7: 1 times
+distant(1)
+    Doc: 1: 3 times
+detected(3)
+    Doc: 1: 1 times
+    Doc: 9: 4 times
+    Doc: 13: 2 times
+less(3)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 13: 1 times
+dust(2)
+    Doc: 1: 1 times
+    Doc: 17: 1 times
+enshrouded(1)
+    Doc: 1: 1 times
+known(4)
+    Doc: 1: 1 times
+    Doc: 5: 1 times
+    Doc: 12: 1 times
+    Doc: 14: 1 times
+surprising(1)
+    Doc: 1: 1 times
+result(3)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 7: 1 times
+well(6)
+    Doc: 1: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 11: 1 times
+    Doc: 19: 1 times
+comparing(1)
+    Doc: 1: 1 times
+fields(3)
+    Doc: 1: 1 times
+    Doc: 4: 2 times
+    Doc: 19: 1 times
+were(6)
+    Doc: 1: 1 times
+    Doc: 6: 1 times
+    Doc: 10: 1 times
+    Doc: 12: 2 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+rarer(1)
+    Doc: 1: 1 times
+than(11)
+    Doc: 1: 1 times
+    Doc: 2: 4 times
+    Doc: 7: 3 times
+    Doc: 9: 3 times
+    Doc: 11: 2 times
+    Doc: 13: 3 times
+    Doc: 14: 6 times
+    Doc: 15: 1 times
+    Doc: 16: 3 times
+    Doc: 17: 1 times
+    Doc: 19: 5 times
+expected(6)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 10: 1 times
+    Doc: 13: 1 times
+    Doc: 15: 1 times
+    Doc: 18: 1 times
+may(12)
+    Doc: 1: 1 times
+    Doc: 3: 2 times
+    Doc: 4: 4 times
+    Doc: 5: 4 times
+    Doc: 8: 1 times
+    Doc: 9: 3 times
+    Doc: 10: 1 times
+    Doc: 13: 4 times
+    Doc: 16: 1 times
+    Doc: 17: 3 times
+    Doc: 18: 5 times
+    Doc: 19: 1 times
+due(3)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 8: 1 times
+effects(3)
+    Doc: 1: 1 times
+    Doc: 2: 1 times
+    Doc: 8: 1 times
+generations(1)
+    Doc: 1: 1 times
+massive(4)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 2 times
+    Doc: 19: 3 times
+stars(4)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 2 times
+    Doc: 19: 1 times
+exploded(2)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+supernovae(2)
+    Doc: 1: 1 times
+    Doc: 9: 1 times
+evacuating(1)
+    Doc: 1: 1 times
+galactic(1)
+    Doc: 1: 1 times
+thus(2)
+    Doc: 1: 1 times
+    Doc: 3: 1 times
+reducing(3)
+    Doc: 1: 1 times
+    Doc: 5: 2 times
+    Doc: 10: 1 times
+supply(2)
+    Doc: 1: 1 times
+    Doc: 8: 2 times
+needed(3)
+    Doc: 1: 1 times
+    Doc: 4: 1 times
+    Doc: 9: 1 times
+feed(1)
+    Doc: 1: 1 times
+supermassive(1)
+    Doc: 1: 1 times
+hole(4)
+    Doc: 1: 1 times
+    Doc: 9: 8 times
+    Doc: 17: 1 times
+    Doc: 19: 5 times
+other(15)
+    Doc: 1: 1 times
+    Doc: 2: 2 times
+    Doc: 4: 2 times
+    Doc: 6: 2 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 4 times
+    Doc: 14: 1 times
+    Doc: 16: 5 times
+    Doc: 17: 1 times
+    Doc: 18: 2 times
+    Doc: 20: 2 times
+special(2)
+    Doc: 1: 1 times
+    Doc: 12: 1 times
+issue(4)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+letters(1)
+    Doc: 1: 1 times
+entirely(4)
+    Doc: 1: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+devoted(1)
+    Doc: 1: 1 times
+papers(1)
+    Doc: 1: 2 times
+led(2)
+    Doc: 1: 2 times
+    Doc: 16: 1 times
+stefano(1)
+    Doc: 1: 1 times
+cristiani(1)
+    Doc: 1: 1 times
+trieste(1)
+    Doc: 1: 1 times
+astronomical(1)
+    Doc: 1: 1 times
+hubbles(1)
+    Doc: 1: 1 times
+came(2)
+    Doc: 1: 1 times
+    Doc: 11: 1 times
+mark(1)
+    Doc: 1: 1 times
+dickinson(1)
+    Doc: 1: 1 times
+harry(1)
+    Doc: 1: 1 times
+ferguson(1)
+    Doc: 1: 1 times
+michael(9)
+    Doc: 2: 2 times
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 13: 1 times
+    Doc: 18: 2 times
+braukus(7)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+headquarters(19)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 2 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 2 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 2 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 2 times
+    Doc: 20: 1 times
+washington(19)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 3 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 2 times
+    Doc: 11: 5 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 2 times
+    Doc: 15: 2 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 2 times
+    Doc: 19: 2 times
+    Doc: 20: 2 times
+dc(5)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 3 times
+    Doc: 7: 1 times
+    Doc: 18: 1 times
+february(3)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+    Doc: 18: 1 times
+18(1)
+    Doc: 2: 1 times
+1999(4)
+    Doc: 2: 3 times
+    Doc: 7: 1 times
+    Doc: 11: 1 times
+    Doc: 18: 1 times
+phone(19)
+    Doc: 2: 2 times
+    Doc: 3: 2 times
+    Doc: 4: 2 times
+    Doc: 5: 2 times
+    Doc: 6: 2 times
+    Doc: 7: 2 times
+    Doc: 8: 2 times
+    Doc: 9: 3 times
+    Doc: 10: 3 times
+    Doc: 11: 2 times
+    Doc: 12: 2 times
+    Doc: 13: 2 times
+    Doc: 14: 2 times
+    Doc: 15: 1 times
+    Doc: 16: 2 times
+    Doc: 17: 3 times
+    Doc: 18: 3 times
+    Doc: 19: 2 times
+    Doc: 20: 3 times
+1979(8)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+john(7)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 11: 4 times
+    Doc: 18: 2 times
+ira(1)
+    Doc: 2: 1 times
+petty(1)
+    Doc: 2: 1 times
+johnson(4)
+    Doc: 2: 3 times
+    Doc: 11: 2 times
+    Doc: 12: 2 times
+    Doc: 14: 1 times
+center(17)
+    Doc: 2: 3 times
+    Doc: 3: 2 times
+    Doc: 5: 6 times
+    Doc: 6: 2 times
+    Doc: 7: 2 times
+    Doc: 8: 2 times
+    Doc: 9: 2 times
+    Doc: 10: 4 times
+    Doc: 11: 2 times
+    Doc: 12: 2 times
+    Doc: 13: 2 times
+    Doc: 14: 2 times
+    Doc: 15: 1 times
+    Doc: 16: 2 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+houston(5)
+    Doc: 2: 3 times
+    Doc: 11: 3 times
+    Doc: 12: 2 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+tx(1)
+    Doc: 2: 2 times
+5111(3)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+release(19)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 2 times
+22(2)
+    Doc: 2: 1 times
+    Doc: 6: 1 times
+heart(2)
+    Doc: 2: 11 times
+    Doc: 3: 1 times
+assist(2)
+    Doc: 2: 3 times
+    Doc: 11: 1 times
+pump(1)
+    Doc: 2: 13 times
+effective(4)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 11: 1 times
+    Doc: 15: 1 times
+european(3)
+    Doc: 2: 2 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+trials(2)
+    Doc: 2: 4 times
+    Doc: 5: 1 times
+miniaturized(1)
+    Doc: 2: 1 times
+developed(7)
+    Doc: 2: 1 times
+    Doc: 4: 2 times
+    Doc: 5: 2 times
+    Doc: 6: 2 times
+    Doc: 7: 2 times
+    Doc: 8: 2 times
+    Doc: 12: 1 times
+patients(2)
+    Doc: 2: 7 times
+    Doc: 5: 3 times
+using(8)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 12: 3 times
+    Doc: 13: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+nasa(19)
+    Doc: 2: 8 times
+    Doc: 3: 7 times
+    Doc: 4: 14 times
+    Doc: 5: 6 times
+    Doc: 6: 4 times
+    Doc: 7: 6 times
+    Doc: 8: 7 times
+    Doc: 9: 1 times
+    Doc: 10: 7 times
+    Doc: 11: 12 times
+    Doc: 12: 3 times
+    Doc: 13: 2 times
+    Doc: 14: 8 times
+    Doc: 15: 20 times
+    Doc: 16: 7 times
+    Doc: 17: 4 times
+    Doc: 18: 8 times
+    Doc: 19: 4 times
+    Doc: 20: 5 times
+technology(14)
+    Doc: 2: 6 times
+    Doc: 3: 3 times
+    Doc: 4: 8 times
+    Doc: 5: 8 times
+    Doc: 7: 15 times
+    Doc: 8: 7 times
+    Doc: 10: 2 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 2 times
+    Doc: 15: 10 times
+    Doc: 18: 2 times
+    Doc: 19: 2 times
+    Doc: 20: 1 times
+successfully(2)
+    Doc: 2: 1 times
+    Doc: 7: 1 times
+implanted(1)
+    Doc: 2: 3 times
+people(6)
+    Doc: 2: 2 times
+    Doc: 4: 2 times
+    Doc: 7: 1 times
+    Doc: 10: 1 times
+    Doc: 15: 1 times
+    Doc: 18: 3 times
+clinical(2)
+    Doc: 2: 3 times
+    Doc: 5: 3 times
+20(5)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+additional(6)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 6: 2 times
+    Doc: 9: 1 times
+    Doc: 11: 1 times
+    Doc: 14: 1 times
+implants(1)
+    Doc: 2: 1 times
+tiny(1)
+    Doc: 2: 1 times
+device(2)
+    Doc: 2: 4 times
+    Doc: 5: 1 times
+functioned(1)
+    Doc: 2: 1 times
+normally(1)
+    Doc: 2: 1 times
+specification(1)
+    Doc: 2: 1 times
+dallas(1)
+    Doc: 2: 1 times
+anderson(2)
+    Doc: 2: 3 times
+    Doc: 15: 1 times
+president(4)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+ceo(2)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+micromed(1)
+    Doc: 2: 4 times
+inc(3)
+    Doc: 2: 1 times
+    Doc: 8: 2 times
+    Doc: 17: 1 times
+company(7)
+    Doc: 2: 3 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+granted(1)
+    Doc: 2: 2 times
+exclusive(1)
+    Doc: 2: 2 times
+rights(1)
+    Doc: 2: 2 times
+specific(2)
+    Doc: 2: 1 times
+    Doc: 10: 1 times
+medical(2)
+    Doc: 2: 1 times
+    Doc: 5: 3 times
+information(15)
+    Doc: 2: 1 times
+    Doc: 4: 4 times
+    Doc: 5: 3 times
+    Doc: 6: 7 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 4 times
+    Doc: 16: 5 times
+    Doc: 17: 2 times
+    Doc: 18: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 2 times
+individual(2)
+    Doc: 2: 1 times
+    Doc: 20: 1 times
+confidential(1)
+    Doc: 2: 1 times
+person(1)
+    Doc: 2: 1 times
+undergone(1)
+    Doc: 2: 1 times
+successful(4)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 11: 1 times
+transplant(1)
+    Doc: 2: 5 times
+after(8)
+    Doc: 2: 4 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 11: 2 times
+    Doc: 12: 2 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 4 times
+75(2)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+days(3)
+    Doc: 2: 1 times
+    Doc: 11: 2 times
+    Doc: 19: 1 times
+chest(1)
+    Doc: 2: 2 times
+demonstrates(2)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+capability(4)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 16: 2 times
+    Doc: 19: 1 times
+keep(1)
+    Doc: 2: 1 times
+patient(2)
+    Doc: 2: 2 times
+    Doc: 5: 1 times
+alive(1)
+    Doc: 2: 1 times
+donor(1)
+    Doc: 2: 4 times
+becomes(2)
+    Doc: 2: 1 times
+    Doc: 13: 1 times
+available(11)
+    Doc: 2: 2 times
+    Doc: 3: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 11: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 2 times
+    Doc: 18: 2 times
+    Doc: 20: 1 times
+initially(1)
+    Doc: 2: 1 times
+debakey(1)
+    Doc: 2: 4 times
+part(7)
+    Doc: 2: 1 times
+    Doc: 6: 2 times
+    Doc: 11: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 2 times
+    Doc: 18: 2 times
+used(11)
+    Doc: 2: 2 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 6: 3 times
+    Doc: 7: 2 times
+    Doc: 8: 2 times
+    Doc: 12: 5 times
+    Doc: 14: 3 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+shuttle(3)
+    Doc: 2: 3 times
+    Doc: 11: 5 times
+    Doc: 12: 1 times
+fuel(1)
+    Doc: 2: 1 times
+pumps(1)
+    Doc: 2: 2 times
+intended(1)
+    Doc: 2: 2 times
+longterm(1)
+    Doc: 2: 1 times
+bridge(1)
+    Doc: 2: 1 times
+permanent(1)
+    Doc: 2: 1 times
+help(8)
+    Doc: 2: 2 times
+    Doc: 5: 1 times
+    Doc: 6: 2 times
+    Doc: 7: 2 times
+    Doc: 11: 1 times
+    Doc: 12: 3 times
+    Doc: 15: 3 times
+    Doc: 16: 1 times
+toward(2)
+    Doc: 2: 1 times
+    Doc: 17: 2 times
+recovery(1)
+    Doc: 2: 1 times
+leading(2)
+    Doc: 2: 1 times
+    Doc: 16: 1 times
+million(5)
+    Doc: 2: 1 times
+    Doc: 9: 3 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 19: 1 times
+americans(1)
+    Doc: 2: 1 times
+suffer(1)
+    Doc: 2: 1 times
+failure(1)
+    Doc: 2: 3 times
+annually(3)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 15: 1 times
+000(7)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 5: 2 times
+    Doc: 13: 3 times
+    Doc: 15: 2 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+need(5)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 12: 3 times
+transplants(1)
+    Doc: 2: 1 times
+each(6)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 12: 4 times
+    Doc: 14: 1 times
+    Doc: 18: 1 times
+year(5)
+    Doc: 2: 1 times
+    Doc: 7: 3 times
+    Doc: 11: 2 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+only(7)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 2 times
+    Doc: 13: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+500(1)
+    Doc: 2: 1 times
+hearts(1)
+    Doc: 2: 1 times
+concept(3)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 12: 4 times
+began(1)
+    Doc: 2: 2 times
+talks(1)
+    Doc: 2: 1 times
+baylor(1)
+    Doc: 2: 2 times
+college(2)
+    Doc: 2: 2 times
+    Doc: 18: 1 times
+medicine(1)
+    Doc: 2: 2 times
+dr(12)
+    Doc: 2: 3 times
+    Doc: 4: 2 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 11: 2 times
+    Doc: 12: 1 times
+    Doc: 14: 4 times
+    Doc: 15: 3 times
+    Doc: 18: 1 times
+    Doc: 19: 3 times
+    Doc: 20: 5 times
+engineer(2)
+    Doc: 2: 1 times
+    Doc: 11: 2 times
+david(2)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+saucier(1)
+    Doc: 2: 6 times
+worked(2)
+    Doc: 2: 2 times
+    Doc: 12: 1 times
+knew(1)
+    Doc: 2: 2 times
+hand(3)
+    Doc: 2: 1 times
+    Doc: 12: 3 times
+    Doc: 14: 1 times
+urgency(1)
+    Doc: 2: 2 times
+feel(2)
+    Doc: 2: 1 times
+    Doc: 15: 1 times
+waiting(1)
+    Doc: 2: 2 times
+six(3)
+    Doc: 2: 1 times
+    Doc: 12: 1 times
+    Doc: 20: 1 times
+months(2)
+    Doc: 2: 1 times
+    Doc: 20: 1 times
+1984(2)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+work(5)
+    Doc: 2: 1 times
+    Doc: 7: 1 times
+    Doc: 10: 2 times
+    Doc: 11: 3 times
+    Doc: 12: 8 times
+fellow(2)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+employees(1)
+    Doc: 2: 1 times
+george(2)
+    Doc: 2: 1 times
+    Doc: 19: 1 times
+noon(1)
+    Doc: 2: 1 times
+staff(1)
+    Doc: 2: 1 times
+evenings(1)
+    Doc: 2: 1 times
+weekends(1)
+    Doc: 2: 1 times
+initial(1)
+    Doc: 2: 1 times
+design(3)
+    Doc: 2: 1 times
+    Doc: 10: 1 times
+    Doc: 12: 1 times
+during(12)
+    Doc: 2: 1 times
+    Doc: 3: 3 times
+    Doc: 4: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 5 times
+    Doc: 12: 1 times
+    Doc: 14: 2 times
+    Doc: 15: 2 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+effort(4)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+since(5)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 6: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 1 times
+my(1)
+    Doc: 2: 1 times
+own(3)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 12: 2 times
+i(4)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 11: 4 times
+    Doc: 12: 1 times
+spent(2)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+lot(1)
+    Doc: 2: 1 times
+visiting(2)
+    Doc: 2: 1 times
+    Doc: 18: 1 times
+felt(1)
+    Doc: 2: 1 times
+sense(1)
+    Doc: 2: 1 times
+develop(5)
+    Doc: 2: 4 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 11: 1 times
+funding(2)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+1992(2)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+died(1)
+    Doc: 2: 1 times
+1996(2)
+    Doc: 2: 2 times
+    Doc: 11: 2 times
+remarkable(2)
+    Doc: 2: 1 times
+    Doc: 8: 1 times
+operated(3)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 17: 2 times
+2(3)
+    Doc: 2: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+inches(3)
+    Doc: 2: 1 times
+    Doc: 4: 2 times
+    Doc: 16: 3 times
+long(4)
+    Doc: 2: 2 times
+    Doc: 9: 2 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+inch(1)
+    Doc: 2: 1 times
+diameter(2)
+    Doc: 2: 1 times
+    Doc: 17: 2 times
+weighing(1)
+    Doc: 2: 1 times
+four(3)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+ounces(1)
+    Doc: 2: 1 times
+seems(1)
+    Doc: 2: 1 times
+answer(3)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+    Doc: 18: 1 times
+quest(1)
+    Doc: 2: 1 times
+implantable(1)
+    Doc: 2: 1 times
+enough(5)
+    Doc: 2: 1 times
+    Doc: 7: 1 times
+    Doc: 14: 2 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+fit(1)
+    Doc: 2: 1 times
+child(1)
+    Doc: 2: 1 times
+keeping(3)
+    Doc: 2: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+mission(8)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 11: 3 times
+    Doc: 15: 2 times
+    Doc: 16: 2 times
+    Doc: 18: 8 times
+    Doc: 19: 2 times
+    Doc: 20: 1 times
+transferring(1)
+    Doc: 2: 1 times
+private(2)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+sector(2)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+wanted(1)
+    Doc: 2: 1 times
+license(2)
+    Doc: 2: 2 times
+    Doc: 8: 1 times
+could(7)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 12: 8 times
+    Doc: 13: 2 times
+    Doc: 18: 1 times
+test(5)
+    Doc: 2: 1 times
+    Doc: 4: 2 times
+    Doc: 6: 2 times
+    Doc: 10: 3 times
+    Doc: 12: 6 times
+bring(3)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+public(4)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 8: 1 times
+    Doc: 16: 1 times
+use(7)
+    Doc: 2: 2 times
+    Doc: 3: 1 times
+    Doc: 7: 5 times
+    Doc: 8: 3 times
+    Doc: 12: 2 times
+    Doc: 15: 1 times
+    Doc: 16: 3 times
+intense(1)
+    Doc: 2: 1 times
+competition(1)
+    Doc: 2: 1 times
+selected(5)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 11: 2 times
+    Doc: 15: 1 times
+    Doc: 18: 1 times
+partly(2)
+    Doc: 2: 1 times
+    Doc: 20: 1 times
+because(6)
+    Doc: 2: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+    Doc: 16: 2 times
+    Doc: 17: 2 times
+    Doc: 20: 1 times
+unit(2)
+    Doc: 2: 1 times
+    Doc: 12: 1 times
+rather(1)
+    Doc: 2: 2 times
+parts(1)
+    Doc: 2: 1 times
+development(7)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 12: 1 times
+    Doc: 18: 2 times
+projects(5)
+    Doc: 2: 1 times
+    Doc: 10: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+three(8)
+    Doc: 2: 1 times
+    Doc: 7: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 3 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+potential(8)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 6: 2 times
+    Doc: 13: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 5 times
+problems(3)
+    Doc: 2: 1 times
+    Doc: 7: 2 times
+    Doc: 8: 1 times
+destruction(1)
+    Doc: 2: 1 times
+red(3)
+    Doc: 2: 2 times
+    Doc: 17: 2 times
+    Doc: 20: 1 times
+blood(1)
+    Doc: 2: 5 times
+cells(2)
+    Doc: 2: 1 times
+    Doc: 20: 1 times
+clots(1)
+    Doc: 2: 2 times
+body(1)
+    Doc: 2: 1 times
+reaction(1)
+    Doc: 2: 1 times
+continuous(2)
+    Doc: 2: 2 times
+    Doc: 4: 1 times
+flow(2)
+    Doc: 2: 5 times
+    Doc: 9: 2 times
+pulsed(1)
+    Doc: 2: 1 times
+ames(5)
+    Doc: 2: 1 times
+    Doc: 3: 4 times
+    Doc: 5: 4 times
+    Doc: 6: 6 times
+    Doc: 8: 8 times
+moffett(5)
+    Doc: 2: 1 times
+    Doc: 3: 2 times
+    Doc: 5: 2 times
+    Doc: 6: 2 times
+    Doc: 8: 2 times
+field(7)
+    Doc: 2: 1 times
+    Doc: 3: 2 times
+    Doc: 5: 2 times
+    Doc: 6: 2 times
+    Doc: 8: 2 times
+    Doc: 10: 1 times
+    Doc: 15: 2 times
+ca(3)
+    Doc: 2: 1 times
+    Doc: 3: 2 times
+    Doc: 4: 2 times
+super(1)
+    Doc: 2: 1 times
+computers(2)
+    Doc: 2: 1 times
+    Doc: 7: 1 times
+analyze(1)
+    Doc: 2: 1 times
+dynamics(2)
+    Doc: 2: 1 times
+    Doc: 14: 1 times
+reduce(5)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 10: 1 times
+    Doc: 12: 1 times
+cell(1)
+    Doc: 2: 1 times
+damage(2)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+point(2)
+    Doc: 2: 1 times
+    Doc: 16: 1 times
+comfortably(1)
+    Doc: 2: 1 times
+below(3)
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+acceptable(1)
+    Doc: 2: 1 times
+limits(2)
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+improved(2)
+    Doc: 2: 1 times
+    Doc: 4: 1 times
+pattern(1)
+    Doc: 2: 1 times
+reduces(2)
+    Doc: 2: 1 times
+    Doc: 3: 1 times
+tendency(1)
+    Doc: 2: 1 times
+adverse(1)
+    Doc: 2: 1 times
+neurological(1)
+    Doc: 2: 1 times
+seen(5)
+    Doc: 2: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+    Doc: 17: 2 times
+    Doc: 20: 1 times
+implant(1)
+    Doc: 2: 1 times
+receiving(2)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+gained(3)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+    Doc: 13: 1 times
+international(5)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 2 times
+    Doc: 15: 3 times
+    Doc: 17: 1 times
+quality(4)
+    Doc: 2: 1 times
+    Doc: 7: 2 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+electronic(1)
+    Doc: 2: 1 times
+standards(1)
+    Doc: 2: 1 times
+certifications(1)
+    Doc: 2: 1 times
+got(2)
+    Doc: 2: 1 times
+    Doc: 17: 1 times
+permission(1)
+    Doc: 2: 1 times
+begin(3)
+    Doc: 2: 2 times
+    Doc: 5: 5 times
+    Doc: 20: 1 times
+europe(3)
+    Doc: 2: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+man(1)
+    Doc: 2: 1 times
+received(4)
+    Doc: 2: 1 times
+    Doc: 6: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+what(9)
+    Doc: 2: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 2 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 2 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+now(6)
+    Doc: 2: 1 times
+    Doc: 8: 3 times
+    Doc: 9: 2 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+vad(1)
+    Doc: 2: 1 times
+tm(1)
+    Doc: 2: 1 times
+berlin(2)
+    Doc: 2: 1 times
+    Doc: 20: 2 times
+november(3)
+    Doc: 2: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+1998(2)
+    Doc: 2: 1 times
+    Doc: 11: 1 times
+hopes(2)
+    Doc: 2: 1 times
+    Doc: 5: 1 times
+s(5)
+    Doc: 2: 1 times
+    Doc: 10: 1 times
+    Doc: 15: 2 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+april(1)
+    Doc: 3: 1 times
+24(2)
+    Doc: 3: 1 times
+    Doc: 20: 1 times
+2001(5)
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+victoria(3)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+kushnir(3)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+0176(3)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+77(1)
+    Doc: 3: 1 times
+hot(3)
+    Doc: 3: 1 times
+    Doc: 9: 4 times
+    Doc: 17: 3 times
+yields(1)
+    Doc: 3: 1 times
+cooler(1)
+    Doc: 3: 1 times
+earth(13)
+    Doc: 3: 2 times
+    Doc: 4: 6 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 2 times
+    Doc: 12: 3 times
+    Doc: 13: 1 times
+    Doc: 16: 7 times
+    Doc: 17: 3 times
+    Doc: 18: 1 times
+    Doc: 19: 2 times
+    Doc: 20: 2 times
+benefits(4)
+    Doc: 3: 1 times
+    Doc: 4: 2 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+thin(3)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+coating(1)
+    Doc: 3: 8 times
+innovative(2)
+    Doc: 3: 1 times
+    Doc: 15: 3 times
+material(5)
+    Doc: 3: 7 times
+    Doc: 8: 2 times
+    Doc: 9: 1 times
+    Doc: 13: 2 times
+    Doc: 19: 1 times
+prevent(3)
+    Doc: 3: 1 times
+    Doc: 8: 3 times
+    Doc: 9: 1 times
+vehicles(4)
+    Doc: 3: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 12: 2 times
+burning(1)
+    Doc: 3: 1 times
+planetary(2)
+    Doc: 3: 1 times
+    Doc: 17: 5 times
+reentry(1)
+    Doc: 3: 2 times
+protect(2)
+    Doc: 3: 1 times
+    Doc: 17: 1 times
+your(3)
+    Doc: 3: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 2 times
+house(1)
+    Doc: 3: 1 times
+car(1)
+    Doc: 3: 2 times
+boat(1)
+    Doc: 3: 2 times
+fire(1)
+    Doc: 3: 1 times
+protective(2)
+    Doc: 3: 3 times
+    Doc: 8: 1 times
+ceramic(1)
+    Doc: 3: 2 times
+pcc(1)
+    Doc: 3: 10 times
+invented(1)
+    Doc: 3: 2 times
+silicon(1)
+    Doc: 3: 1 times
+valley(1)
+    Doc: 3: 1 times
+repels(1)
+    Doc: 3: 1 times
+heat(2)
+    Doc: 3: 8 times
+    Doc: 9: 1 times
+virtually(1)
+    Doc: 3: 1 times
+any(2)
+    Doc: 3: 1 times
+    Doc: 13: 1 times
+surface(6)
+    Doc: 3: 3 times
+    Doc: 6: 4 times
+    Doc: 8: 2 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 3 times
+covers(1)
+    Doc: 3: 2 times
+allows(4)
+    Doc: 3: 2 times
+    Doc: 7: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 2 times
+shield(1)
+    Doc: 3: 1 times
+ceramics(1)
+    Doc: 3: 1 times
+wood(1)
+    Doc: 3: 1 times
+steel(2)
+    Doc: 3: 1 times
+    Doc: 8: 1 times
+plastics(1)
+    Doc: 3: 1 times
+fiberglass(1)
+    Doc: 3: 1 times
+temperatures(1)
+    Doc: 3: 3 times
+wessex(1)
+    Doc: 3: 2 times
+blacksburg(1)
+    Doc: 3: 1 times
+va(3)
+    Doc: 3: 1 times
+    Doc: 7: 2 times
+    Doc: 10: 1 times
+licensed(4)
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+continue(1)
+    Doc: 3: 1 times
+market(4)
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+unique(5)
+    Doc: 3: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 3 times
+property(1)
+    Doc: 3: 2 times
+enables(3)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 16: 1 times
+radiate(2)
+    Doc: 3: 2 times
+    Doc: 13: 1 times
+thermal(1)
+    Doc: 3: 1 times
+exposure(1)
+    Doc: 3: 1 times
+elevated(1)
+    Doc: 3: 1 times
+rex(1)
+    Doc: 3: 1 times
+churchward(1)
+    Doc: 3: 2 times
+inventor(1)
+    Doc: 3: 1 times
+helps(2)
+    Doc: 3: 1 times
+    Doc: 7: 1 times
+reject(1)
+    Doc: 3: 1 times
+decreases(1)
+    Doc: 3: 1 times
+amount(5)
+    Doc: 3: 1 times
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+    Doc: 12: 1 times
+    Doc: 14: 1 times
+can(15)
+    Doc: 3: 4 times
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 6: 2 times
+    Doc: 7: 5 times
+    Doc: 8: 6 times
+    Doc: 10: 2 times
+    Doc: 12: 1 times
+    Doc: 13: 2 times
+    Doc: 14: 4 times
+    Doc: 15: 1 times
+    Doc: 16: 3 times
+    Doc: 17: 4 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+transferred(1)
+    Doc: 3: 1 times
+underlying(1)
+    Doc: 3: 2 times
+insulation(1)
+    Doc: 3: 1 times
+originally(4)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+spacecraft(5)
+    Doc: 3: 1 times
+    Doc: 12: 2 times
+    Doc: 14: 2 times
+    Doc: 18: 5 times
+    Doc: 20: 4 times
+shields(1)
+    Doc: 3: 1 times
+allow(6)
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 6: 2 times
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+them(6)
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 9: 1 times
+    Doc: 12: 3 times
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+withstand(1)
+    Doc: 3: 3 times
+extreme(1)
+    Doc: 3: 1 times
+fiery(2)
+    Doc: 3: 1 times
+    Doc: 19: 1 times
+conditions(3)
+    Doc: 3: 1 times
+    Doc: 8: 5 times
+    Doc: 16: 1 times
+experienced(1)
+    Doc: 3: 1 times
+components(2)
+    Doc: 3: 1 times
+    Doc: 12: 1 times
+exhibit(1)
+    Doc: 3: 1 times
+emissivity(1)
+    Doc: 3: 1 times
+means(1)
+    Doc: 3: 1 times
+tends(1)
+    Doc: 3: 1 times
+reflect(1)
+    Doc: 3: 1 times
+away(4)
+    Doc: 3: 1 times
+    Doc: 9: 2 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+thereby(3)
+    Doc: 3: 1 times
+    Doc: 5: 2 times
+    Doc: 10: 1 times
+increasing(1)
+    Doc: 3: 1 times
+materials(2)
+    Doc: 3: 3 times
+    Doc: 14: 1 times
+temperature(1)
+    Doc: 3: 1 times
+levels(1)
+    Doc: 3: 1 times
+beyond(2)
+    Doc: 3: 1 times
+    Doc: 12: 1 times
+performed(2)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+extensive(2)
+    Doc: 3: 1 times
+    Doc: 7: 2 times
+maximize(1)
+    Doc: 3: 1 times
+product(4)
+    Doc: 3: 2 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 16: 1 times
+fitness(1)
+    Doc: 3: 1 times
+various(3)
+    Doc: 3: 2 times
+    Doc: 6: 1 times
+    Doc: 12: 1 times
+applications(4)
+    Doc: 3: 1 times
+    Doc: 4: 2 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+olver(1)
+    Doc: 3: 2 times
+discovered(2)
+    Doc: 3: 1 times
+    Doc: 11: 1 times
+99(1)
+    Doc: 3: 1 times
+percent(4)
+    Doc: 3: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+not(10)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 3 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 3 times
+burn(1)
+    Doc: 3: 1 times
+therefore(2)
+    Doc: 3: 1 times
+    Doc: 9: 1 times
+inhibits(1)
+    Doc: 3: 1 times
+spread(1)
+    Doc: 3: 1 times
+flame(1)
+    Doc: 3: 1 times
+transfer(2)
+    Doc: 3: 2 times
+    Doc: 8: 1 times
+prevents(3)
+    Doc: 3: 1 times
+    Doc: 8: 2 times
+    Doc: 13: 1 times
+combustion(1)
+    Doc: 3: 1 times
+250(2)
+    Doc: 3: 1 times
+    Doc: 9: 1 times
+degrees(3)
+    Doc: 3: 2 times
+    Doc: 14: 2 times
+    Doc: 16: 2 times
+fahrenheit(1)
+    Doc: 3: 2 times
+without(4)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 20: 1 times
+added(6)
+    Doc: 3: 2 times
+    Doc: 6: 2 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+unlimited(1)
+    Doc: 3: 1 times
+future(6)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 6: 4 times
+    Doc: 9: 1 times
+    Doc: 12: 2 times
+    Doc: 14: 2 times
+serve(2)
+    Doc: 3: 1 times
+    Doc: 13: 1 times
+protection(1)
+    Doc: 3: 1 times
+engines(1)
+    Doc: 3: 1 times
+making(2)
+    Doc: 3: 1 times
+    Doc: 12: 1 times
+modes(1)
+    Doc: 3: 1 times
+transportation(3)
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 6: 1 times
+environments(1)
+    Doc: 3: 1 times
+resistant(1)
+    Doc: 3: 1 times
+safer(2)
+    Doc: 3: 1 times
+    Doc: 8: 1 times
+consumer(1)
+    Doc: 3: 1 times
+readily(1)
+    Doc: 3: 1 times
+manufactured(1)
+    Doc: 3: 1 times
+easily(1)
+    Doc: 3: 1 times
+applied(2)
+    Doc: 3: 3 times
+    Doc: 8: 5 times
+variety(4)
+    Doc: 3: 1 times
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+    Doc: 12: 1 times
+surfaces(2)
+    Doc: 3: 1 times
+    Doc: 20: 1 times
+advantage(1)
+    Doc: 3: 1 times
+brush(3)
+    Doc: 3: 1 times
+    Doc: 8: 1 times
+    Doc: 12: 2 times
+spray(1)
+    Doc: 3: 1 times
+gun(1)
+    Doc: 3: 1 times
+air(5)
+    Doc: 3: 1 times
+    Doc: 6: 3 times
+    Doc: 10: 2 times
+    Doc: 16: 1 times
+    Doc: 20: 2 times
+dried(1)
+    Doc: 3: 1 times
+fairly(1)
+    Doc: 3: 1 times
+easy(2)
+    Doc: 3: 1 times
+    Doc: 7: 1 times
+prepare(1)
+    Doc: 3: 1 times
+large(3)
+    Doc: 3: 1 times
+    Doc: 12: 1 times
+    Doc: 20: 1 times
+sections(1)
+    Doc: 3: 1 times
+insulations(1)
+    Doc: 3: 1 times
+commercial(5)
+    Doc: 3: 3 times
+    Doc: 4: 2 times
+    Doc: 5: 2 times
+    Doc: 7: 1 times
+    Doc: 8: 5 times
+offices(2)
+    Doc: 3: 1 times
+    Doc: 11: 1 times
+perform(1)
+    Doc: 3: 1 times
+maximizing(1)
+    Doc: 3: 1 times
+efforts(3)
+    Doc: 3: 1 times
+    Doc: 11: 2 times
+    Doc: 15: 1 times
+reaches(2)
+    Doc: 3: 1 times
+    Doc: 20: 1 times
+out(6)
+    Doc: 3: 2 times
+    Doc: 4: 1 times
+    Doc: 9: 3 times
+    Doc: 12: 6 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+business(1)
+    Doc: 3: 1 times
+community(1)
+    Doc: 3: 1 times
+way(6)
+    Doc: 3: 1 times
+    Doc: 9: 2 times
+    Doc: 10: 2 times
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 2 times
+leverages(1)
+    Doc: 3: 1 times
+agency(8)
+    Doc: 3: 1 times
+    Doc: 7: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 4 times
+    Doc: 12: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+    Doc: 17: 1 times
+resources(2)
+    Doc: 3: 1 times
+    Doc: 15: 2 times
+those(2)
+    Doc: 3: 1 times
+    Doc: 20: 1 times
+objective(4)
+    Doc: 3: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 18: 1 times
+stimulate(2)
+    Doc: 3: 1 times
+    Doc: 15: 1 times
+job(3)
+    Doc: 3: 1 times
+    Doc: 7: 1 times
+    Doc: 12: 1 times
+growth(1)
+    Doc: 3: 1 times
+competitiveness(1)
+    Doc: 3: 1 times
+american(3)
+    Doc: 3: 2 times
+    Doc: 4: 1 times
+    Doc: 11: 1 times
+products(2)
+    Doc: 3: 2 times
+    Doc: 8: 3 times
+global(4)
+    Doc: 3: 1 times
+    Doc: 4: 9 times
+    Doc: 14: 8 times
+    Doc: 16: 3 times
+marketplace(1)
+    Doc: 3: 2 times
+taxpayer(1)
+    Doc: 3: 1 times
+investment(1)
+    Doc: 3: 1 times
+paying(1)
+    Doc: 3: 1 times
+spun(1)
+    Doc: 3: 1 times
+become(3)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+    Doc: 18: 3 times
+commercially(1)
+    Doc: 3: 1 times
+viable(1)
+    Doc: 3: 1 times
+meeting(1)
+    Doc: 3: 1 times
+real(3)
+    Doc: 3: 1 times
+    Doc: 4: 3 times
+    Doc: 16: 1 times
+phil(2)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+herlth(2)
+    Doc: 3: 1 times
+    Doc: 5: 1 times
+office(9)
+    Doc: 3: 1 times
+    Doc: 4: 3 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 14: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+read(1)
+    Doc: 3: 1 times
+opportunities(1)
+    Doc: 3: 1 times
+internet(14)
+    Doc: 3: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 4 times
+    Doc: 17: 2 times
+    Doc: 18: 2 times
+    Doc: 20: 1 times
+visit(10)
+    Doc: 3: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 4 times
+    Doc: 16: 3 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+gov(10)
+    Doc: 3: 1 times
+    Doc: 6: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 2 times
+    Doc: 12: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 3 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+e(1)
+    Doc: 4: 1 times
+steitz(1)
+    Doc: 4: 1 times
+8(2)
+    Doc: 4: 2 times
+    Doc: 18: 1 times
+1730(1)
+    Doc: 4: 1 times
+rosemary(1)
+    Doc: 4: 1 times
+carolina(1)
+    Doc: 4: 1 times
+martinez(2)
+    Doc: 4: 1 times
+    Doc: 20: 1 times
+jet(4)
+    Doc: 4: 2 times
+    Doc: 14: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 2 times
+propulsion(4)
+    Doc: 4: 2 times
+    Doc: 14: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 2 times
+laboratory(6)
+    Doc: 4: 2 times
+    Doc: 5: 2 times
+    Doc: 14: 3 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 2 times
+pasadena(6)
+    Doc: 4: 3 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 18: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 3 times
+0474(1)
+    Doc: 4: 1 times
+9382(1)
+    Doc: 4: 1 times
+62(1)
+    Doc: 4: 1 times
+down(6)
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 2 times
+farm(1)
+    Doc: 4: 1 times
+some(4)
+    Doc: 4: 1 times
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+closest(1)
+    Doc: 4: 1 times
+land(2)
+    Doc: 4: 2 times
+    Doc: 16: 2 times
+benefit(1)
+    Doc: 4: 1 times
+positioning(1)
+    Doc: 4: 5 times
+make(6)
+    Doc: 4: 2 times
+    Doc: 5: 2 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 15: 1 times
+    Doc: 18: 3 times
+satellites(2)
+    Doc: 4: 4 times
+    Doc: 16: 6 times
+efficient(1)
+    Doc: 4: 2 times
+farmers(2)
+    Doc: 4: 2 times
+    Doc: 16: 1 times
+get(7)
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 3 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+chance(2)
+    Doc: 4: 1 times
+    Doc: 9: 1 times
+put(1)
+    Doc: 4: 1 times
+system(8)
+    Doc: 4: 8 times
+    Doc: 6: 7 times
+    Doc: 8: 2 times
+    Doc: 11: 2 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 16: 3 times
+    Doc: 18: 1 times
+partnership(2)
+    Doc: 4: 1 times
+    Doc: 15: 1 times
+navcom(1)
+    Doc: 4: 4 times
+wholly(1)
+    Doc: 4: 1 times
+owned(1)
+    Doc: 4: 1 times
+subsidiary(1)
+    Doc: 4: 1 times
+deere(1)
+    Doc: 4: 1 times
+moline(1)
+    Doc: 4: 1 times
+il(1)
+    Doc: 4: 1 times
+tractors(1)
+    Doc: 4: 1 times
+equipped(1)
+    Doc: 4: 1 times
+receivers(1)
+    Doc: 4: 2 times
+providing(4)
+    Doc: 4: 2 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 16: 1 times
+instant(1)
+    Doc: 4: 1 times
+location(3)
+    Doc: 4: 1 times
+    Doc: 6: 1 times
+    Doc: 19: 1 times
+vital(1)
+    Doc: 4: 1 times
+precision(1)
+    Doc: 4: 1 times
+farming(1)
+    Doc: 4: 1 times
+navigate(1)
+    Doc: 4: 1 times
+night(1)
+    Doc: 4: 1 times
+visibility(1)
+    Doc: 4: 1 times
+poor(1)
+    Doc: 4: 1 times
+importantly(2)
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+soil(3)
+    Doc: 4: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+sensors(4)
+    Doc: 4: 2 times
+    Doc: 5: 2 times
+    Doc: 10: 1 times
+    Doc: 14: 1 times
+monitors(1)
+    Doc: 4: 1 times
+let(2)
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+calculate(1)
+    Doc: 4: 1 times
+map(2)
+    Doc: 4: 1 times
+    Doc: 16: 2 times
+precisely(1)
+    Doc: 4: 2 times
+water(4)
+    Doc: 4: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 3 times
+    Doc: 16: 3 times
+fertilizer(1)
+    Doc: 4: 1 times
+weed(1)
+    Doc: 4: 1 times
+control(2)
+    Doc: 4: 1 times
+    Doc: 6: 3 times
+saving(1)
+    Doc: 4: 1 times
+money(1)
+    Doc: 4: 1 times
+combines(2)
+    Doc: 4: 1 times
+    Doc: 14: 1 times
+software(4)
+    Doc: 4: 2 times
+    Doc: 5: 1 times
+    Doc: 6: 3 times
+    Doc: 7: 1 times
+jpl(4)
+    Doc: 4: 6 times
+    Doc: 14: 3 times
+    Doc: 18: 4 times
+    Doc: 20: 2 times
+gps(1)
+    Doc: 4: 12 times
+data(7)
+    Doc: 4: 5 times
+    Doc: 5: 2 times
+    Doc: 6: 2 times
+    Doc: 10: 1 times
+    Doc: 14: 2 times
+    Doc: 16: 8 times
+    Doc: 19: 1 times
+network(2)
+    Doc: 4: 1 times
+    Doc: 19: 1 times
+produce(2)
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+corrections(2)
+    Doc: 4: 2 times
+    Doc: 7: 1 times
+orbits(3)
+    Doc: 4: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+clocks(1)
+    Doc: 4: 1 times
+broadcast(1)
+    Doc: 4: 1 times
+communication(1)
+    Doc: 4: 1 times
+differential(1)
+    Doc: 4: 4 times
+parent(1)
+    Doc: 4: 1 times
+institution(1)
+    Doc: 4: 1 times
+california(6)
+    Doc: 4: 1 times
+    Doc: 5: 2 times
+    Doc: 13: 2 times
+    Doc: 18: 1 times
+    Doc: 19: 2 times
+    Doc: 20: 2 times
+plans(2)
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+summer(3)
+    Doc: 4: 1 times
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+enterprise(3)
+    Doc: 4: 3 times
+    Doc: 15: 2 times
+    Doc: 16: 2 times
+supports(2)
+    Doc: 4: 1 times
+    Doc: 13: 1 times
+pioneering(1)
+    Doc: 4: 1 times
+exploration(3)
+    Doc: 4: 2 times
+    Doc: 11: 1 times
+    Doc: 14: 2 times
+our(8)
+    Doc: 4: 4 times
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 11: 5 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+home(3)
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+    Doc: 18: 1 times
+planet(4)
+    Doc: 4: 1 times
+    Doc: 12: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 2 times
+while(5)
+    Doc: 4: 2 times
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+america(2)
+    Doc: 4: 1 times
+    Doc: 20: 1 times
+practical(1)
+    Doc: 4: 1 times
+societal(1)
+    Doc: 4: 1 times
+ghassem(1)
+    Doc: 4: 1 times
+asrar(1)
+    Doc: 4: 1 times
+associate(2)
+    Doc: 4: 1 times
+    Doc: 15: 2 times
+administrator(3)
+    Doc: 4: 1 times
+    Doc: 11: 4 times
+    Doc: 15: 2 times
+sciences(1)
+    Doc: 4: 2 times
+agreement(3)
+    Doc: 4: 1 times
+    Doc: 10: 1 times
+    Doc: 17: 1 times
+accelerate(1)
+    Doc: 4: 1 times
+ability(4)
+    Doc: 4: 3 times
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+demonstrate(1)
+    Doc: 4: 1 times
+utility(1)
+    Doc: 4: 1 times
+precise(3)
+    Doc: 4: 3 times
+    Doc: 14: 1 times
+    Doc: 17: 1 times
+scientific(3)
+    Doc: 4: 1 times
+    Doc: 11: 2 times
+    Doc: 18: 2 times
+labrecque(1)
+    Doc: 4: 1 times
+manager(5)
+    Doc: 4: 2 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 10: 2 times
+    Doc: 18: 1 times
+solid(1)
+    Doc: 4: 1 times
+natural(3)
+    Doc: 4: 3 times
+    Doc: 11: 1 times
+    Doc: 16: 1 times
+hazards(2)
+    Doc: 4: 1 times
+    Doc: 16: 1 times
+program(9)
+    Doc: 4: 2 times
+    Doc: 6: 3 times
+    Doc: 8: 1 times
+    Doc: 10: 3 times
+    Doc: 14: 1 times
+    Doc: 15: 5 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 2 times
+existing(3)
+    Doc: 4: 1 times
+    Doc: 7: 2 times
+    Doc: 8: 1 times
+locate(2)
+    Doc: 4: 1 times
+    Doc: 19: 1 times
+position(1)
+    Doc: 4: 3 times
+within(2)
+    Doc: 4: 2 times
+    Doc: 19: 3 times
+few(3)
+    Doc: 4: 1 times
+    Doc: 13: 1 times
+    Doc: 19: 2 times
+meters(1)
+    Doc: 4: 1 times
+provides(1)
+    Doc: 4: 2 times
+instantaneous(1)
+    Doc: 4: 1 times
+10(3)
+    Doc: 4: 1 times
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+centimeters(1)
+    Doc: 4: 2 times
+4(4)
+    Doc: 4: 1 times
+    Doc: 10: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+horizontally(1)
+    Doc: 4: 1 times
+vertically(1)
+    Doc: 4: 1 times
+anywhere(1)
+    Doc: 4: 1 times
+same(6)
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 10: 2 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+combination(1)
+    Doc: 4: 1 times
+accuracy(2)
+    Doc: 4: 1 times
+    Doc: 16: 1 times
+coverage(1)
+    Doc: 4: 1 times
+enable(3)
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+    Doc: 10: 1 times
+performance(2)
+    Doc: 4: 1 times
+    Doc: 9: 1 times
+observing(3)
+    Doc: 4: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+onboard(2)
+    Doc: 4: 1 times
+    Doc: 19: 1 times
+processing(2)
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+transmit(1)
+    Doc: 4: 1 times
+ground(4)
+    Doc: 4: 2 times
+    Doc: 10: 4 times
+    Doc: 12: 1 times
+    Doc: 17: 1 times
+expects(1)
+    Doc: 4: 1 times
+open(1)
+    Doc: 4: 1 times
+possibility(2)
+    Doc: 4: 1 times
+    Doc: 5: 1 times
+airborne(1)
+    Doc: 4: 2 times
+techniques(1)
+    Doc: 4: 1 times
+accurately(1)
+    Doc: 4: 1 times
+controlled(1)
+    Doc: 4: 1 times
+flights(3)
+    Doc: 4: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+area(2)
+    Doc: 4: 1 times
+    Doc: 16: 1 times
+hazard(1)
+    Doc: 4: 1 times
+monitoring(2)
+    Doc: 4: 1 times
+    Doc: 16: 1 times
+radar(2)
+    Doc: 4: 1 times
+    Doc: 16: 3 times
+networks(1)
+    Doc: 4: 1 times
+might(2)
+    Doc: 4: 1 times
+    Doc: 13: 1 times
+provide(7)
+    Doc: 4: 3 times
+    Doc: 6: 1 times
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+    Doc: 15: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+monitor(3)
+    Doc: 4: 1 times
+    Doc: 14: 2 times
+    Doc: 16: 1 times
+volcanic(2)
+    Doc: 4: 1 times
+    Doc: 20: 1 times
+activity(2)
+    Doc: 4: 1 times
+    Doc: 12: 1 times
+motion(3)
+    Doc: 4: 1 times
+    Doc: 13: 1 times
+    Doc: 20: 3 times
+before(7)
+    Doc: 4: 1 times
+    Doc: 8: 2 times
+    Doc: 13: 1 times
+    Doc: 15: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+earthquakes(1)
+    Doc: 4: 1 times
+yoaz(1)
+    Doc: 4: 1 times
+sever(1)
+    Doc: 4: 1 times
+task(2)
+    Doc: 4: 1 times
+    Doc: 12: 2 times
+demonstration(3)
+    Doc: 4: 1 times
+    Doc: 10: 3 times
+    Doc: 15: 2 times
+aviation(3)
+    Doc: 4: 1 times
+    Doc: 6: 4 times
+    Doc: 14: 1 times
+marine(1)
+    Doc: 4: 1 times
+operations(3)
+    Doc: 4: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+management(2)
+    Doc: 4: 1 times
+    Doc: 6: 4 times
+agriculture(1)
+    Doc: 4: 1 times
+responsible(1)
+    Doc: 4: 1 times
+collaboration(4)
+    Doc: 4: 2 times
+    Doc: 5: 1 times
+    Doc: 15: 1 times
+    Doc: 19: 1 times
+correction(1)
+    Doc: 4: 1 times
+signal(1)
+    Doc: 4: 1 times
+invest(1)
+    Doc: 4: 1 times
+improving(2)
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+infrastructure(1)
+    Doc: 4: 1 times
+just(5)
+    Doc: 4: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+    Doc: 16: 1 times
+    Doc: 19: 4 times
+several(5)
+    Doc: 4: 1 times
+    Doc: 8: 2 times
+    Doc: 9: 1 times
+    Doc: 12: 3 times
+    Doc: 17: 1 times
+programs(4)
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+    Doc: 11: 1 times
+    Doc: 15: 2 times
+designed(5)
+    Doc: 4: 1 times
+    Doc: 10: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+industry(4)
+    Doc: 4: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 2 times
+    Doc: 10: 3 times
+funds(1)
+    Doc: 4: 1 times
+term(2)
+    Doc: 4: 1 times
+    Doc: 16: 1 times
+dedicated(2)
+    Doc: 4: 1 times
+    Doc: 16: 1 times
+understanding(3)
+    Doc: 4: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+induced(2)
+    Doc: 4: 1 times
+    Doc: 8: 1 times
+changes(2)
+    Doc: 4: 1 times
+    Doc: 14: 3 times
+affect(1)
+    Doc: 4: 1 times
+environment(3)
+    Doc: 4: 1 times
+    Doc: 8: 1 times
+    Doc: 12: 3 times
+oct(1)
+    Doc: 5: 2 times
+26(2)
+    Doc: 5: 1 times
+    Doc: 14: 1 times
+calif(7)
+    Doc: 5: 2 times
+    Doc: 6: 2 times
+    Doc: 8: 1 times
+    Doc: 10: 2 times
+    Doc: 14: 1 times
+    Doc: 18: 2 times
+    Doc: 20: 2 times
+207(1)
+    Doc: 5: 1 times
+smart(1)
+    Doc: 5: 8 times
+surgical(1)
+    Doc: 5: 7 times
+probe(2)
+    Doc: 5: 11 times
+    Doc: 20: 1 times
+tests(3)
+    Doc: 5: 1 times
+    Doc: 10: 3 times
+    Doc: 12: 1 times
+revolutionary(1)
+    Doc: 5: 1 times
+breast(1)
+    Doc: 5: 9 times
+detection(3)
+    Doc: 5: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+tool(3)
+    Doc: 5: 1 times
+    Doc: 6: 2 times
+    Doc: 12: 1 times
+human(3)
+    Doc: 5: 3 times
+    Doc: 7: 1 times
+    Doc: 9: 2 times
+next(3)
+    Doc: 5: 2 times
+    Doc: 12: 2 times
+    Doc: 18: 1 times
+week(1)
+    Doc: 5: 2 times
+ahead(1)
+    Doc: 5: 1 times
+food(1)
+    Doc: 5: 1 times
+drug(1)
+    Doc: 5: 1 times
+administration(2)
+    Doc: 5: 1 times
+    Doc: 6: 2 times
+dublin(1)
+    Doc: 5: 1 times
+bioluminate(1)
+    Doc: 5: 6 times
+set(3)
+    Doc: 5: 2 times
+    Doc: 12: 1 times
+    Doc: 13: 2 times
+testing(1)
+    Doc: 5: 2 times
+volunteer(1)
+    Doc: 5: 2 times
+uc(1)
+    Doc: 5: 3 times
+davis(1)
+    Doc: 5: 3 times
+san(3)
+    Doc: 5: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+francisco(1)
+    Doc: 5: 1 times
+ucsf(1)
+    Doc: 5: 2 times
+robert(5)
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+    Doc: 20: 1 times
+mah(1)
+    Doc: 5: 2 times
+being(7)
+    Doc: 5: 2 times
+    Doc: 6: 3 times
+    Doc: 7: 1 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+detailed(5)
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 9: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+interpretations(1)
+    Doc: 5: 1 times
+tissue(1)
+    Doc: 5: 6 times
+tip(3)
+    Doc: 5: 1 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+needle(1)
+    Doc: 5: 7 times
+instrument(2)
+    Doc: 5: 3 times
+    Doc: 20: 1 times
+health(1)
+    Doc: 5: 4 times
+care(1)
+    Doc: 5: 5 times
+providers(1)
+    Doc: 5: 1 times
+expert(1)
+    Doc: 5: 1 times
+accurate(3)
+    Doc: 5: 3 times
+    Doc: 6: 1 times
+    Doc: 19: 1 times
+diagnoses(1)
+    Doc: 5: 1 times
+suggest(2)
+    Doc: 5: 1 times
+    Doc: 20: 1 times
+proper(1)
+    Doc: 5: 1 times
+individualized(1)
+    Doc: 5: 1 times
+treatment(1)
+    Doc: 5: 2 times
+even(4)
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+remote(4)
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+areas(3)
+    Doc: 5: 1 times
+    Doc: 16: 5 times
+    Doc: 20: 3 times
+disposable(1)
+    Doc: 5: 1 times
+multiple(3)
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 16: 1 times
+resulting(1)
+    Doc: 5: 1 times
+physicians(1)
+    Doc: 5: 1 times
+diagnose(1)
+    Doc: 5: 1 times
+tumors(1)
+    Doc: 5: 1 times
+surgery(1)
+    Doc: 5: 3 times
+dramatically(1)
+    Doc: 5: 1 times
+number(4)
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 15: 1 times
+unnecessary(1)
+    Doc: 5: 2 times
+biopsies(1)
+    Doc: 5: 2 times
+women(1)
+    Doc: 5: 5 times
+undergo(1)
+    Doc: 5: 1 times
+gathering(1)
+    Doc: 5: 1 times
+moment(1)
+    Doc: 5: 1 times
+inserted(1)
+    Doc: 5: 2 times
+computer(1)
+    Doc: 5: 3 times
+eventually(2)
+    Doc: 5: 1 times
+    Doc: 13: 3 times
+compare(2)
+    Doc: 5: 1 times
+    Doc: 12: 1 times
+measurements(4)
+    Doc: 5: 1 times
+    Doc: 10: 1 times
+    Doc: 14: 4 times
+    Doc: 16: 2 times
+archived(1)
+    Doc: 5: 1 times
+parameters(1)
+    Doc: 5: 1 times
+indicate(1)
+    Doc: 5: 1 times
+presence(1)
+    Doc: 5: 2 times
+absence(1)
+    Doc: 5: 1 times
+cancer(1)
+    Doc: 5: 5 times
+display(1)
+    Doc: 5: 1 times
+screen(1)
+    Doc: 5: 1 times
+200(2)
+    Doc: 5: 1 times
+    Doc: 16: 1 times
+scheduled(2)
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+biopsy(1)
+    Doc: 5: 1 times
+invited(1)
+    Doc: 5: 1 times
+tested(1)
+    Doc: 5: 1 times
+prior(2)
+    Doc: 5: 1 times
+    Doc: 14: 1 times
+procedure(1)
+    Doc: 5: 1 times
+recorded(2)
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+teach(1)
+    Doc: 5: 2 times
+distinguish(1)
+    Doc: 5: 3 times
+cancerous(1)
+    Doc: 5: 5 times
+benign(1)
+    Doc: 5: 4 times
+knowledge(1)
+    Doc: 5: 1 times
+able(1)
+    Doc: 5: 3 times
+prototype(1)
+    Doc: 5: 2 times
+involve(1)
+    Doc: 5: 1 times
+nearly(5)
+    Doc: 5: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+    Doc: 17: 3 times
+richard(2)
+    Doc: 5: 1 times
+    Doc: 10: 1 times
+hular(1)
+    Doc: 5: 2 times
+acquire(2)
+    Doc: 5: 1 times
+    Doc: 15: 1 times
+suspicious(1)
+    Doc: 5: 2 times
+lesion(1)
+    Doc: 5: 1 times
+later(2)
+    Doc: 5: 2 times
+    Doc: 20: 1 times
+confirmed(2)
+    Doc: 5: 1 times
+    Doc: 10: 1 times
+recognize(1)
+    Doc: 5: 1 times
+every(3)
+    Doc: 5: 1 times
+    Doc: 7: 2 times
+    Doc: 16: 2 times
+united(2)
+    Doc: 5: 1 times
+    Doc: 20: 1 times
+states(1)
+    Doc: 5: 1 times
+lesions(1)
+    Doc: 5: 1 times
+determined(1)
+    Doc: 5: 1 times
+taking(2)
+    Doc: 5: 1 times
+    Doc: 12: 1 times
+developing(1)
+    Doc: 5: 1 times
+lawrence(1)
+    Doc: 5: 2 times
+livermore(1)
+    Doc: 5: 3 times
+national(5)
+    Doc: 5: 2 times
+    Doc: 14: 2 times
+    Doc: 15: 3 times
+    Doc: 17: 7 times
+    Doc: 19: 1 times
+measurement(2)
+    Doc: 5: 1 times
+    Doc: 14: 1 times
+if(8)
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 2 times
+    Doc: 9: 1 times
+    Doc: 12: 2 times
+    Doc: 13: 2 times
+    Doc: 15: 1 times
+    Doc: 19: 1 times
+significantly(4)
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 12: 1 times
+improve(4)
+    Doc: 5: 3 times
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+potentially(2)
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+annual(2)
+    Doc: 5: 1 times
+    Doc: 15: 1 times
+costs(1)
+    Doc: 5: 1 times
+sensor(1)
+    Doc: 5: 2 times
+packaged(1)
+    Doc: 5: 1 times
+sized(2)
+    Doc: 5: 1 times
+    Doc: 18: 1 times
+pinpoint(1)
+    Doc: 5: 1 times
+whether(1)
+    Doc: 5: 1 times
+tumor(1)
+    Doc: 5: 1 times
+marion(1)
+    Doc: 5: 1 times
+principle(2)
+    Doc: 5: 1 times
+    Doc: 20: 1 times
+offers(2)
+    Doc: 5: 1 times
+    Doc: 17: 1 times
+localization(1)
+    Doc: 5: 1 times
+eliminate(3)
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+removal(2)
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+associated(2)
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+complications(1)
+    Doc: 5: 1 times
+diagnosis(1)
+    Doc: 5: 1 times
+lydia(1)
+    Doc: 5: 1 times
+howell(1)
+    Doc: 5: 1 times
+director(3)
+    Doc: 5: 2 times
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+cytology(1)
+    Doc: 5: 1 times
+professor(2)
+    Doc: 5: 1 times
+    Doc: 18: 1 times
+pathology(1)
+    Doc: 5: 1 times
+obtained(3)
+    Doc: 5: 1 times
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+useful(2)
+    Doc: 5: 1 times
+    Doc: 16: 3 times
+predicting(1)
+    Doc: 5: 1 times
+behave(1)
+    Doc: 5: 1 times
+lumps(1)
+    Doc: 5: 2 times
+cancers(1)
+    Doc: 5: 1 times
+aggressive(1)
+    Doc: 5: 1 times
+receive(1)
+    Doc: 5: 1 times
+stronger(1)
+    Doc: 5: 1 times
+therapies(1)
+    Doc: 5: 1 times
+exciting(1)
+    Doc: 5: 1 times
+immediate(1)
+    Doc: 5: 1 times
+promise(1)
+    Doc: 5: 1 times
+laura(1)
+    Doc: 5: 1 times
+esserman(1)
+    Doc: 5: 1 times
+mba(1)
+    Doc: 5: 1 times
+carol(1)
+    Doc: 5: 1 times
+franc(1)
+    Doc: 5: 1 times
+buck(1)
+    Doc: 5: 1 times
+comprehensive(2)
+    Doc: 5: 1 times
+    Doc: 11: 1 times
+am(1)
+    Doc: 5: 1 times
+excited(2)
+    Doc: 5: 1 times
+    Doc: 11: 1 times
+would(9)
+    Doc: 5: 1 times
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 9: 2 times
+    Doc: 10: 1 times
+    Doc: 12: 2 times
+    Doc: 13: 2 times
+    Doc: 15: 1 times
+    Doc: 20: 1 times
+evaluate(2)
+    Doc: 5: 1 times
+    Doc: 12: 1 times
+residual(1)
+    Doc: 5: 1 times
+disease(1)
+    Doc: 5: 1 times
+excision(1)
+    Doc: 5: 1 times
+treated(2)
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+conservation(1)
+    Doc: 5: 1 times
+29(1)
+    Doc: 5: 1 times
+30(3)
+    Doc: 5: 1 times
+    Doc: 13: 1 times
+    Doc: 15: 2 times
+showcased(2)
+    Doc: 5: 1 times
+    Doc: 17: 1 times
+medtech(1)
+    Doc: 5: 1 times
+insight(3)
+    Doc: 5: 1 times
+    Doc: 11: 1 times
+    Doc: 20: 1 times
+in3(1)
+    Doc: 5: 1 times
+east(1)
+    Doc: 5: 1 times
+fall(2)
+    Doc: 5: 1 times
+    Doc: 9: 1 times
+conference(2)
+    Doc: 5: 1 times
+    Doc: 15: 1 times
+york(2)
+    Doc: 5: 1 times
+    Doc: 20: 1 times
+city(1)
+    Doc: 5: 1 times
+commercialization(3)
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+outstanding(2)
+    Doc: 5: 1 times
+    Doc: 8: 1 times
+example(3)
+    Doc: 5: 1 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+applying(2)
+    Doc: 5: 1 times
+    Doc: 16: 1 times
+noted(1)
+    Doc: 5: 1 times
+jan(1)
+    Doc: 6: 1 times
+2002(5)
+    Doc: 6: 1 times
+    Doc: 9: 1 times
+    Doc: 11: 3 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+jonas(1)
+    Doc: 6: 1 times
+dimo(1)
+    Doc: 6: 1 times
+5612(1)
+    Doc: 6: 1 times
+14(1)
+    Doc: 6: 1 times
+speed(4)
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 10: 1 times
+    Doc: 13: 7 times
+aircraft(3)
+    Doc: 6: 2 times
+    Doc: 8: 1 times
+    Doc: 10: 8 times
+departures(1)
+    Doc: 6: 3 times
+researchers(6)
+    Doc: 6: 2 times
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 14: 3 times
+    Doc: 16: 3 times
+    Doc: 19: 1 times
+aim(1)
+    Doc: 6: 1 times
+avert(1)
+    Doc: 6: 1 times
+airport(1)
+    Doc: 6: 2 times
+gridlock(1)
+    Doc: 6: 1 times
+evaluated(1)
+    Doc: 6: 1 times
+virtual(1)
+    Doc: 6: 1 times
+tower(1)
+    Doc: 6: 2 times
+simulator(1)
+    Doc: 6: 2 times
+fort(1)
+    Doc: 6: 1 times
+worth(2)
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+traffic(2)
+    Doc: 6: 5 times
+    Doc: 13: 1 times
+controllers(2)
+    Doc: 6: 9 times
+    Doc: 17: 1 times
+conducted(3)
+    Doc: 6: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+second(2)
+    Doc: 6: 1 times
+    Doc: 13: 7 times
+evaluation(1)
+    Doc: 6: 4 times
+sms(1)
+    Doc: 6: 3 times
+systems(5)
+    Doc: 6: 3 times
+    Doc: 8: 1 times
+    Doc: 10: 2 times
+    Doc: 11: 1 times
+    Doc: 16: 1 times
+airports(1)
+    Doc: 6: 2 times
+dont(1)
+    Doc: 6: 1 times
+rush(1)
+    Doc: 6: 1 times
+hour(4)
+    Doc: 6: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+often(1)
+    Doc: 6: 1 times
+exceed(1)
+    Doc: 6: 1 times
+runway(1)
+    Doc: 6: 2 times
+capacity(1)
+    Doc: 6: 4 times
+creating(1)
+    Doc: 6: 1 times
+delays(2)
+    Doc: 6: 2 times
+    Doc: 8: 1 times
+main(3)
+    Doc: 6: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+airlines(1)
+    Doc: 6: 1 times
+collaboratively(1)
+    Doc: 6: 1 times
+manage(1)
+    Doc: 6: 2 times
+departure(1)
+    Doc: 6: 3 times
+movements(1)
+    Doc: 6: 1 times
+gathers(1)
+    Doc: 6: 1 times
+relevant(1)
+    Doc: 6: 1 times
+processes(1)
+    Doc: 6: 1 times
+displays(1)
+    Doc: 6: 1 times
+appropriate(1)
+    Doc: 6: 1 times
+advisories(1)
+    Doc: 6: 1 times
+users(2)
+    Doc: 6: 1 times
+    Doc: 16: 1 times
+steve(2)
+    Doc: 6: 1 times
+    Doc: 9: 2 times
+atkins(1)
+    Doc: 6: 2 times
+lead(4)
+    Doc: 6: 1 times
+    Doc: 13: 1 times
+    Doc: 14: 2 times
+    Doc: 19: 1 times
+decrease(1)
+    Doc: 6: 1 times
+compiled(1)
+    Doc: 6: 1 times
+displayed(1)
+    Doc: 6: 1 times
+maps(2)
+    Doc: 6: 1 times
+    Doc: 16: 14 times
+timelines(1)
+    Doc: 6: 1 times
+graphs(1)
+    Doc: 6: 1 times
+giving(1)
+    Doc: 6: 1 times
+timely(2)
+    Doc: 6: 1 times
+    Doc: 19: 1 times
+effectively(1)
+    Doc: 6: 1 times
+movement(1)
+    Doc: 6: 1 times
+terminal(1)
+    Doc: 6: 1 times
+predict(1)
+    Doc: 6: 1 times
+possible(4)
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+congestion(1)
+    Doc: 6: 1 times
+rapidly(1)
+    Doc: 6: 1 times
+bottlenecks(1)
+    Doc: 6: 1 times
+flight(10)
+    Doc: 6: 4 times
+    Doc: 9: 1 times
+    Doc: 10: 6 times
+    Doc: 11: 5 times
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 16: 2 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+central(3)
+    Doc: 6: 3 times
+    Doc: 9: 5 times
+    Doc: 17: 1 times
+ffc(1)
+    Doc: 6: 2 times
+gives(2)
+    Doc: 6: 1 times
+    Doc: 20: 2 times
+tools(3)
+    Doc: 6: 2 times
+    Doc: 12: 3 times
+    Doc: 15: 1 times
+degree(3)
+    Doc: 6: 1 times
+    Doc: 11: 2 times
+    Doc: 20: 1 times
+views(2)
+    Doc: 6: 1 times
+    Doc: 17: 1 times
+very(2)
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+realistic(2)
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+experience(2)
+    Doc: 6: 1 times
+    Doc: 11: 1 times
+refine(1)
+    Doc: 6: 1 times
+user(2)
+    Doc: 6: 2 times
+    Doc: 7: 3 times
+interface(1)
+    Doc: 6: 1 times
+identify(2)
+    Doc: 6: 1 times
+    Doc: 14: 1 times
+features(3)
+    Doc: 6: 2 times
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+presented(1)
+    Doc: 6: 1 times
+spectrum(1)
+    Doc: 6: 1 times
+ideas(1)
+    Doc: 6: 2 times
+group(1)
+    Doc: 6: 1 times
+federal(1)
+    Doc: 6: 2 times
+airline(1)
+    Doc: 6: 1 times
+representatives(2)
+    Doc: 6: 2 times
+    Doc: 15: 1 times
+focus(3)
+    Doc: 6: 1 times
+    Doc: 11: 1 times
+    Doc: 15: 1 times
+capabilities(1)
+    Doc: 6: 1 times
+helpful(1)
+    Doc: 6: 1 times
+positively(1)
+    Doc: 6: 1 times
+realism(1)
+    Doc: 6: 1 times
+provided(4)
+    Doc: 6: 1 times
+    Doc: 10: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+smooth(2)
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+transition(1)
+    Doc: 6: 1 times
+integration(1)
+    Doc: 6: 1 times
+arrival(1)
+    Doc: 6: 1 times
+scheduling(1)
+    Doc: 6: 1 times
+staged(1)
+    Doc: 6: 1 times
+participants(1)
+    Doc: 6: 1 times
+free(3)
+    Doc: 6: 1 times
+    Doc: 8: 1 times
+    Doc: 20: 1 times
+officials(2)
+    Doc: 6: 1 times
+    Doc: 15: 1 times
+passenger(1)
+    Doc: 6: 1 times
+freight(1)
+    Doc: 6: 1 times
+carriers(1)
+    Doc: 6: 1 times
+memphis(1)
+    Doc: 6: 1 times
+norfolk(1)
+    Doc: 6: 1 times
+advanced(4)
+    Doc: 6: 1 times
+    Doc: 10: 1 times
+    Doc: 12: 3 times
+    Doc: 17: 1 times
+technologies(2)
+    Doc: 6: 1 times
+    Doc: 7: 1 times
+conducting(1)
+    Doc: 6: 1 times
+1980s(1)
+    Doc: 6: 1 times
+21(1)
+    Doc: 7: 1 times
+keith(1)
+    Doc: 7: 1 times
+henry(1)
+    Doc: 7: 1 times
+langley(2)
+    Doc: 7: 5 times
+    Doc: 10: 2 times
+hampton(2)
+    Doc: 7: 2 times
+    Doc: 10: 2 times
+6120(1)
+    Doc: 7: 1 times
+172(1)
+    Doc: 7: 1 times
+weekend(1)
+    Doc: 7: 2 times
+photographers(1)
+    Doc: 7: 3 times
+look(4)
+    Doc: 7: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 2 times
+pros(1)
+    Doc: 7: 1 times
+picture(4)
+    Doc: 7: 3 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+thousand(1)
+    Doc: 7: 1 times
+words(1)
+    Doc: 7: 1 times
+enhancement(1)
+    Doc: 7: 4 times
+jointly(1)
+    Doc: 7: 1 times
+average(1)
+    Doc: 7: 2 times
+photographer(1)
+    Doc: 7: 2 times
+vocabulary(1)
+    Doc: 7: 1 times
+many(5)
+    Doc: 7: 2 times
+    Doc: 10: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+especially(2)
+    Doc: 7: 2 times
+    Doc: 16: 1 times
+increasingly(1)
+    Doc: 7: 1 times
+popular(2)
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+digital(2)
+    Doc: 7: 3 times
+    Doc: 11: 1 times
+format(1)
+    Doc: 7: 1 times
+friends(1)
+    Doc: 7: 1 times
+favorite(1)
+    Doc: 7: 1 times
+hobby(1)
+    Doc: 7: 1 times
+corrected(1)
+    Doc: 7: 1 times
+common(2)
+    Doc: 7: 1 times
+    Doc: 19: 1 times
+winning(1)
+    Doc: 7: 1 times
+retinex(1)
+    Doc: 7: 4 times
+imaging(2)
+    Doc: 7: 2 times
+    Doc: 20: 3 times
+enhance(3)
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 18: 1 times
+captured(2)
+    Doc: 7: 2 times
+    Doc: 19: 1 times
+growing(1)
+    Doc: 7: 1 times
+low(1)
+    Doc: 7: 2 times
+cost(2)
+    Doc: 7: 1 times
+    Doc: 18: 1 times
+color(1)
+    Doc: 7: 2 times
+cameras(1)
+    Doc: 7: 1 times
+printers(1)
+    Doc: 7: 1 times
+desktop(1)
+    Doc: 7: 1 times
+publishing(1)
+    Doc: 7: 1 times
+process(1)
+    Doc: 7: 2 times
+sensing(1)
+    Doc: 7: 1 times
+corp(1)
+    Doc: 7: 1 times
+stc(1)
+    Doc: 7: 4 times
+truview(1)
+    Doc: 7: 1 times
+affiliate(1)
+    Doc: 7: 1 times
+professional(2)
+    Doc: 7: 1 times
+    Doc: 15: 1 times
+industrial(2)
+    Doc: 7: 1 times
+    Doc: 8: 2 times
+end(2)
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+amateur(2)
+    Doc: 7: 1 times
+    Doc: 17: 2 times
+armed(1)
+    Doc: 7: 1 times
+nothing(2)
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+personal(1)
+    Doc: 7: 1 times
+desire(1)
+    Doc: 7: 1 times
+brightness(1)
+    Doc: 7: 1 times
+scene(2)
+    Doc: 7: 1 times
+    Doc: 19: 3 times
+contrast(1)
+    Doc: 7: 2 times
+detail(3)
+    Doc: 7: 1 times
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+overall(1)
+    Doc: 7: 1 times
+sharpness(1)
+    Doc: 7: 1 times
+much(6)
+    Doc: 7: 1 times
+    Doc: 9: 4 times
+    Doc: 12: 1 times
+    Doc: 13: 2 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+ease(1)
+    Doc: 7: 1 times
+distinguishes(1)
+    Doc: 7: 1 times
+makes(1)
+    Doc: 7: 2 times
+automatically(1)
+    Doc: 7: 1 times
+yet(4)
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 13: 4 times
+    Doc: 19: 1 times
+manipulate(1)
+    Doc: 7: 1 times
+desired(1)
+    Doc: 7: 1 times
+likely(2)
+    Doc: 7: 1 times
+    Doc: 20: 1 times
+wont(1)
+    Doc: 7: 1 times
+correct(1)
+    Doc: 7: 2 times
+impressive(1)
+    Doc: 7: 1 times
+win(1)
+    Doc: 7: 1 times
+act(2)
+    Doc: 7: 1 times
+    Doc: 15: 1 times
+award(1)
+    Doc: 7: 1 times
+top(2)
+    Doc: 7: 1 times
+    Doc: 14: 1 times
+inventions(1)
+    Doc: 7: 1 times
+valuable(2)
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+stand(1)
+    Doc: 7: 1 times
+little(2)
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+glenn(2)
+    Doc: 7: 1 times
+    Doc: 11: 1 times
+woodell(1)
+    Doc: 7: 2 times
+inventors(1)
+    Doc: 7: 2 times
+dan(1)
+    Doc: 7: 1 times
+jobson(1)
+    Doc: 7: 1 times
+principal(4)
+    Doc: 7: 1 times
+    Doc: 18: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+teamed(1)
+    Doc: 7: 1 times
+ur(1)
+    Doc: 7: 1 times
+rahman(1)
+    Doc: 7: 2 times
+modify(1)
+    Doc: 7: 1 times
+thinks(1)
+    Doc: 7: 1 times
+consumers(1)
+    Doc: 7: 1 times
+gratifying(1)
+    Doc: 7: 1 times
+never(3)
+    Doc: 7: 1 times
+    Doc: 10: 1 times
+    Doc: 17: 1 times
+consider(1)
+    Doc: 7: 1 times
+doing(1)
+    Doc: 7: 1 times
+anything(1)
+    Doc: 7: 1 times
+snapping(1)
+    Doc: 7: 1 times
+finish(1)
+    Doc: 7: 1 times
+beauty(1)
+    Doc: 7: 1 times
+visual(1)
+    Doc: 7: 2 times
+impact(3)
+    Doc: 7: 1 times
+    Doc: 10: 1 times
+    Doc: 18: 12 times
+photographs(1)
+    Doc: 7: 1 times
+diminished(1)
+    Doc: 7: 1 times
+damaged(1)
+    Doc: 7: 1 times
+ruined(1)
+    Doc: 7: 1 times
+colors(2)
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+details(2)
+    Doc: 7: 1 times
+    Doc: 14: 1 times
+lost(1)
+    Doc: 7: 1 times
+suppressed(1)
+    Doc: 7: 1 times
+shadows(1)
+    Doc: 7: 1 times
+light(5)
+    Doc: 7: 1 times
+    Doc: 9: 3 times
+    Doc: 13: 2 times
+    Doc: 19: 2 times
+    Doc: 20: 1 times
+level(2)
+    Doc: 7: 1 times
+    Doc: 10: 1 times
+zones(2)
+    Doc: 7: 1 times
+    Doc: 20: 3 times
+scenes(1)
+    Doc: 7: 1 times
+viewed(3)
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 2 times
+directly(5)
+    Doc: 7: 1 times
+    Doc: 8: 1 times
+    Doc: 13: 2 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+observer(1)
+    Doc: 7: 1 times
+vivid(1)
+    Doc: 7: 1 times
+comparison(3)
+    Doc: 7: 1 times
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+consequently(1)
+    Doc: 7: 1 times
+loses(2)
+    Doc: 7: 1 times
+    Doc: 14: 1 times
+emotional(1)
+    Doc: 7: 1 times
+intensity(1)
+    Doc: 7: 1 times
+memory(1)
+    Doc: 7: 1 times
+methods(1)
+    Doc: 7: 1 times
+limitations(1)
+    Doc: 7: 1 times
+insufficiently(1)
+    Doc: 7: 1 times
+powerful(2)
+    Doc: 7: 1 times
+    Doc: 19: 1 times
+require(2)
+    Doc: 7: 1 times
+    Doc: 12: 1 times
+tedious(1)
+    Doc: 7: 2 times
+manual(1)
+    Doc: 7: 1 times
+interactions(1)
+    Doc: 7: 1 times
+marisol(1)
+    Doc: 7: 1 times
+garcia(1)
+    Doc: 7: 1 times
+currently(1)
+    Doc: 7: 1 times
+refined(1)
+    Doc: 7: 1 times
+video(1)
+    Doc: 7: 1 times
+automatic(1)
+    Doc: 7: 1 times
+correcting(1)
+    Doc: 7: 1 times
+should(2)
+    Doc: 7: 1 times
+    Doc: 9: 4 times
+quick(2)
+    Doc: 7: 1 times
+    Doc: 12: 1 times
+otherwise(2)
+    Doc: 7: 1 times
+    Doc: 13: 1 times
+still(2)
+    Doc: 7: 1 times
+    Doc: 19: 1 times
+web(3)
+    Doc: 7: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+news(1)
+    Doc: 7: 1 times
+dec(1)
+    Doc: 8: 1 times
+17(1)
+    Doc: 8: 1 times
+244(1)
+    Doc: 8: 1 times
+melts(1)
+    Doc: 8: 1 times
+ice(3)
+    Doc: 8: 6 times
+    Doc: 14: 9 times
+    Doc: 16: 1 times
+transit(2)
+    Doc: 8: 3 times
+    Doc: 12: 1 times
+safe(1)
+    Doc: 8: 1 times
+environmentally(1)
+    Doc: 8: 4 times
+friendly(1)
+    Doc: 8: 4 times
+icing(1)
+    Doc: 8: 7 times
+fluid(1)
+    Doc: 8: 14 times
+railroad(1)
+    Doc: 8: 2 times
+commuter(1)
+    Doc: 8: 1 times
+travel(2)
+    Doc: 8: 2 times
+    Doc: 16: 1 times
+reliable(2)
+    Doc: 8: 1 times
+    Doc: 14: 1 times
+snowy(1)
+    Doc: 8: 1 times
+under(4)
+    Doc: 8: 1 times
+    Doc: 12: 1 times
+    Doc: 17: 2 times
+    Doc: 19: 1 times
+midwest(1)
+    Doc: 8: 2 times
+canton(1)
+    Doc: 8: 1 times
+ohio(1)
+    Doc: 8: 1 times
+produced(4)
+    Doc: 8: 1 times
+    Doc: 13: 1 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+snow(2)
+    Doc: 8: 6 times
+    Doc: 14: 4 times
+railways(1)
+    Doc: 8: 2 times
+ride(2)
+    Doc: 8: 1 times
+    Doc: 18: 1 times
+passengers(1)
+    Doc: 8: 1 times
+helping(2)
+    Doc: 8: 1 times
+    Doc: 11: 1 times
+shutdowns(1)
+    Doc: 8: 1 times
+weather(2)
+    Doc: 8: 1 times
+    Doc: 16: 3 times
+freezing(1)
+    Doc: 8: 3 times
+encountered(1)
+    Doc: 8: 2 times
+forming(2)
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+explained(2)
+    Doc: 8: 1 times
+    Doc: 12: 1 times
+zuk(1)
+    Doc: 8: 3 times
+developers(1)
+    Doc: 8: 1 times
+already(1)
+    Doc: 8: 1 times
+frozen(2)
+    Doc: 8: 1 times
+    Doc: 14: 2 times
+melt(1)
+    Doc: 8: 3 times
+1990s(1)
+    Doc: 8: 1 times
+replace(1)
+    Doc: 8: 1 times
+highly(2)
+    Doc: 8: 1 times
+    Doc: 12: 1 times
+toxic(1)
+    Doc: 8: 2 times
+biodegradable(1)
+    Doc: 8: 2 times
+fluids(1)
+    Doc: 8: 2 times
+aerospace(4)
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+however(2)
+    Doc: 8: 1 times
+    Doc: 20: 1 times
+totally(1)
+    Doc: 8: 1 times
+corrosive(1)
+    Doc: 8: 1 times
+improves(1)
+    Doc: 8: 1 times
+polluting(1)
+    Doc: 8: 1 times
+derived(1)
+    Doc: 8: 1 times
+vitale(1)
+    Doc: 8: 2 times
+mis(1)
+    Doc: 8: 2 times
+ready(2)
+    Doc: 8: 1 times
+    Doc: 12: 2 times
+offer(1)
+    Doc: 8: 1 times
+sprayed(1)
+    Doc: 8: 2 times
+poured(1)
+    Doc: 8: 1 times
+depending(1)
+    Doc: 8: 1 times
+application(1)
+    Doc: 8: 2 times
+protected(1)
+    Doc: 8: 1 times
+film(1)
+    Doc: 8: 1 times
+formed(4)
+    Doc: 8: 1 times
+    Doc: 9: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+rain(2)
+    Doc: 8: 2 times
+    Doc: 16: 4 times
+dew(1)
+    Doc: 8: 1 times
+object(3)
+    Doc: 8: 2 times
+    Doc: 9: 2 times
+    Doc: 19: 1 times
+fallen(2)
+    Doc: 8: 1 times
+    Doc: 14: 1 times
+upon(2)
+    Doc: 8: 1 times
+    Doc: 13: 1 times
+contact(1)
+    Doc: 8: 1 times
+refreezing(1)
+    Doc: 8: 1 times
+characteristics(1)
+    Doc: 8: 1 times
+strong(2)
+    Doc: 8: 1 times
+    Doc: 13: 1 times
+resistance(1)
+    Doc: 8: 1 times
+gravity(2)
+    Doc: 8: 1 times
+    Doc: 12: 2 times
+coat(1)
+    Doc: 8: 1 times
+wind(2)
+    Doc: 8: 1 times
+    Doc: 17: 1 times
+impressed(1)
+    Doc: 8: 1 times
+looking(3)
+    Doc: 8: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+expand(1)
+    Doc: 8: 1 times
+industries(1)
+    Doc: 8: 1 times
+face(1)
+    Doc: 8: 1 times
+similar(2)
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+bridges(1)
+    Doc: 8: 2 times
+streets(1)
+    Doc: 8: 1 times
+runways(1)
+    Doc: 8: 1 times
+ships(1)
+    Doc: 8: 1 times
+boats(1)
+    Doc: 8: 1 times
+automobiles(1)
+    Doc: 8: 1 times
+homes(1)
+    Doc: 8: 1 times
+sidewalks(1)
+    Doc: 8: 1 times
+roofs(1)
+    Doc: 8: 1 times
+neither(1)
+    Doc: 8: 1 times
+acid(1)
+    Doc: 8: 1 times
+nor(1)
+    Doc: 8: 1 times
+base(2)
+    Doc: 8: 1 times
+    Doc: 10: 1 times
+corrode(1)
+    Doc: 8: 1 times
+reinforced(1)
+    Doc: 8: 1 times
+concrete(1)
+    Doc: 8: 1 times
+roadways(1)
+    Doc: 8: 1 times
+safely(1)
+    Doc: 8: 1 times
+similarly(1)
+    Doc: 8: 1 times
+avoid(1)
+    Doc: 8: 1 times
+corrosion(1)
+    Doc: 8: 1 times
+typically(2)
+    Doc: 8: 1 times
+    Doc: 19: 1 times
+road(1)
+    Doc: 8: 1 times
+salt(1)
+    Doc: 8: 1 times
+charter(1)
+    Doc: 8: 1 times
+developments(2)
+    Doc: 8: 1 times
+    Doc: 19: 1 times
+cathy(1)
+    Doc: 8: 1 times
+pochel(1)
+    Doc: 8: 1 times
+donald(5)
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+savage(5)
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+1727(3)
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+    Doc: 18: 1 times
+september(3)
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+9(2)
+    Doc: 9: 1 times
+    Doc: 17: 1 times
+roy(1)
+    Doc: 9: 1 times
+marshall(1)
+    Doc: 9: 1 times
+huntsville(1)
+    Doc: 9: 1 times
+ala(1)
+    Doc: 9: 1 times
+6535(1)
+    Doc: 9: 1 times
+megan(1)
+    Doc: 9: 1 times
+watzke(1)
+    Doc: 9: 1 times
+cfa(1)
+    Doc: 9: 1 times
+cambridge(4)
+    Doc: 9: 2 times
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+7998(1)
+    Doc: 9: 1 times
+284(1)
+    Doc: 9: 1 times
+hears(1)
+    Doc: 9: 1 times
+sound(2)
+    Doc: 9: 12 times
+    Doc: 10: 2 times
+waves(4)
+    Doc: 9: 10 times
+    Doc: 10: 6 times
+    Doc: 13: 7 times
+    Doc: 19: 1 times
+note(1)
+    Doc: 9: 4 times
+tremendous(1)
+    Doc: 9: 2 times
+amounts(1)
+    Doc: 9: 2 times
+carried(2)
+    Doc: 9: 2 times
+    Doc: 18: 2 times
+solve(2)
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+longstanding(1)
+    Doc: 9: 1 times
+problem(2)
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+astrophysics(1)
+    Doc: 9: 1 times
+resides(1)
+    Doc: 9: 1 times
+perseus(1)
+    Doc: 9: 4 times
+cluster(1)
+    Doc: 9: 11 times
+located(1)
+    Doc: 9: 1 times
+observation(3)
+    Doc: 9: 2 times
+    Doc: 13: 1 times
+    Doc: 19: 4 times
+shows(4)
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+ripples(2)
+    Doc: 9: 2 times
+    Doc: 13: 3 times
+filling(1)
+    Doc: 9: 1 times
+traveled(2)
+    Doc: 9: 1 times
+    Doc: 11: 1 times
+hundreds(4)
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+observed(1)
+    Doc: 9: 2 times
+prodigious(1)
+    Doc: 9: 1 times
+created(3)
+    Doc: 9: 1 times
+    Doc: 10: 1 times
+    Doc: 13: 1 times
+andrew(2)
+    Doc: 9: 1 times
+    Doc: 20: 1 times
+fabian(1)
+    Doc: 9: 1 times
+astronomy(5)
+    Doc: 9: 1 times
+    Doc: 11: 2 times
+    Doc: 17: 4 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+ioa(1)
+    Doc: 9: 2 times
+england(1)
+    Doc: 9: 1 times
+leader(3)
+    Doc: 9: 1 times
+    Doc: 12: 2 times
+    Doc: 20: 1 times
+musical(1)
+    Doc: 9: 1 times
+terms(2)
+    Doc: 9: 1 times
+    Doc: 12: 1 times
+pitch(1)
+    Doc: 9: 2 times
+generated(1)
+    Doc: 9: 1 times
+translates(1)
+    Doc: 9: 1 times
+b(1)
+    Doc: 9: 1 times
+flat(1)
+    Doc: 9: 2 times
+hearing(1)
+    Doc: 9: 2 times
+57(1)
+    Doc: 9: 2 times
+octaves(1)
+    Doc: 9: 3 times
+lower(2)
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+c(1)
+    Doc: 9: 2 times
+typical(1)
+    Doc: 9: 1 times
+piano(1)
+    Doc: 9: 1 times
+contains(1)
+    Doc: 9: 1 times
+frequency(2)
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+deeper(1)
+    Doc: 9: 1 times
+interesting(2)
+    Doc: 9: 1 times
+    Doc: 20: 1 times
+acoustics(1)
+    Doc: 9: 1 times
+allen(1)
+    Doc: 9: 2 times
+key(1)
+    Doc: 9: 1 times
+figuring(1)
+    Doc: 9: 1 times
+structures(1)
+    Doc: 9: 1 times
+tried(1)
+    Doc: 9: 1 times
+understand(2)
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+why(1)
+    Doc: 9: 2 times
+there(2)
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+cool(1)
+    Doc: 9: 5 times
+glowing(2)
+    Doc: 9: 1 times
+    Doc: 17: 2 times
+rays(2)
+    Doc: 9: 3 times
+    Doc: 19: 2 times
+dense(2)
+    Doc: 9: 1 times
+    Doc: 13: 2 times
+fastest(2)
+    Doc: 9: 1 times
+    Doc: 13: 2 times
+pressure(2)
+    Doc: 9: 1 times
+    Doc: 10: 3 times
+causing(1)
+    Doc: 9: 1 times
+sink(1)
+    Doc: 9: 1 times
+towards(1)
+    Doc: 9: 1 times
+trillions(1)
+    Doc: 9: 1 times
+along(4)
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+scant(1)
+    Doc: 9: 1 times
+forced(1)
+    Doc: 9: 1 times
+invent(1)
+    Doc: 9: 1 times
+different(3)
+    Doc: 9: 1 times
+    Doc: 12: 1 times
+    Doc: 20: 1 times
+ways(2)
+    Doc: 9: 1 times
+    Doc: 15: 1 times
+explain(1)
+    Doc: 9: 1 times
+contained(1)
+    Doc: 9: 1 times
+none(2)
+    Doc: 9: 1 times
+    Doc: 13: 2 times
+satisfactory(1)
+    Doc: 9: 1 times
+heating(1)
+    Doc: 9: 3 times
+caused(2)
+    Doc: 9: 1 times
+    Doc: 19: 1 times
+considered(3)
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+    Doc: 20: 1 times
+good(1)
+    Doc: 9: 1 times
+cooling(3)
+    Doc: 9: 2 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+although(1)
+    Doc: 9: 1 times
+jets(1)
+    Doc: 9: 2 times
+radio(1)
+    Doc: 9: 2 times
+wavelengths(1)
+    Doc: 9: 1 times
+effect(1)
+    Doc: 9: 1 times
+unclear(1)
+    Doc: 9: 1 times
+detectable(1)
+    Doc: 9: 1 times
+did(1)
+    Doc: 9: 1 times
+structure(2)
+    Doc: 9: 1 times
+    Doc: 12: 2 times
+previous(1)
+    Doc: 9: 1 times
+showed(2)
+    Doc: 9: 1 times
+    Doc: 10: 2 times
+vast(1)
+    Doc: 9: 1 times
+shaped(4)
+    Doc: 9: 1 times
+    Doc: 10: 2 times
+    Doc: 17: 2 times
+    Doc: 20: 1 times
+cavities(1)
+    Doc: 9: 5 times
+extending(1)
+    Doc: 9: 1 times
+pushing(1)
+    Doc: 9: 1 times
+bright(2)
+    Doc: 9: 1 times
+    Doc: 19: 1 times
+suspected(1)
+    Doc: 9: 1 times
+surrounding(2)
+    Doc: 9: 1 times
+    Doc: 19: 1 times
+mechanism(3)
+    Doc: 9: 2 times
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+unknown(1)
+    Doc: 9: 1 times
+spreading(1)
+    Doc: 9: 1 times
+recent(1)
+    Doc: 9: 1 times
+generate(1)
+    Doc: 9: 1 times
+combined(3)
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+    Doc: 17: 1 times
+100(3)
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+dissipate(1)
+    Doc: 9: 1 times
+warm(1)
+    Doc: 9: 1 times
+possibly(2)
+    Doc: 9: 1 times
+    Doc: 19: 1 times
+preventing(1)
+    Doc: 9: 1 times
+wave(2)
+    Doc: 9: 1 times
+    Doc: 13: 1 times
+roughly(1)
+    Doc: 9: 1 times
+constant(1)
+    Doc: 9: 1 times
+brightest(1)
+    Doc: 9: 1 times
+perfect(1)
+    Doc: 9: 1 times
+target(2)
+    Doc: 9: 1 times
+    Doc: 17: 1 times
+rippling(1)
+    Doc: 9: 1 times
+show(5)
+    Doc: 9: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+    Doc: 20: 2 times
+detect(3)
+    Doc: 9: 1 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+objects(2)
+    Doc: 9: 1 times
+    Doc: 13: 2 times
+edu(2)
+    Doc: 9: 1 times
+    Doc: 18: 1 times
+kathy(1)
+    Doc: 10: 1 times
+barnstorff(1)
+    Doc: 10: 1 times
+9886(1)
+    Doc: 10: 1 times
+gray(1)
+    Doc: 10: 1 times
+creech(1)
+    Doc: 10: 1 times
+dryden(1)
+    Doc: 10: 3 times
+edwards(1)
+    Doc: 10: 3 times
+2664(1)
+    Doc: 10: 1 times
+283(1)
+    Doc: 10: 1 times
+opens(1)
+    Doc: 10: 1 times
+chapter(1)
+    Doc: 10: 1 times
+supersonic(1)
+    Doc: 10: 4 times
+completed(1)
+    Doc: 10: 1 times
+government(1)
+    Doc: 10: 2 times
+partners(2)
+    Doc: 10: 1 times
+    Doc: 15: 1 times
+demonstrated(1)
+    Doc: 10: 2 times
+rattling(1)
+    Doc: 10: 1 times
+sonic(1)
+    Doc: 10: 9 times
+booms(1)
+    Doc: 10: 2 times
+aug(1)
+    Doc: 10: 1 times
+27(3)
+    Doc: 10: 1 times
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+chuck(1)
+    Doc: 10: 1 times
+yeager(1)
+    Doc: 10: 1 times
+broke(1)
+    Doc: 10: 1 times
+barrier(1)
+    Doc: 10: 1 times
+56(1)
+    Doc: 10: 1 times
+modifying(1)
+    Doc: 10: 1 times
+shape(3)
+    Doc: 10: 5 times
+    Doc: 13: 1 times
+    Doc: 20: 1 times
+change(3)
+    Doc: 10: 1 times
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+boom(1)
+    Doc: 10: 7 times
+loudness(1)
+    Doc: 10: 2 times
+had(4)
+    Doc: 10: 1 times
+    Doc: 11: 2 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+actual(1)
+    Doc: 10: 1 times
+defense(2)
+    Doc: 10: 1 times
+    Doc: 12: 1 times
+ssbd(1)
+    Doc: 10: 2 times
+cooperative(3)
+    Doc: 10: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+supported(1)
+    Doc: 10: 1 times
+larc(1)
+    Doc: 10: 2 times
+northrop(1)
+    Doc: 10: 2 times
+grumman(1)
+    Doc: 10: 2 times
+corporation(1)
+    Doc: 10: 1 times
+el(2)
+    Doc: 10: 1 times
+    Doc: 16: 1 times
+segundo(1)
+    Doc: 10: 1 times
+support(2)
+    Doc: 10: 1 times
+    Doc: 19: 1 times
+organizations(2)
+    Doc: 10: 1 times
+    Doc: 19: 1 times
+culmination(1)
+    Doc: 10: 1 times
+40(1)
+    Doc: 10: 1 times
+visionary(1)
+    Doc: 10: 1 times
+engineers(1)
+    Doc: 10: 1 times
+wlezien(1)
+    Doc: 10: 1 times
+vehicle(1)
+    Doc: 10: 1 times
+foresaw(1)
+    Doc: 10: 1 times
+generation(2)
+    Doc: 10: 1 times
+    Doc: 18: 1 times
+do(2)
+    Doc: 10: 1 times
+    Doc: 17: 1 times
+disturb(1)
+    Doc: 10: 1 times
+frontiers(1)
+    Doc: 10: 1 times
+aeronautics(1)
+    Doc: 10: 1 times
+remain(1)
+    Doc: 10: 1 times
+explored(1)
+    Doc: 10: 1 times
+traveling(1)
+    Doc: 10: 1 times
+atmosphere(3)
+    Doc: 10: 1 times
+    Doc: 14: 1 times
+    Doc: 20: 3 times
+produces(1)
+    Doc: 10: 1 times
+bow(1)
+    Doc: 10: 1 times
+ship(1)
+    Doc: 10: 1 times
+exceeds(1)
+    Doc: 10: 1 times
+750(1)
+    Doc: 10: 1 times
+mph(1)
+    Doc: 10: 1 times
+sea(1)
+    Doc: 10: 1 times
+merge(2)
+    Doc: 10: 1 times
+    Doc: 16: 1 times
+shock(2)
+    Doc: 10: 1 times
+    Doc: 19: 1 times
+heard(1)
+    Doc: 10: 1 times
+reach(2)
+    Doc: 10: 2 times
+    Doc: 18: 2 times
+designing(1)
+    Doc: 10: 1 times
+kept(1)
+    Doc: 10: 1 times
+merging(1)
+    Doc: 10: 1 times
+weaker(1)
+    Doc: 10: 1 times
+greatly(2)
+    Doc: 10: 1 times
+    Doc: 19: 1 times
+reduced(1)
+    Doc: 10: 1 times
+confident(2)
+    Doc: 10: 1 times
+    Doc: 18: 1 times
+notoriously(1)
+    Doc: 10: 1 times
+difficult(1)
+    Doc: 10: 1 times
+peter(1)
+    Doc: 10: 1 times
+coen(1)
+    Doc: 10: 1 times
+blown(1)
+    Doc: 10: 1 times
+clarity(1)
+    Doc: 10: 1 times
+measured(2)
+    Doc: 10: 2 times
+    Doc: 14: 1 times
+modified(1)
+    Doc: 10: 3 times
+5e(1)
+    Doc: 10: 3 times
+fighter(1)
+    Doc: 10: 1 times
+navy(1)
+    Doc: 10: 1 times
+naval(1)
+    Doc: 10: 1 times
+command(1)
+    Doc: 10: 1 times
+installed(3)
+    Doc: 10: 1 times
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+specially(1)
+    Doc: 10: 1 times
+nose(1)
+    Doc: 10: 1 times
+aluminum(2)
+    Doc: 10: 1 times
+    Doc: 12: 1 times
+substructure(1)
+    Doc: 10: 1 times
+composite(2)
+    Doc: 10: 1 times
+    Doc: 17: 1 times
+skin(1)
+    Doc: 10: 1 times
+underside(1)
+    Doc: 10: 1 times
+fuselage(1)
+    Doc: 10: 1 times
+experiment(1)
+    Doc: 10: 1 times
+flew(1)
+    Doc: 10: 2 times
+force(1)
+    Doc: 10: 1 times
+speeds(2)
+    Doc: 10: 1 times
+    Doc: 13: 1 times
+15b(1)
+    Doc: 10: 1 times
+magnitude(1)
+    Doc: 10: 1 times
+shortly(2)
+    Doc: 10: 1 times
+    Doc: 19: 1 times
+thereafter(1)
+    Doc: 10: 1 times
+unmodified(1)
+    Doc: 10: 1 times
+airspace(1)
+    Doc: 10: 1 times
+altered(1)
+    Doc: 10: 1 times
+repeated(1)
+    Doc: 10: 1 times
+verified(1)
+    Doc: 10: 1 times
+bob(1)
+    Doc: 11: 1 times
+jacobs(1)
+    Doc: 11: 1 times
+1600(1)
+    Doc: 11: 1 times
+eileen(1)
+    Doc: 11: 1 times
+hawley(1)
+    Doc: 11: 1 times
+280(1)
+    Doc: 11: 1 times
+astronaut(3)
+    Doc: 11: 4 times
+    Doc: 12: 3 times
+    Doc: 15: 1 times
+m(4)
+    Doc: 11: 2 times
+    Doc: 14: 1 times
+    Doc: 15: 3 times
+    Doc: 19: 1 times
+grunsfeld(1)
+    Doc: 11: 10 times
+succeeds(1)
+    Doc: 11: 2 times
+shannon(1)
+    Doc: 11: 4 times
+lucid(1)
+    Doc: 11: 7 times
+chief(1)
+    Doc: 11: 4 times
+scientist(4)
+    Doc: 11: 4 times
+    Doc: 14: 2 times
+    Doc: 16: 1 times
+    Doc: 20: 1 times
+sean(1)
+    Doc: 11: 1 times
+okeefe(1)
+    Doc: 11: 3 times
+announced(1)
+    Doc: 11: 1 times
+selection(1)
+    Doc: 11: 2 times
+veteran(1)
+    Doc: 11: 2 times
+astrophysicist(1)
+    Doc: 11: 1 times
+immediately(1)
+    Doc: 11: 1 times
+played(1)
+    Doc: 11: 1 times
+integral(1)
+    Doc: 11: 1 times
+role(1)
+    Doc: 11: 1 times
+servicing(1)
+    Doc: 11: 2 times
+missions(3)
+    Doc: 11: 1 times
+    Doc: 14: 3 times
+    Doc: 18: 3 times
+hst(2)
+    Doc: 11: 2 times
+    Doc: 17: 5 times
+physics(2)
+    Doc: 11: 5 times
+    Doc: 19: 1 times
+throughout(1)
+    Doc: 11: 1 times
+career(1)
+    Doc: 11: 1 times
+hell(1)
+    Doc: 11: 1 times
+ensure(1)
+    Doc: 11: 1 times
+merit(1)
+    Doc: 11: 1 times
+interest(3)
+    Doc: 11: 1 times
+    Doc: 15: 2 times
+    Doc: 18: 1 times
+astronautical(1)
+    Doc: 11: 1 times
+taught(1)
+    Doc: 11: 1 times
+classroom(2)
+    Doc: 11: 1 times
+    Doc: 15: 2 times
+background(1)
+    Doc: 11: 1 times
+direct(2)
+    Doc: 11: 1 times
+    Doc: 13: 2 times
+important(1)
+    Doc: 11: 2 times
+objectives(1)
+    Doc: 11: 1 times
+serving(1)
+    Doc: 11: 1 times
+return(1)
+    Doc: 11: 3 times
+asked(1)
+    Doc: 11: 1 times
+come(3)
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 20: 2 times
+priorities(1)
+    Doc: 11: 1 times
+order(2)
+    Doc: 11: 1 times
+    Doc: 14: 1 times
+thanks(1)
+    Doc: 11: 1 times
+her(2)
+    Doc: 11: 6 times
+    Doc: 12: 2 times
+leadership(2)
+    Doc: 11: 1 times
+    Doc: 15: 2 times
+mary(2)
+    Doc: 11: 1 times
+    Doc: 20: 1 times
+kicza(1)
+    Doc: 11: 1 times
+assistant(1)
+    Doc: 11: 1 times
+biological(1)
+    Doc: 11: 2 times
+physical(1)
+    Doc: 11: 3 times
+goals(1)
+    Doc: 11: 1 times
+clear(2)
+    Doc: 11: 1 times
+    Doc: 20: 1 times
+direction(3)
+    Doc: 11: 1 times
+    Doc: 17: 2 times
+    Doc: 20: 2 times
+candor(1)
+    Doc: 11: 1 times
+missed(1)
+    Doc: 11: 1 times
+im(1)
+    Doc: 11: 1 times
+sure(1)
+    Doc: 11: 1 times
+colleagues(2)
+    Doc: 11: 1 times
+    Doc: 19: 1 times
+forward(1)
+    Doc: 11: 1 times
+she(4)
+    Doc: 11: 6 times
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+    Doc: 20: 1 times
+tenure(1)
+    Doc: 11: 1 times
+tasks(1)
+    Doc: 11: 1 times
+plan(2)
+    Doc: 11: 1 times
+    Doc: 14: 1 times
+prioritization(1)
+    Doc: 11: 1 times
+board(2)
+    Doc: 11: 2 times
+    Doc: 18: 1 times
+station(3)
+    Doc: 11: 2 times
+    Doc: 12: 4 times
+    Doc: 15: 2 times
+updated(2)
+    Doc: 11: 1 times
+    Doc: 16: 2 times
+policy(1)
+    Doc: 11: 2 times
+done(2)
+    Doc: 11: 2 times
+    Doc: 12: 5 times
+stipulates(1)
+    Doc: 11: 1 times
+grants(1)
+    Doc: 11: 1 times
+peer(1)
+    Doc: 11: 1 times
+reviewed(1)
+    Doc: 11: 1 times
+scientists(6)
+    Doc: 11: 1 times
+    Doc: 13: 3 times
+    Doc: 16: 3 times
+    Doc: 18: 1 times
+    Doc: 19: 5 times
+    Doc: 20: 2 times
+must(4)
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+    Doc: 19: 2 times
+    Doc: 20: 2 times
+compete(1)
+    Doc: 11: 1 times
+1978(1)
+    Doc: 11: 1 times
+became(2)
+    Doc: 11: 1 times
+    Doc: 17: 1 times
+flown(1)
+    Doc: 11: 2 times
+specialist(1)
+    Doc: 11: 2 times
+51g(1)
+    Doc: 11: 1 times
+1985(1)
+    Doc: 11: 1 times
+34(1)
+    Doc: 11: 1 times
+1989(1)
+    Doc: 11: 1 times
+43(2)
+    Doc: 11: 1 times
+    Doc: 20: 1 times
+1991(1)
+    Doc: 11: 1 times
+58(1)
+    Doc: 11: 1 times
+1993(1)
+    Doc: 11: 1 times
+mir(1)
+    Doc: 11: 2 times
+76(1)
+    Doc: 11: 1 times
+served(1)
+    Doc: 11: 3 times
+numerous(1)
+    Doc: 11: 1 times
+experiments(1)
+    Doc: 11: 1 times
+stay(1)
+    Doc: 11: 1 times
+orbit(2)
+    Doc: 11: 2 times
+    Doc: 12: 1 times
+returned(1)
+    Doc: 11: 1 times
+79(1)
+    Doc: 11: 1 times
+miles(3)
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+188(1)
+    Doc: 11: 1 times
+record(1)
+    Doc: 11: 1 times
+extraordinary(3)
+    Doc: 11: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+awarded(1)
+    Doc: 11: 3 times
+congressional(1)
+    Doc: 11: 1 times
+medal(1)
+    Doc: 11: 3 times
+honor(1)
+    Doc: 11: 1 times
+in1999(1)
+    Doc: 11: 1 times
+took(2)
+    Doc: 11: 1 times
+    Doc: 20: 1 times
+total(2)
+    Doc: 11: 1 times
+    Doc: 16: 1 times
+five(3)
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+spacewalks(1)
+    Doc: 11: 1 times
+upgrade(1)
+    Doc: 11: 1 times
+sts(1)
+    Doc: 11: 1 times
+103(1)
+    Doc: 11: 1 times
+helped(1)
+    Doc: 11: 1 times
+install(1)
+    Doc: 11: 1 times
+gyroscopes(1)
+    Doc: 11: 1 times
+instruments(3)
+    Doc: 11: 1 times
+    Doc: 14: 2 times
+    Doc: 16: 1 times
+upgraded(1)
+    Doc: 11: 1 times
+109(1)
+    Doc: 11: 1 times
+payload(1)
+    Doc: 11: 2 times
+commander(1)
+    Doc: 11: 1 times
+charge(1)
+    Doc: 11: 1 times
+spacewalking(1)
+    Doc: 11: 1 times
+activities(1)
+    Doc: 11: 1 times
+crewmates(1)
+    Doc: 11: 1 times
+camera(4)
+    Doc: 11: 2 times
+    Doc: 17: 4 times
+    Doc: 19: 1 times
+    Doc: 20: 2 times
+solar(2)
+    Doc: 11: 1 times
+    Doc: 18: 1 times
+arrays(1)
+    Doc: 11: 1 times
+power(2)
+    Doc: 11: 1 times
+    Doc: 19: 1 times
+meaningful(1)
+    Doc: 11: 1 times
+thing(1)
+    Doc: 11: 1 times
+ive(1)
+    Doc: 11: 1 times
+fundamental(1)
+    Doc: 11: 1 times
+questions(2)
+    Doc: 11: 1 times
+    Doc: 18: 1 times
+place(2)
+    Doc: 11: 1 times
+    Doc: 19: 1 times
+born(2)
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+established(2)
+    Doc: 11: 1 times
+    Doc: 16: 1 times
+grew(1)
+    Doc: 11: 1 times
+together(3)
+    Doc: 11: 2 times
+    Doc: 12: 2 times
+    Doc: 14: 1 times
+mesh(1)
+    Doc: 11: 1 times
+couldnt(2)
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+opportunity(4)
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+native(1)
+    Doc: 11: 1 times
+chicago(1)
+    Doc: 11: 2 times
+bachelor(1)
+    Doc: 11: 1 times
+massachusetts(3)
+    Doc: 11: 1 times
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+1980(1)
+    Doc: 11: 1 times
+earned(1)
+    Doc: 11: 2 times
+maters(1)
+    Doc: 11: 1 times
+doctorate(1)
+    Doc: 11: 1 times
+1988(1)
+    Doc: 11: 1 times
+respectively(1)
+    Doc: 11: 1 times
+assignment(1)
+    Doc: 11: 1 times
+1995(1)
+    Doc: 11: 2 times
+endeavour(1)
+    Doc: 11: 1 times
+67(1)
+    Doc: 11: 1 times
+1997(2)
+    Doc: 11: 3 times
+    Doc: 16: 1 times
+atlantis(1)
+    Doc: 11: 1 times
+81(1)
+    Doc: 11: 1 times
+day(5)
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 2 times
+    Doc: 17: 2 times
+    Doc: 18: 1 times
+russia(1)
+    Doc: 11: 1 times
+logged(1)
+    Doc: 11: 1 times
+45(1)
+    Doc: 11: 1 times
+including(4)
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+37(2)
+    Doc: 11: 1 times
+    Doc: 16: 1 times
+hours(3)
+    Doc: 11: 1 times
+    Doc: 12: 1 times
+    Doc: 16: 2 times
+32(1)
+    Doc: 11: 1 times
+minutes(1)
+    Doc: 11: 1 times
+working(3)
+    Doc: 11: 1 times
+    Doc: 12: 2 times
+    Doc: 14: 1 times
+outside(2)
+    Doc: 11: 1 times
+    Doc: 12: 5 times
+honored(1)
+    Doc: 11: 1 times
+d(1)
+    Doc: 11: 1 times
+grainger(1)
+    Doc: 11: 1 times
+experimental(1)
+    Doc: 11: 1 times
+distinguished(1)
+    Doc: 11: 1 times
+service(2)
+    Doc: 11: 2 times
+    Doc: 15: 1 times
+medals(1)
+    Doc: 11: 1 times
+exceptional(1)
+    Doc: 11: 1 times
+2000(1)
+    Doc: 11: 1 times
+allard(1)
+    Doc: 12: 1 times
+beutel(1)
+    Doc: 12: 1 times
+july(4)
+    Doc: 12: 1 times
+    Doc: 13: 2 times
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+4769(1)
+    Doc: 12: 1 times
+kelly(1)
+    Doc: 12: 1 times
+humphries(1)
+    Doc: 12: 1 times
+227(1)
+    Doc: 12: 1 times
+humans(1)
+    Doc: 12: 5 times
+robots(1)
+    Doc: 12: 8 times
+pacewalk(1)
+    Doc: 12: 1 times
+squad(1)
+    Doc: 12: 2 times
+side(1)
+    Doc: 12: 1 times
+jsc(1)
+    Doc: 12: 3 times
+robotic(2)
+    Doc: 12: 2 times
+    Doc: 19: 2 times
+productivity(1)
+    Doc: 12: 1 times
+astronauts(1)
+    Doc: 12: 5 times
+planets(3)
+    Doc: 12: 2 times
+    Doc: 14: 1 times
+    Doc: 18: 1 times
+think(1)
+    Doc: 12: 4 times
+eva(1)
+    Doc: 12: 7 times
+extravehicular(1)
+    Doc: 12: 2 times
+squads(1)
+    Doc: 12: 3 times
+suits(1)
+    Doc: 12: 2 times
+dexterous(1)
+    Doc: 12: 3 times
+inside(1)
+    Doc: 12: 2 times
+operating(1)
+    Doc: 12: 2 times
+flying(1)
+    Doc: 12: 1 times
+giant(1)
+    Doc: 12: 1 times
+crane(1)
+    Doc: 12: 1 times
+conductor(1)
+    Doc: 12: 1 times
+ambrose(1)
+    Doc: 12: 3 times
+engineering(2)
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+directorate(1)
+    Doc: 12: 1 times
+automation(1)
+    Doc: 12: 1 times
+robotics(1)
+    Doc: 12: 1 times
+simulation(1)
+    Doc: 12: 1 times
+division(1)
+    Doc: 12: 1 times
+uses(2)
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+backing(1)
+    Doc: 12: 1 times
+arm(1)
+    Doc: 12: 1 times
+manages(4)
+    Doc: 12: 1 times
+    Doc: 14: 1 times
+    Doc: 18: 2 times
+    Doc: 20: 1 times
+robonaut(1)
+    Doc: 12: 6 times
+supplied(2)
+    Doc: 12: 1 times
+    Doc: 14: 3 times
+humanoid(1)
+    Doc: 12: 1 times
+eight(2)
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+want(1)
+    Doc: 12: 1 times
+airlock(1)
+    Doc: 12: 1 times
+robot(1)
+    Doc: 12: 1 times
+parallel(1)
+    Doc: 12: 1 times
+getting(1)
+    Doc: 12: 2 times
+twice(2)
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+collaborative(1)
+    Doc: 12: 1 times
+darpa(1)
+    Doc: 12: 1 times
+last(2)
+    Doc: 12: 1 times
+    Doc: 14: 1 times
+nancy(3)
+    Doc: 12: 1 times
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+currie(1)
+    Doc: 12: 8 times
+stepped(1)
+    Doc: 12: 1 times
+suit(1)
+    Doc: 12: 7 times
+participate(2)
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+assemble(1)
+    Doc: 12: 1 times
+truss(1)
+    Doc: 12: 4 times
+companions(1)
+    Doc: 12: 1 times
+assembled(2)
+    Doc: 12: 2 times
+    Doc: 17: 1 times
+cutting(1)
+    Doc: 12: 2 times
+required(2)
+    Doc: 12: 1 times
+    Doc: 17: 1 times
+complete(2)
+    Doc: 12: 1 times
+    Doc: 16: 1 times
+run(1)
+    Doc: 12: 1 times
+electrical(1)
+    Doc: 12: 2 times
+cable(1)
+    Doc: 12: 2 times
+robonauts(1)
+    Doc: 12: 5 times
+package(1)
+    Doc: 12: 1 times
+routing(1)
+    Doc: 12: 1 times
+connected(1)
+    Doc: 12: 1 times
+standard(2)
+    Doc: 12: 3 times
+    Doc: 18: 1 times
+connector(1)
+    Doc: 12: 1 times
+wire(1)
+    Doc: 12: 1 times
+ties(1)
+    Doc: 12: 1 times
+wrap(1)
+    Doc: 12: 1 times
+series(1)
+    Doc: 12: 2 times
+simulated(1)
+    Doc: 12: 1 times
+happen(1)
+    Doc: 12: 1 times
+hazardous(1)
+    Doc: 12: 3 times
+chemical(1)
+    Doc: 12: 2 times
+contaminated(1)
+    Doc: 12: 1 times
+remove(1)
+    Doc: 12: 1 times
+believe(1)
+    Doc: 12: 1 times
+handing(1)
+    Doc: 12: 1 times
+clean(1)
+    Doc: 12: 2 times
+places(3)
+    Doc: 12: 1 times
+    Doc: 14: 2 times
+    Doc: 19: 1 times
+wore(1)
+    Doc: 12: 1 times
+heavy(1)
+    Doc: 12: 1 times
+mobility(1)
+    Doc: 12: 1 times
+emu(1)
+    Doc: 12: 1 times
+easier(1)
+    Doc: 12: 1 times
+maneuver(1)
+    Doc: 12: 1 times
+ilc(1)
+    Doc: 12: 1 times
+dover(1)
+    Doc: 12: 1 times
+assemblies(1)
+    Doc: 12: 1 times
+relative(1)
+    Doc: 12: 1 times
+merits(1)
+    Doc: 12: 1 times
+liabilities(1)
+    Doc: 12: 1 times
+went(1)
+    Doc: 12: 1 times
+going(1)
+    Doc: 12: 1 times
+sending(1)
+    Doc: 12: 2 times
+timeline(1)
+    Doc: 12: 1 times
+worksite(1)
+    Doc: 12: 2 times
+setup(1)
+    Doc: 12: 1 times
+closeout(1)
+    Doc: 12: 1 times
+managing(1)
+    Doc: 12: 1 times
+tethers(1)
+    Doc: 12: 2 times
+productive(1)
+    Doc: 12: 2 times
+send(3)
+    Doc: 12: 1 times
+    Doc: 15: 1 times
+    Doc: 18: 1 times
+leave(1)
+    Doc: 12: 1 times
+late(2)
+    Doc: 12: 1 times
+    Doc: 17: 1 times
+stored(1)
+    Doc: 12: 1 times
+garage(1)
+    Doc: 12: 1 times
+response(2)
+    Doc: 12: 1 times
+    Doc: 19: 1 times
+respond(1)
+    Doc: 12: 1 times
+chemicals(1)
+    Doc: 12: 1 times
+ammonia(1)
+    Doc: 12: 1 times
+noting(1)
+    Doc: 12: 1 times
+trip(1)
+    Doc: 12: 1 times
+mars(2)
+    Doc: 12: 2 times
+    Doc: 14: 16 times
+crew(2)
+    Doc: 12: 2 times
+    Doc: 15: 1 times
+adjust(1)
+    Doc: 12: 1 times
+partial(1)
+    Doc: 12: 1 times
+scouts(1)
+    Doc: 12: 1 times
+letting(1)
+    Doc: 12: 1 times
+adapt(1)
+    Doc: 12: 1 times
+ratchet(1)
+    Doc: 12: 1 times
+wrenches(1)
+    Doc: 12: 1 times
+retractable(1)
+    Doc: 12: 1 times
+socket(1)
+    Doc: 12: 1 times
+caddies(1)
+    Doc: 12: 1 times
+nurse(1)
+    Doc: 12: 2 times
+room(2)
+    Doc: 12: 1 times
+    Doc: 19: 1 times
+crewmember(1)
+    Doc: 12: 1 times
+doctor(1)
+    Doc: 12: 1 times
+ask(1)
+    Doc: 12: 1 times
+particular(1)
+    Doc: 12: 1 times
+placed(1)
+    Doc: 12: 1 times
+jobs(1)
+    Doc: 12: 2 times
+orbital(2)
+    Doc: 12: 1 times
+    Doc: 18: 1 times
+interplanetary(1)
+    Doc: 12: 1 times
+machines(1)
+    Doc: 12: 1 times
+learn(1)
+    Doc: 12: 1 times
+neal(2)
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+1547(3)
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+bill(2)
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+steigerwald(2)
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+goddard(6)
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 16: 2 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+greenbelt(5)
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 16: 2 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+5017(2)
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+224(1)
+    Doc: 13: 1 times
+einstein(1)
+    Doc: 13: 3 times
+limit(1)
+    Doc: 13: 3 times
+pulsar(1)
+    Doc: 13: 13 times
+spin(2)
+    Doc: 13: 5 times
+    Doc: 19: 1 times
+radiation(1)
+    Doc: 13: 8 times
+fabric(1)
+    Doc: 13: 1 times
+predicted(1)
+    Doc: 13: 3 times
+albert(1)
+    Doc: 13: 1 times
+enforcer(1)
+    Doc: 13: 1 times
+protecting(1)
+    Doc: 13: 1 times
+reckless(1)
+    Doc: 13: 1 times
+pulsars(1)
+    Doc: 13: 14 times
+spinning(2)
+    Doc: 13: 8 times
+    Doc: 19: 1 times
+too(2)
+    Doc: 13: 1 times
+    Doc: 20: 1 times
+fast(3)
+    Doc: 13: 5 times
+    Doc: 18: 1 times
+    Doc: 19: 3 times
+blowing(1)
+    Doc: 13: 1 times
+apart(1)
+    Doc: 13: 4 times
+according(2)
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+nature(4)
+    Doc: 13: 5 times
+    Doc: 14: 2 times
+    Doc: 18: 1 times
+    Doc: 19: 2 times
+remains(1)
+    Doc: 13: 1 times
+sun(4)
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+compressed(1)
+    Doc: 13: 1 times
+sphere(1)
+    Doc: 13: 1 times
+across(3)
+    Doc: 13: 1 times
+    Doc: 15: 1 times
+    Doc: 19: 1 times
+gain(1)
+    Doc: 13: 1 times
+pulling(1)
+    Doc: 13: 1 times
+neighboring(1)
+    Doc: 13: 1 times
+reaching(1)
+    Doc: 13: 1 times
+rates(1)
+    Doc: 13: 1 times
+revolution(1)
+    Doc: 13: 1 times
+per(2)
+    Doc: 13: 7 times
+    Doc: 18: 1 times
+millisecond(1)
+    Doc: 13: 5 times
+fly(1)
+    Doc: 13: 1 times
+rossi(1)
+    Doc: 13: 2 times
+timing(1)
+    Doc: 13: 1 times
+explorer(3)
+    Doc: 13: 2 times
+    Doc: 15: 6 times
+    Doc: 19: 2 times
+spins(1)
+    Doc: 13: 3 times
+speculate(1)
+    Doc: 13: 1 times
+cause(1)
+    Doc: 13: 2 times
+faster(1)
+    Doc: 13: 2 times
+exquisite(1)
+    Doc: 13: 1 times
+spherical(2)
+    Doc: 13: 2 times
+    Doc: 20: 1 times
+slightly(1)
+    Doc: 13: 1 times
+deformed(1)
+    Doc: 13: 1 times
+restrain(1)
+    Doc: 13: 1 times
+rotation(1)
+    Doc: 13: 2 times
+save(1)
+    Doc: 13: 1 times
+obliteration(1)
+    Doc: 13: 1 times
+prof(1)
+    Doc: 13: 3 times
+deepto(1)
+    Doc: 13: 1 times
+chakrabarty(1)
+    Doc: 13: 2 times
+mit(3)
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 19: 2 times
+author(3)
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+article(1)
+    Doc: 13: 1 times
+cars(1)
+    Doc: 13: 1 times
+speeding(2)
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+highway(1)
+    Doc: 13: 1 times
+technically(1)
+    Doc: 13: 1 times
+go(1)
+    Doc: 13: 1 times
+something(2)
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+stops(1)
+    Doc: 13: 1 times
+break(1)
+    Doc: 13: 1 times
+destroying(1)
+    Doc: 13: 1 times
+authors(3)
+    Doc: 13: 1 times
+    Doc: 14: 4 times
+    Doc: 20: 2 times
+drs(1)
+    Doc: 13: 1 times
+edward(1)
+    Doc: 13: 1 times
+morgan(1)
+    Doc: 13: 1 times
+muno(1)
+    Doc: 13: 1 times
+duncan(1)
+    Doc: 13: 1 times
+galloway(1)
+    Doc: 13: 1 times
+rudy(1)
+    Doc: 13: 1 times
+wijnands(1)
+    Doc: 13: 2 times
+st(1)
+    Doc: 13: 1 times
+andrews(1)
+    Doc: 13: 1 times
+scotland(1)
+    Doc: 13: 1 times
+michiel(1)
+    Doc: 13: 1 times
+van(1)
+    Doc: 13: 1 times
+der(1)
+    Doc: 13: 1 times
+klis(1)
+    Doc: 13: 1 times
+amsterdam(1)
+    Doc: 13: 1 times
+craig(1)
+    Doc: 13: 1 times
+markwardt(1)
+    Doc: 13: 1 times
+leads(1)
+    Doc: 13: 1 times
+letter(1)
+    Doc: 13: 1 times
+complementing(1)
+    Doc: 13: 1 times
+analogous(1)
+    Doc: 13: 1 times
+ocean(2)
+    Doc: 13: 1 times
+    Doc: 16: 1 times
+dimensional(1)
+    Doc: 13: 1 times
+spacetime(1)
+    Doc: 13: 2 times
+exotic(1)
+    Doc: 13: 1 times
+relativity(1)
+    Doc: 13: 1 times
+explosion(2)
+    Doc: 13: 2 times
+    Doc: 19: 4 times
+perhaps(2)
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+slows(1)
+    Doc: 13: 1 times
+millions(1)
+    Doc: 13: 1 times
+binary(1)
+    Doc: 13: 1 times
+pull(1)
+    Doc: 13: 1 times
+companion(1)
+    Doc: 13: 2 times
+influx(1)
+    Doc: 13: 1 times
+rotating(1)
+    Doc: 13: 1 times
+accumulating(1)
+    Doc: 13: 1 times
+occasionally(1)
+    Doc: 13: 1 times
+consumed(1)
+    Doc: 13: 1 times
+thermonuclear(1)
+    Doc: 13: 1 times
+emitting(1)
+    Doc: 13: 2 times
+burst(2)
+    Doc: 13: 3 times
+    Doc: 19: 16 times
+lasting(1)
+    Doc: 13: 1 times
+seconds(2)
+    Doc: 13: 1 times
+    Doc: 19: 4 times
+fury(1)
+    Doc: 13: 1 times
+lies(1)
+    Doc: 13: 1 times
+brief(1)
+    Doc: 13: 1 times
+measure(2)
+    Doc: 13: 2 times
+    Doc: 14: 2 times
+faint(2)
+    Doc: 13: 1 times
+    Doc: 20: 1 times
+type(1)
+    Doc: 13: 1 times
+flickering(1)
+    Doc: 13: 1 times
+bursts(2)
+    Doc: 13: 1 times
+    Doc: 19: 5 times
+oscillations(1)
+    Doc: 13: 2 times
+serves(1)
+    Doc: 13: 1 times
+11(3)
+    Doc: 13: 2 times
+    Doc: 14: 1 times
+    Doc: 17: 1 times
+619(1)
+    Doc: 13: 1 times
+capable(1)
+    Doc: 13: 1 times
+detecting(1)
+    Doc: 13: 1 times
+breakup(1)
+    Doc: 13: 1 times
+occur(1)
+    Doc: 13: 1 times
+revolutions(1)
+    Doc: 13: 2 times
+statistical(1)
+    Doc: 13: 1 times
+analysis(2)
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+concluded(2)
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+maximum(1)
+    Doc: 13: 1 times
+760(1)
+    Doc: 13: 1 times
+feedback(1)
+    Doc: 13: 1 times
+involving(1)
+    Doc: 13: 1 times
+limiting(1)
+    Doc: 13: 1 times
+proposed(1)
+    Doc: 13: 1 times
+lars(1)
+    Doc: 13: 1 times
+bildsten(1)
+    Doc: 13: 2 times
+santa(2)
+    Doc: 13: 1 times
+    Doc: 14: 1 times
+barbara(1)
+    Doc: 13: 1 times
+picks(1)
+    Doc: 13: 1 times
+slight(1)
+    Doc: 13: 1 times
+distortion(1)
+    Doc: 13: 1 times
+thick(1)
+    Doc: 13: 1 times
+crust(1)
+    Doc: 13: 1 times
+crystalline(1)
+    Doc: 13: 1 times
+metal(1)
+    Doc: 13: 1 times
+envision(1)
+    Doc: 13: 1 times
+oblong(1)
+    Doc: 13: 1 times
+rugby(1)
+    Doc: 13: 1 times
+ball(2)
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+basketball(1)
+    Doc: 13: 1 times
+equilibrium(1)
+    Doc: 13: 1 times
+reached(1)
+    Doc: 13: 1 times
+angular(2)
+    Doc: 13: 2 times
+    Doc: 17: 1 times
+momentum(1)
+    Doc: 13: 2 times
+shed(1)
+    Doc: 13: 1 times
+matches(2)
+    Doc: 13: 1 times
+    Doc: 20: 1 times
+accreting(1)
+    Doc: 13: 1 times
+greater(3)
+    Doc: 13: 1 times
+    Doc: 14: 3 times
+    Doc: 19: 1 times
+ligo(1)
+    Doc: 13: 2 times
+laser(2)
+    Doc: 13: 1 times
+    Doc: 14: 4 times
+interferometer(1)
+    Doc: 13: 1 times
+operation(1)
+    Doc: 13: 1 times
+hanford(1)
+    Doc: 13: 1 times
+wash(1)
+    Doc: 13: 1 times
+livingston(1)
+    Doc: 13: 1 times
+tunable(1)
+    Doc: 13: 1 times
+emit(1)
+    Doc: 13: 1 times
+subtle(1)
+    Doc: 13: 1 times
+altering(1)
+    Doc: 13: 1 times
+distance(2)
+    Doc: 13: 1 times
+    Doc: 17: 2 times
+moon(3)
+    Doc: 13: 1 times
+    Doc: 17: 1 times
+    Doc: 20: 2 times
+width(1)
+    Doc: 13: 1 times
+atom(1)
+    Doc: 13: 1 times
+barry(1)
+    Doc: 13: 1 times
+barish(1)
+    Doc: 13: 1 times
+hope(2)
+    Doc: 13: 1 times
+    Doc: 18: 1 times
+animation(2)
+    Doc: 13: 1 times
+    Doc: 19: 1 times
+html(4)
+    Doc: 13: 1 times
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+june(2)
+    Doc: 14: 2 times
+    Doc: 15: 2 times
+guy(2)
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+webster(2)
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+6278(2)
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+216(1)
+    Doc: 14: 1 times
+odyssey(1)
+    Doc: 14: 14 times
+orbiter(1)
+    Doc: 14: 1 times
+watches(2)
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+frosty(1)
+    Doc: 14: 1 times
+revealing(1)
+    Doc: 14: 1 times
+intriguing(1)
+    Doc: 14: 1 times
+dynamic(1)
+    Doc: 14: 1 times
+character(1)
+    Doc: 14: 1 times
+layers(1)
+    Doc: 14: 2 times
+dominate(2)
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+northern(1)
+    Doc: 14: 5 times
+latitudes(2)
+    Doc: 14: 6 times
+    Doc: 20: 2 times
+implications(1)
+    Doc: 14: 2 times
+bearing(1)
+    Doc: 14: 1 times
+strategies(1)
+    Doc: 14: 1 times
+search(1)
+    Doc: 14: 1 times
+habitats(1)
+    Doc: 14: 2 times
+neutron(1)
+    Doc: 14: 5 times
+gamma(2)
+    Doc: 14: 2 times
+    Doc: 19: 12 times
+tracked(1)
+    Doc: 14: 1 times
+seasonal(1)
+    Doc: 14: 2 times
+dry(1)
+    Doc: 14: 5 times
+dioxide(1)
+    Doc: 14: 7 times
+frost(1)
+    Doc: 14: 4 times
+accumulated(2)
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+winter(1)
+    Doc: 14: 4 times
+dissipated(1)
+    Doc: 14: 1 times
+spring(1)
+    Doc: 14: 2 times
+exposing(1)
+    Doc: 14: 1 times
+layer(1)
+    Doc: 14: 5 times
+rich(1)
+    Doc: 14: 1 times
+martian(1)
+    Doc: 14: 2 times
+counterpart(1)
+    Doc: 14: 1 times
+permafrost(1)
+    Doc: 14: 1 times
+neutrons(1)
+    Doc: 14: 1 times
+height(1)
+    Doc: 14: 1 times
+altimeter(1)
+    Doc: 14: 6 times
+another(2)
+    Doc: 14: 2 times
+    Doc: 16: 1 times
+surveyor(1)
+    Doc: 14: 8 times
+seasons(1)
+    Doc: 14: 2 times
+once(2)
+    Doc: 14: 2 times
+    Doc: 16: 1 times
+disappears(1)
+    Doc: 14: 2 times
+southern(2)
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+igor(1)
+    Doc: 14: 1 times
+mitrofanov(1)
+    Doc: 14: 4 times
+russian(1)
+    Doc: 14: 3 times
+moscow(1)
+    Doc: 14: 2 times
+paper(2)
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+content(2)
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+90(1)
+    Doc: 14: 1 times
+volume(1)
+    Doc: 14: 1 times
+changing(1)
+    Doc: 14: 2 times
+relief(1)
+    Doc: 14: 1 times
+regions(2)
+    Doc: 14: 1 times
+    Doc: 16: 2 times
+explore(1)
+    Doc: 14: 1 times
+trio(1)
+    Doc: 14: 1 times
+spectrometer(1)
+    Doc: 14: 2 times
+suite(1)
+    Doc: 14: 1 times
+elements(1)
+    Doc: 14: 1 times
+meter(2)
+    Doc: 14: 3 times
+    Doc: 17: 1 times
+feet(1)
+    Doc: 14: 1 times
+scale(2)
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+thickness(2)
+    Doc: 14: 4 times
+    Doc: 20: 1 times
+accumulate(1)
+    Doc: 14: 1 times
+depths(1)
+    Doc: 14: 1 times
+correlation(1)
+    Doc: 14: 1 times
+springtime(1)
+    Doc: 14: 1 times
+dissipating(1)
+    Doc: 14: 1 times
+carbon(1)
+    Doc: 14: 3 times
+pole(1)
+    Doc: 14: 3 times
+ward(1)
+    Doc: 14: 1 times
+65(1)
+    Doc: 14: 1 times
+north(3)
+    Doc: 14: 1 times
+    Doc: 16: 2 times
+    Doc: 20: 3 times
+thinning(1)
+    Doc: 14: 1 times
+detector(1)
+    Doc: 14: 3 times
+does(1)
+    Doc: 14: 1 times
+sensitivity(1)
+    Doc: 14: 2 times
+examine(1)
+    Doc: 14: 2 times
+whole(1)
+    Doc: 14: 1 times
+accumulations(2)
+    Doc: 14: 2 times
+    Doc: 16: 2 times
+synergy(1)
+    Doc: 14: 1 times
+eyes(1)
+    Doc: 14: 1 times
+skies(1)
+    Doc: 14: 1 times
+enabled(1)
+    Doc: 14: 1 times
+suggests(1)
+    Doc: 14: 1 times
+compelling(1)
+    Doc: 14: 1 times
+jim(1)
+    Doc: 14: 1 times
+garvin(1)
+    Doc: 14: 1 times
+geophysical(1)
+    Doc: 14: 1 times
+indications(1)
+    Doc: 14: 1 times
+densely(1)
+    Doc: 14: 1 times
+packed(1)
+    Doc: 14: 1 times
+85(1)
+    Doc: 14: 1 times
+estimate(2)
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+deposit(1)
+    Doc: 14: 1 times
+obtain(1)
+    Doc: 14: 1 times
+density(1)
+    Doc: 14: 1 times
+appears(2)
+    Doc: 14: 1 times
+    Doc: 17: 1 times
+fluffy(1)
+    Doc: 14: 1 times
+texture(1)
+    Doc: 14: 1 times
+freshly(1)
+    Doc: 14: 1 times
+william(1)
+    Doc: 14: 1 times
+feldman(1)
+    Doc: 14: 2 times
+los(3)
+    Doc: 14: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+alamos(2)
+    Doc: 14: 2 times
+    Doc: 19: 1 times
+remaining(1)
+    Doc: 14: 1 times
+near(5)
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 2 times
+    Doc: 20: 1 times
+composed(1)
+    Doc: 14: 1 times
+constantly(1)
+    Doc: 14: 1 times
+jeffrey(1)
+    Doc: 14: 1 times
+plaut(1)
+    Doc: 14: 1 times
+watch(1)
+    Doc: 14: 1 times
+interact(1)
+    Doc: 14: 1 times
+climate(2)
+    Doc: 14: 1 times
+    Doc: 16: 1 times
+regime(1)
+    Doc: 14: 1 times
+include(3)
+    Doc: 14: 2 times
+    Doc: 15: 1 times
+    Doc: 20: 2 times
+academy(1)
+    Doc: 14: 1 times
+gsfc(1)
+    Doc: 14: 2 times
+techsource(1)
+    Doc: 14: 1 times
+fe(1)
+    Doc: 14: 1 times
+mexico(2)
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+las(1)
+    Doc: 14: 1 times
+cruces(1)
+    Doc: 14: 1 times
+cornell(2)
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+ithaca(2)
+    Doc: 14: 1 times
+    Doc: 20: 1 times
+observatoire(1)
+    Doc: 14: 1 times
+pyrenees(1)
+    Doc: 14: 1 times
+toulouse(1)
+    Doc: 14: 1 times
+france(3)
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+investigators(1)
+    Doc: 14: 1 times
+arizona(2)
+    Doc: 14: 2 times
+    Doc: 20: 1 times
+built(2)
+    Doc: 14: 1 times
+    Doc: 19: 1 times
+operate(1)
+    Doc: 14: 1 times
+gretchen(1)
+    Doc: 15: 1 times
+25(1)
+    Doc: 15: 1 times
+0836(1)
+    Doc: 15: 1 times
+215(1)
+    Doc: 15: 1 times
+sends(1)
+    Doc: 15: 1 times
+math(1)
+    Doc: 15: 3 times
+teachers(1)
+    Doc: 15: 4 times
+school(1)
+    Doc: 15: 3 times
+launching(2)
+    Doc: 15: 1 times
+    Doc: 18: 1 times
+education(1)
+    Doc: 15: 10 times
+initiative(1)
+    Doc: 15: 2 times
+schools(1)
+    Doc: 15: 6 times
+premieres(1)
+    Doc: 15: 1 times
+monday(1)
+    Doc: 15: 1 times
+edt(2)
+    Doc: 15: 2 times
+    Doc: 19: 1 times
+convention(1)
+    Doc: 15: 1 times
+trade(1)
+    Doc: 15: 1 times
+seattle(1)
+    Doc: 15: 1 times
+multimedia(1)
+    Doc: 15: 1 times
+event(1)
+    Doc: 15: 1 times
+kicks(1)
+    Doc: 15: 1 times
+mathematics(1)
+    Doc: 15: 3 times
+centers(1)
+    Doc: 15: 2 times
+experts(1)
+    Doc: 15: 1 times
+educators(1)
+    Doc: 15: 3 times
+teaching(1)
+    Doc: 15: 2 times
+learning(1)
+    Doc: 15: 2 times
+appealing(1)
+    Doc: 15: 1 times
+students(2)
+    Doc: 15: 4 times
+    Doc: 18: 1 times
+educational(1)
+    Doc: 15: 2 times
+computing(1)
+    Doc: 15: 1 times
+necc(1)
+    Doc: 15: 3 times
+hosted(1)
+    Doc: 15: 1 times
+society(1)
+    Doc: 15: 1 times
+iste(1)
+    Doc: 15: 4 times
+adena(1)
+    Doc: 15: 1 times
+williams(1)
+    Doc: 15: 1 times
+loston(1)
+    Doc: 15: 3 times
+don(2)
+    Doc: 15: 1 times
+    Doc: 18: 1 times
+pettit(1)
+    Doc: 15: 3 times
+announce(2)
+    Doc: 15: 1 times
+    Doc: 19: 1 times
+50(4)
+    Doc: 15: 2 times
+    Doc: 16: 2 times
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+competitively(1)
+    Doc: 15: 1 times
+audience(1)
+    Doc: 15: 3 times
+creative(1)
+    Doc: 15: 1 times
+setting(1)
+    Doc: 15: 1 times
+address(1)
+    Doc: 15: 1 times
+classmates(1)
+    Doc: 15: 1 times
+officer(1)
+    Doc: 15: 1 times
+expedition(1)
+    Doc: 15: 2 times
+architects(1)
+    Doc: 15: 1 times
+peggy(1)
+    Doc: 15: 1 times
+l(1)
+    Doc: 15: 1 times
+steffen(1)
+    Doc: 15: 1 times
+shelley(1)
+    Doc: 15: 1 times
+canright(1)
+    Doc: 15: 1 times
+deputy(1)
+    Doc: 15: 1 times
+cliff(1)
+    Doc: 15: 1 times
+association(2)
+    Doc: 15: 1 times
+    Doc: 17: 1 times
+nsta(1)
+    Doc: 15: 2 times
+department(1)
+    Doc: 15: 1 times
+guard(1)
+    Doc: 15: 1 times
+bureau(1)
+    Doc: 15: 1 times
+sponsored(1)
+    Doc: 15: 1 times
+establish(1)
+    Doc: 15: 1 times
+consisting(1)
+    Doc: 15: 1 times
+administrators(1)
+    Doc: 15: 1 times
+diverse(2)
+    Doc: 15: 1 times
+    Doc: 20: 1 times
+communities(1)
+    Doc: 15: 1 times
+country(1)
+    Doc: 15: 1 times
+commitment(1)
+    Doc: 15: 1 times
+period(2)
+    Doc: 15: 1 times
+    Doc: 20: 1 times
+invite(1)
+    Doc: 15: 1 times
+spark(1)
+    Doc: 15: 1 times
+instruction(1)
+    Doc: 15: 1 times
+directed(1)
+    Doc: 15: 1 times
+specifically(1)
+    Doc: 15: 1 times
+grades(1)
+    Doc: 15: 1 times
+following(1)
+    Doc: 15: 1 times
+announcement(1)
+    Doc: 15: 1 times
+student(1)
+    Doc: 15: 2 times
+moderate(1)
+    Doc: 15: 1 times
+downlink(1)
+    Doc: 15: 1 times
+53(1)
+    Doc: 15: 1 times
+13(1)
+    Doc: 15: 1 times
+dozen(1)
+    Doc: 15: 1 times
+groups(1)
+    Doc: 15: 1 times
+via(2)
+    Doc: 15: 1 times
+    Doc: 19: 1 times
+teleconference(1)
+    Doc: 15: 1 times
+compelled(1)
+    Doc: 15: 1 times
+implement(1)
+    Doc: 15: 1 times
+proactive(1)
+    Doc: 15: 1 times
+approaches(1)
+    Doc: 15: 1 times
+stem(1)
+    Doc: 15: 1 times
+decline(1)
+    Doc: 15: 1 times
+pursuing(1)
+    Doc: 15: 1 times
+disciplines(1)
+    Doc: 15: 1 times
+hold(1)
+    Doc: 15: 1 times
+middle(2)
+    Doc: 15: 1 times
+    Doc: 17: 1 times
+anticipate(1)
+    Doc: 15: 1 times
+marked(1)
+    Doc: 15: 1 times
+entering(1)
+    Doc: 15: 1 times
+related(1)
+    Doc: 15: 1 times
+careers(1)
+    Doc: 15: 1 times
+nation(1)
+    Doc: 15: 1 times
+continued(1)
+    Doc: 15: 1 times
+depends(1)
+    Doc: 15: 1 times
+others(1)
+    Doc: 15: 1 times
+eugene(1)
+    Doc: 15: 1 times
+nonprofit(1)
+    Doc: 15: 1 times
+organization(1)
+    Doc: 15: 1 times
+worldwide(4)
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+    Doc: 19: 2 times
+membership(1)
+    Doc: 15: 1 times
+leaders(1)
+    Doc: 15: 2 times
+advancing(1)
+    Doc: 15: 1 times
+k(1)
+    Doc: 15: 1 times
+12(2)
+    Doc: 15: 1 times
+    Doc: 16: 1 times
+teacher(1)
+    Doc: 15: 1 times
+attracts(1)
+    Doc: 15: 1 times
+org(1)
+    Doc: 15: 1 times
+elvia(1)
+    Doc: 16: 1 times
+h(1)
+    Doc: 16: 1 times
+thompson(1)
+    Doc: 16: 1 times
+1696(1)
+    Doc: 16: 1 times
+krishna(1)
+    Doc: 16: 1 times
+ramanujan(1)
+    Doc: 16: 1 times
+3026(1)
+    Doc: 16: 1 times
+165(1)
+    Doc: 16: 1 times
+rainfall(1)
+    Doc: 16: 13 times
+local(1)
+    Doc: 16: 1 times
+forecaster(1)
+    Doc: 16: 1 times
+doppler(1)
+    Doc: 16: 1 times
+covering(1)
+    Doc: 16: 1 times
+flooding(1)
+    Doc: 16: 2 times
+tropical(1)
+    Doc: 16: 1 times
+measuring(1)
+    Doc: 16: 1 times
+trmm(1)
+    Doc: 16: 11 times
+falling(1)
+    Doc: 16: 1 times
+daily(1)
+    Doc: 16: 1 times
+resource(1)
+    Doc: 16: 2 times
+managers(1)
+    Doc: 16: 2 times
+flood(1)
+    Doc: 16: 3 times
+gauge(1)
+    Doc: 16: 1 times
+clouds(2)
+    Doc: 16: 2 times
+    Doc: 20: 4 times
+determine(1)
+    Doc: 16: 1 times
+flooded(1)
+    Doc: 16: 1 times
+floods(1)
+    Doc: 16: 3 times
+occurred(1)
+    Doc: 16: 1 times
+calibrate(1)
+    Doc: 16: 1 times
+tune(2)
+    Doc: 16: 1 times
+    Doc: 18: 1 times
+records(1)
+    Doc: 16: 1 times
+baselines(1)
+    Doc: 16: 1 times
+higher(2)
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+wherever(1)
+    Doc: 16: 1 times
+fill(1)
+    Doc: 16: 1 times
+gaps(1)
+    Doc: 16: 1 times
+extremely(1)
+    Doc: 16: 1 times
+disaster(1)
+    Doc: 16: 1 times
+adler(1)
+    Doc: 16: 2 times
+assessing(1)
+    Doc: 16: 1 times
+crops(1)
+    Doc: 16: 1 times
+tropics(1)
+    Doc: 16: 1 times
+precipitation(1)
+    Doc: 16: 2 times
+resolution(1)
+    Doc: 16: 1 times
+made(3)
+    Doc: 16: 1 times
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+microwave(1)
+    Doc: 16: 3 times
+radiometers(1)
+    Doc: 16: 1 times
+span(1)
+    Doc: 16: 1 times
+latitude(2)
+    Doc: 16: 2 times
+    Doc: 20: 1 times
+south(1)
+    Doc: 16: 2 times
+canadian(1)
+    Doc: 16: 1 times
+border(1)
+    Doc: 16: 1 times
+argentina(1)
+    Doc: 16: 1 times
+variations(1)
+    Doc: 16: 1 times
+accumulation(1)
+    Doc: 16: 1 times
+showing(1)
+    Doc: 16: 1 times
+35(1)
+    Doc: 16: 1 times
+mm(1)
+    Doc: 16: 3 times
+93(1)
+    Doc: 16: 1 times
+depicting(1)
+    Doc: 16: 1 times
+weeklong(1)
+    Doc: 16: 1 times
+87(1)
+    Doc: 16: 1 times
+snapshot(1)
+    Doc: 16: 1 times
+movie(1)
+    Doc: 16: 1 times
+loop(1)
+    Doc: 16: 1 times
+track(1)
+    Doc: 16: 1 times
+storms(2)
+    Doc: 16: 1 times
+    Doc: 20: 2 times
+oceans(1)
+    Doc: 16: 2 times
+globe(2)
+    Doc: 16: 1 times
+    Doc: 19: 1 times
+dissipation(1)
+    Doc: 16: 1 times
+oscillation(1)
+    Doc: 16: 1 times
+moisture(1)
+    Doc: 16: 1 times
+salinity(1)
+    Doc: 16: 1 times
+imager(1)
+    Doc: 16: 1 times
+geosynchronous(1)
+    Doc: 16: 1 times
+exploiting(1)
+    Doc: 16: 1 times
+strengths(1)
+    Doc: 16: 1 times
+increases(1)
+    Doc: 16: 1 times
+joint(1)
+    Doc: 16: 1 times
+japanese(1)
+    Doc: 16: 1 times
+integrated(1)
+    Doc: 16: 1 times
+prediction(1)
+    Doc: 16: 1 times
+vantage(1)
+    Doc: 16: 1 times
+kathie(1)
+    Doc: 17: 1 times
+coil(1)
+    Doc: 17: 1 times
+kitt(1)
+    Doc: 17: 3 times
+peak(1)
+    Doc: 17: 3 times
+tucson(2)
+    Doc: 17: 2 times
+    Doc: 20: 1 times
+ariz(1)
+    Doc: 17: 2 times
+8214(1)
+    Doc: 17: 1 times
+villard(1)
+    Doc: 17: 1 times
+4514(1)
+    Doc: 17: 1 times
+162(1)
+    Doc: 17: 1 times
+iridescent(1)
+    Doc: 17: 1 times
+glory(1)
+    Doc: 17: 1 times
+nearby(2)
+    Doc: 17: 2 times
+    Doc: 20: 1 times
+nebula(1)
+    Doc: 17: 13 times
+celestial(2)
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+helix(1)
+    Doc: 17: 6 times
+celebration(1)
+    Doc: 17: 1 times
+saturday(1)
+    Doc: 17: 1 times
+seamless(1)
+    Doc: 17: 1 times
+blend(1)
+    Doc: 17: 1 times
+sharp(1)
+    Doc: 17: 1 times
+mosaic(1)
+    Doc: 17: 5 times
+foundation(1)
+    Doc: 17: 2 times
+blended(1)
+    Doc: 17: 2 times
+wider(1)
+    Doc: 17: 2 times
+photograph(1)
+    Doc: 17: 2 times
+fine(1)
+    Doc: 17: 1 times
+filamentary(1)
+    Doc: 17: 1 times
+spoke(1)
+    Doc: 17: 1 times
+embedded(1)
+    Doc: 17: 2 times
+colorful(1)
+    Doc: 17: 1 times
+blue(1)
+    Doc: 17: 2 times
+ring(2)
+    Doc: 17: 2 times
+    Doc: 20: 5 times
+nearest(1)
+    Doc: 17: 2 times
+nebulae(1)
+    Doc: 17: 2 times
+full(1)
+    Doc: 17: 1 times
+take(2)
+    Doc: 17: 2 times
+    Doc: 18: 1 times
+exposures(1)
+    Doc: 17: 1 times
+surveys(1)
+    Doc: 17: 1 times
+photo(1)
+    Doc: 17: 1 times
+portrait(1)
+    Doc: 17: 1 times
+dizzying(1)
+    Doc: 17: 1 times
+actually(1)
+    Doc: 17: 2 times
+trillion(2)
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+tunnel(1)
+    Doc: 17: 1 times
+gases(1)
+    Doc: 17: 2 times
+fluorescing(1)
+    Doc: 17: 1 times
+tube(1)
+    Doc: 17: 1 times
+pointed(1)
+    Doc: 17: 2 times
+looks(1)
+    Doc: 17: 1 times
+bubble(1)
+    Doc: 17: 2 times
+cylinder(1)
+    Doc: 17: 2 times
+forest(1)
+    Doc: 17: 1 times
+filaments(1)
+    Doc: 17: 3 times
+inner(1)
+    Doc: 17: 1 times
+rim(1)
+    Doc: 17: 1 times
+points(2)
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+white(2)
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+tentacles(1)
+    Doc: 17: 1 times
+plowed(1)
+    Doc: 17: 1 times
+colder(1)
+    Doc: 17: 1 times
+shells(1)
+    Doc: 17: 1 times
+ejected(1)
+    Doc: 17: 1 times
+previously(2)
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+doomed(1)
+    Doc: 17: 1 times
+comet(2)
+    Doc: 17: 1 times
+    Doc: 18: 10 times
+decades(1)
+    Doc: 17: 1 times
+lie(1)
+    Doc: 17: 1 times
+disk(1)
+    Doc: 17: 1 times
+encircling(1)
+    Doc: 17: 1 times
+collar(1)
+    Doc: 17: 1 times
+radiant(1)
+    Doc: 17: 1 times
+die(1)
+    Doc: 17: 1 times
+correspond(1)
+    Doc: 17: 1 times
+oxygen(1)
+    Doc: 17: 1 times
+hydrogen(1)
+    Doc: 17: 1 times
+nitrogen(1)
+    Doc: 17: 1 times
+leonid(1)
+    Doc: 17: 1 times
+meteor(1)
+    Doc: 17: 3 times
+storm(2)
+    Doc: 17: 2 times
+    Doc: 20: 1 times
+mirror(2)
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+turned(1)
+    Doc: 17: 1 times
+aft(1)
+    Doc: 17: 1 times
+stream(1)
+    Doc: 17: 2 times
+fortunately(1)
+    Doc: 17: 1 times
+exactly(1)
+    Doc: 17: 1 times
+opposite(2)
+    Doc: 17: 1 times
+    Doc: 20: 2 times
+nine(1)
+    Doc: 17: 2 times
+waited(1)
+    Doc: 17: 1 times
+sprawling(1)
+    Doc: 17: 1 times
+separate(2)
+    Doc: 17: 1 times
+    Doc: 20: 1 times
+sculpted(1)
+    Doc: 17: 1 times
+torrential(1)
+    Doc: 17: 1 times
+gush(1)
+    Doc: 17: 1 times
+escaping(1)
+    Doc: 17: 1 times
+dying(1)
+    Doc: 17: 1 times
+name(2)
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+disks(1)
+    Doc: 17: 1 times
+magnification(1)
+    Doc: 17: 1 times
+classic(1)
+    Doc: 17: 1 times
+resolved(1)
+    Doc: 17: 1 times
+650(1)
+    Doc: 17: 1 times
+corresponds(1)
+    Doc: 17: 1 times
+huge(1)
+    Doc: 17: 1 times
+quarters(1)
+    Doc: 17: 1 times
+binoculars(1)
+    Doc: 17: 1 times
+ghostly(1)
+    Doc: 17: 1 times
+greenish(1)
+    Doc: 17: 1 times
+cloud(1)
+    Doc: 17: 1 times
+constellation(1)
+    Doc: 17: 1 times
+aquarius(1)
+    Doc: 17: 1 times
+larger(2)
+    Doc: 17: 1 times
+    Doc: 18: 2 times
+resolve(1)
+    Doc: 17: 2 times
+radial(1)
+    Doc: 17: 1 times
+streaks(1)
+    Doc: 17: 1 times
+careful(1)
+    Doc: 17: 1 times
+really(2)
+    Doc: 17: 1 times
+    Doc: 18: 1 times
+isnt(1)
+    Doc: 17: 1 times
+happens(1)
+    Doc: 17: 1 times
+universities(2)
+    Doc: 17: 1 times
+    Doc: 19: 1 times
+aura(1)
+    Doc: 17: 2 times
+contract(1)
+    Doc: 17: 1 times
+cooperation(1)
+    Doc: 17: 1 times
+esa(1)
+    Doc: 17: 1 times
+agle(1)
+    Doc: 18: 1 times
+9011(1)
+    Doc: 18: 1 times
+lee(1)
+    Doc: 18: 1 times
+maryland(1)
+    Doc: 18: 2 times
+park(1)
+    Doc: 18: 1 times
+4679(1)
+    Doc: 18: 1 times
+161(1)
+    Doc: 18: 1 times
+celebrate(1)
+    Doc: 18: 1 times
+2005(1)
+    Doc: 18: 1 times
+names(1)
+    Doc: 18: 6 times
+campaign(1)
+    Doc: 18: 2 times
+tempel(1)
+    Doc: 18: 4 times
+touch(1)
+    Doc: 18: 1 times
+nucleus(1)
+    Doc: 18: 1 times
+basic(1)
+    Doc: 18: 1 times
+composition(1)
+    Doc: 18: 1 times
+wanderers(1)
+    Doc: 18: 1 times
+yeomans(1)
+    Doc: 18: 1 times
+member(1)
+    Doc: 18: 1 times
+craft(1)
+    Doc: 18: 1 times
+december(2)
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+2004(2)
+    Doc: 18: 2 times
+    Doc: 20: 1 times
+yours(1)
+    Doc: 18: 1 times
+ones(1)
+    Doc: 18: 1 times
+hitch(1)
+    Doc: 18: 1 times
+best(1)
+    Doc: 18: 1 times
+fireworks(1)
+    Doc: 18: 1 times
+flyby(1)
+    Doc: 18: 2 times
+carry(1)
+    Doc: 18: 1 times
+impactor(1)
+    Doc: 18: 5 times
+path(1)
+    Doc: 18: 2 times
+planned(1)
+    Doc: 18: 1 times
+collision(1)
+    Doc: 18: 2 times
+pictures(2)
+    Doc: 18: 1 times
+    Doc: 20: 2 times
+kilogram(1)
+    Doc: 18: 1 times
+816(1)
+    Doc: 18: 1 times
+pound(1)
+    Doc: 18: 1 times
+tipped(1)
+    Doc: 18: 1 times
+plunges(1)
+    Doc: 18: 1 times
+kilometers(1)
+    Doc: 18: 1 times
+990(1)
+    Doc: 18: 1 times
+spectacular(2)
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+football(1)
+    Doc: 18: 1 times
+crater(1)
+    Doc: 18: 1 times
+15(2)
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+stories(1)
+    Doc: 18: 1 times
+aboard(1)
+    Doc: 18: 1 times
+cd(1)
+    Doc: 18: 1 times
+enthusiasts(1)
+    Doc: 18: 1 times
+involved(1)
+    Doc: 18: 1 times
+thinking(2)
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+reasons(1)
+    Doc: 18: 1 times
+um(1)
+    Doc: 18: 2 times
+ahearn(1)
+    Doc: 18: 2 times
+particularly(1)
+    Doc: 18: 1 times
+explorers(1)
+    Doc: 18: 1 times
+submit(1)
+    Doc: 18: 1 times
+historic(1)
+    Doc: 18: 1 times
+site(1)
+    Doc: 18: 2 times
+forceful(1)
+    Doc: 18: 1 times
+appreciable(1)
+    Doc: 18: 1 times
+poses(1)
+    Doc: 18: 1 times
+threat(1)
+    Doc: 18: 1 times
+goal(1)
+    Doc: 18: 1 times
+launch(2)
+    Doc: 18: 1 times
+    Doc: 19: 1 times
+exploring(1)
+    Doc: 18: 1 times
+moons(2)
+    Doc: 18: 1 times
+    Doc: 20: 5 times
+bodies(1)
+    Doc: 18: 1 times
+comets(1)
+    Doc: 18: 1 times
+asteroids(1)
+    Doc: 18: 1 times
+oversees(1)
+    Doc: 18: 1 times
+investigations(1)
+    Doc: 18: 1 times
+mcnamee(1)
+    Doc: 18: 1 times
+operates(1)
+    Doc: 18: 1 times
+managed(1)
+    Doc: 18: 1 times
+marriott(1)
+    Doc: 18: 1 times
+boulder(2)
+    Doc: 18: 1 times
+    Doc: 20: 2 times
+colo(2)
+    Doc: 18: 1 times
+    Doc: 20: 1 times
+march(2)
+    Doc: 19: 2 times
+    Doc: 20: 1 times
+19(1)
+    Doc: 19: 1 times
+2369(1)
+    Doc: 19: 1 times
+107(1)
+    Doc: 19: 1 times
+race(1)
+    Doc: 19: 2 times
+reveals(1)
+    Doc: 19: 1 times
+gigantic(1)
+    Doc: 19: 2 times
+death(1)
+    Doc: 19: 2 times
+arriving(1)
+    Doc: 19: 1 times
+moments(1)
+    Doc: 19: 1 times
+witnessed(1)
+    Doc: 19: 1 times
+monstrous(1)
+    Doc: 19: 1 times
+quite(1)
+    Doc: 19: 1 times
+featured(1)
+    Doc: 19: 1 times
+date(1)
+    Doc: 19: 1 times
+confirms(1)
+    Doc: 19: 1 times
+demise(1)
+    Doc: 19: 1 times
+collapsar(1)
+    Doc: 19: 2 times
+model(1)
+    Doc: 19: 2 times
+transient(1)
+    Doc: 19: 1 times
+hete(1)
+    Doc: 19: 7 times
+stunning(1)
+    Doc: 19: 1 times
+throes(1)
+    Doc: 19: 1 times
+peering(1)
+    Doc: 19: 1 times
+debris(1)
+    Doc: 19: 2 times
+newly(1)
+    Doc: 19: 1 times
+anne(1)
+    Doc: 19: 1 times
+kinney(1)
+    Doc: 19: 1 times
+cry(1)
+    Doc: 19: 1 times
+allowed(1)
+    Doc: 19: 1 times
+delivery(1)
+    Doc: 19: 1 times
+derek(1)
+    Doc: 19: 1 times
+fox(1)
+    Doc: 19: 3 times
+shine(1)
+    Doc: 19: 1 times
+brighter(1)
+    Doc: 19: 1 times
+supernova(1)
+    Doc: 19: 1 times
+suns(1)
+    Doc: 19: 1 times
+random(1)
+    Doc: 19: 1 times
+fleeting(1)
+    Doc: 19: 1 times
+lasts(1)
+    Doc: 19: 1 times
+milliseconds(1)
+    Doc: 19: 1 times
+afterglow(1)
+    Doc: 19: 4 times
+sweeping(1)
+    Doc: 19: 1 times
+ramming(1)
+    Doc: 19: 1 times
+region(2)
+    Doc: 19: 2 times
+    Doc: 20: 2 times
+linger(1)
+    Doc: 19: 1 times
+weeks(1)
+    Doc: 19: 1 times
+forms(1)
+    Doc: 19: 1 times
+visible(1)
+    Doc: 19: 1 times
+named(1)
+    Doc: 19: 1 times
+grb021004(1)
+    Doc: 19: 3 times
+appeared(1)
+    Doc: 19: 1 times
+october(1)
+    Doc: 19: 1 times
+06(1)
+    Doc: 19: 1 times
+wasting(1)
+    Doc: 19: 1 times
+spotted(1)
+    Doc: 19: 1 times
+nailed(1)
+    Doc: 19: 1 times
+notified(1)
+    Doc: 19: 1 times
+observers(1)
+    Doc: 19: 2 times
+pouring(1)
+    Doc: 19: 1 times
+automated(1)
+    Doc: 19: 2 times
+art(1)
+    Doc: 19: 2 times
+wako(1)
+    Doc: 19: 1 times
+japan(1)
+    Doc: 19: 3 times
+193(1)
+    Doc: 19: 1 times
+pinpointed(1)
+    Doc: 19: 1 times
+mt(1)
+    Doc: 19: 1 times
+palomar(1)
+    Doc: 19: 2 times
+diego(1)
+    Doc: 19: 1 times
+pacific(1)
+    Doc: 19: 1 times
+australia(1)
+    Doc: 19: 1 times
+asia(1)
+    Doc: 19: 1 times
+zoomed(1)
+    Doc: 19: 1 times
+approaching(1)
+    Doc: 19: 1 times
+sunrise(1)
+    Doc: 19: 1 times
+arrived(1)
+    Doc: 19: 1 times
+witness(1)
+    Doc: 19: 1 times
+phenomenon(2)
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+ongoing(1)
+    Doc: 19: 1 times
+energizing(1)
+    Doc: 19: 1 times
+whatever(1)
+    Doc: 19: 1 times
+itself(1)
+    Doc: 19: 1 times
+thought(1)
+    Doc: 19: 1 times
+ricker(1)
+    Doc: 19: 1 times
+iceberg(1)
+    Doc: 19: 1 times
+collapses(1)
+    Doc: 19: 1 times
+magnetic(1)
+    Doc: 19: 1 times
+acting(1)
+    Doc: 19: 1 times
+slingshot(1)
+    Doc: 19: 1 times
+flinging(1)
+    Doc: 19: 1 times
+calculated(1)
+    Doc: 19: 1 times
+originated(1)
+    Doc: 19: 1 times
+hunters(1)
+    Doc: 19: 1 times
+aided(1)
+    Doc: 19: 1 times
+triggers(1)
+    Doc: 19: 1 times
+orbiting(2)
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+detectors(1)
+    Doc: 19: 1 times
+relays(1)
+    Doc: 19: 1 times
+coordinates(1)
+    Doc: 19: 1 times
+responses(1)
+    Doc: 19: 1 times
+distribute(1)
+    Doc: 19: 1 times
+locations(1)
+    Doc: 19: 1 times
+swift(1)
+    Doc: 19: 1 times
+ultraviolet(2)
+    Doc: 19: 1 times
+    Doc: 20: 1 times
+relied(1)
+    Doc: 19: 1 times
+oschin(1)
+    Doc: 19: 1 times
+asteroid(1)
+    Doc: 19: 1 times
+tracking(1)
+    Doc: 19: 1 times
+among(1)
+    Doc: 19: 1 times
+brazil(1)
+    Doc: 19: 1 times
+india(1)
+    Doc: 19: 1 times
+italy(1)
+    Doc: 19: 1 times
+refer(1)
+    Doc: 19: 1 times
+maria(1)
+    Doc: 20: 1 times
+southwest(1)
+    Doc: 20: 2 times
+antonio(1)
+    Doc: 20: 1 times
+3305(1)
+    Doc: 20: 1 times
+95(1)
+    Doc: 20: 1 times
+rising(1)
+    Doc: 20: 3 times
+revise(1)
+    Doc: 20: 1 times
+story(1)
+    Doc: 20: 1 times
+jupiter(1)
+    Doc: 20: 11 times
+stripes(1)
+    Doc: 20: 3 times
+saturn(1)
+    Doc: 20: 3 times
+flipping(1)
+    Doc: 20: 1 times
+least(1)
+    Doc: 20: 1 times
+standing(1)
+    Doc: 20: 1 times
+notion(1)
+    Doc: 20: 1 times
+upside(1)
+    Doc: 20: 1 times
+appearance(1)
+    Doc: 20: 2 times
+darker(1)
+    Doc: 20: 1 times
+belts(1)
+    Doc: 20: 4 times
+alternate(1)
+    Doc: 20: 1 times
+lighter(1)
+    Doc: 20: 1 times
+pale(1)
+    Doc: 20: 1 times
+upwelling(1)
+    Doc: 20: 2 times
+generally(1)
+    Doc: 20: 1 times
+descends(1)
+    Doc: 20: 1 times
+cassini(1)
+    Doc: 20: 10 times
+pop(1)
+    Doc: 20: 1 times
+exception(1)
+    Doc: 20: 1 times
+hinted(1)
+    Doc: 20: 1 times
+overwhelming(1)
+    Doc: 20: 1 times
+emerging(1)
+    Doc: 20: 1 times
+atmospheric(1)
+    Doc: 20: 3 times
+implication(1)
+    Doc: 20: 1 times
+net(1)
+    Doc: 20: 1 times
+sinking(1)
+    Doc: 20: 1 times
+tony(1)
+    Doc: 20: 1 times
+del(1)
+    Doc: 20: 2 times
+genio(1)
+    Doc: 20: 2 times
+studies(1)
+    Doc: 20: 1 times
+expectations(1)
+    Doc: 20: 1 times
+past(1)
+    Doc: 20: 1 times
+reporting(1)
+    Doc: 20: 1 times
+friday(1)
+    Doc: 20: 1 times
+edition(1)
+    Doc: 20: 1 times
+rings(1)
+    Doc: 20: 1 times
+month(1)
+    Doc: 20: 1 times
+passed(1)
+    Doc: 20: 1 times
+illumination(1)
+    Doc: 20: 1 times
+angles(1)
+    Doc: 20: 1 times
+particles(1)
+    Doc: 20: 4 times
+scatter(1)
+    Doc: 20: 1 times
+sunlight(1)
+    Doc: 20: 1 times
+appear(1)
+    Doc: 20: 1 times
+irregularly(1)
+    Doc: 20: 1 times
+spheres(1)
+    Doc: 20: 1 times
+carolyn(1)
+    Doc: 20: 1 times
+porco(1)
+    Doc: 20: 2 times
+eroded(1)
+    Doc: 20: 1 times
+micrometeoroid(1)
+    Doc: 20: 1 times
+impacts(1)
+    Doc: 20: 1 times
+melted(1)
+    Doc: 20: 1 times
+droplets(1)
+    Doc: 20: 1 times
+erosion(1)
+    Doc: 20: 1 times
+addition(1)
+    Doc: 20: 1 times
+metis(1)
+    Doc: 20: 1 times
+adrastea(1)
+    Doc: 20: 1 times
+inclined(1)
+    Doc: 20: 1 times
+vertical(1)
+    Doc: 20: 1 times
+surprise(1)
+    Doc: 20: 1 times
+polar(1)
+    Doc: 20: 2 times
+swirling(1)
+    Doc: 20: 1 times
+oval(1)
+    Doc: 20: 1 times
+haze(1)
+    Doc: 20: 1 times
+famous(1)
+    Doc: 20: 1 times
+spot(1)
+    Doc: 20: 1 times
+havent(1)
+    Doc: 20: 1 times
+stratospheric(1)
+    Doc: 20: 1 times
+circulation(1)
+    Doc: 20: 1 times
+works(1)
+    Doc: 20: 1 times
+west(1)
+    Doc: 20: 1 times
+winds(1)
+    Doc: 20: 2 times
+cycle(1)
+    Doc: 20: 1 times
+stratosphere(1)
+    Doc: 20: 1 times
+movies(1)
+    Doc: 20: 1 times
+reveal(1)
+    Doc: 20: 1 times
+persistent(1)
+    Doc: 20: 1 times
+bands(1)
+    Doc: 20: 1 times
+circling(1)
+    Doc: 20: 1 times
+extend(1)
+    Doc: 20: 1 times
+conspicuous(1)
+    Doc: 20: 1 times
+leopard(1)
+    Doc: 20: 1 times
+spots(1)
+    Doc: 20: 3 times
+move(1)
+    Doc: 20: 2 times
+adjacent(1)
+    Doc: 20: 1 times
+ingersoll(1)
+    Doc: 20: 1 times
+caltech(1)
+    Doc: 20: 1 times
+discoveries(1)
+    Doc: 20: 1 times
+reported(1)
+    Doc: 20: 1 times
+glows(1)
+    Doc: 20: 1 times
+io(1)
+    Doc: 20: 2 times
+europa(1)
+    Doc: 20: 1 times
+eclipses(1)
+    Doc: 20: 1 times
+plume(1)
+    Doc: 20: 1 times
+irregular(1)
+    Doc: 20: 1 times
+outer(1)
+    Doc: 20: 1 times
+himalia(1)
+    Doc: 20: 1 times
+hints(1)
+    Doc: 20: 1 times
+await(1)
+    Doc: 20: 1 times
+larry(1)
+    Doc: 20: 1 times
+esposito(1)
+    Doc: 20: 1 times
+colorado(1)
+    Doc: 20: 1 times
+spectrograph(1)
+    Doc: 20: 1 times
+predicts(1)
+    Doc: 20: 1 times
+commentary(1)
+    Doc: 20: 1 times
+piggybacked(1)
+    Doc: 20: 1 times
+huygens(1)
+    Doc: 20: 1 times
+descent(1)
+    Doc: 20: 1 times
+titan(1)
+    Doc: 20: 1 times
+venture(1)
+    Doc: 20: 1 times
+italian(1)
+    Doc: 20: 1 times
+agencies(1)
+    Doc: 20: 1 times
+germany(1)
+    Doc: 20: 1 times
+queen(1)
+    Doc: 20: 1 times
+london(1)
+    Doc: 20: 1 times
+kingdom(1)
+    Doc: 20: 1 times
+paris(1)
+    Doc: 20: 1 times
+german(1)
+    Doc: 20: 1 times
+angeles(1)
+    Doc: 20: 1 times
+cfm(1)
+    Doc: 20: 1 times

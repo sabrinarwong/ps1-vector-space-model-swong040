@@ -9,6 +9,7 @@ git clone https://github.com/CS172-UCR/ps1-vector-space-model-swong040.git;
 g++ -Wall -w -std=c++11 main.cpp -o main.out;
 ./main.out;
 ```
+The user can type in a word and the program will return whether or not the term is in the index. If the term is, then a postings list with the term and its corresponding (tf, idf, tf.idf) result is shown.
 
 ## Design of Code
 // TBA
@@ -17,7 +18,8 @@ g++ -Wall -w -std=c++11 main.cpp -o main.out;
 Included in this repo is: 
 1. an excel sheet of Part 1
 2. source code (main.cpp and main.h) to create indices and compute tf.idf for the term
-3. the output file (docIndex.txt, postingList.txt, output.txt) of the indices created and tests ran.
+	a. file *main.h* has the code for docIndex() and test()
+3. the output file (output.txt) of the tests ran.
 
 ## Assumptions and Disclaimers
 * Terms are not stemmed.

@@ -21,11 +21,51 @@ struct term{
 	string t; // term in index
 	set<int> ids; // num of docs with term
 	vector<posting> postings; // list of term postings
+
+		// add posting to term
+	void addPosting(string text, int docId){
+		t = text;
+		for(set<int>::iterator i=ids.begin(); i!=ids.end(); ++i){
+			if(*i == docId){
+				for(int j = 0; j < postings.size(); j++){
+					if(postings[j].first == docId){
+						postings[j].second++;
+						return;
+					}
+				}
+			}
+		}
+		ids.insert(docId);
+		posting p = make_pair(docId, 1);
+		postings.push_back(p);
+	}
 };
 
 struct collection{ 
 	vector<termsInDoc> indexDocs; // all docs with num terms
 	vector<term> terms; // all terms in collection
+
+
+	// add term into the collection
+	void addTerm(string text, int docId){
+
+		int i, ind = -1;
+		for(i = 0; i < terms.size(); i++){
+			if(strcmp(text.c_str(), terms[i].t.c_str()) == 0){
+				ind = i;
+				break;
+			}
+		}
+
+		if(ind == -1){
+			term x;
+			x.addPosting(text,docId);
+			terms.push_back(x);
+			return;
+		} else{
+			terms[ind].addPosting(text, docId);
+		}
+	}
 }; 
 
 class docIndex{
@@ -33,51 +73,10 @@ class docIndex{
 		collection index;
 		term t; 
 
-		// exists in the collectino, returns index number
-		int exist(string text){
-			int i;
-			for(i = 0; i < index.terms.size(); i++){
-				if(!strcmp(text.c_str(), index.terms[i].t.c_str())){
-					return i;
-				}
-			}
-			return -1;
+		void initVars(){
+			index.indexDocs.resize(20);
+			t.t = "";			
 		}
-
-		// add term into the collection
-		void addTerm(string text, int docId){
-			cout << text << endl;
-			int i = exist(text);
-			term x = addPosting(text,docId);
-
-			if(i > -1){
-				index.terms[i] = addPosting(text, docId);
-			} else{
-				term x = addPosting(text,docId);
-				index.terms.push_back(x);
-			}
-		}
-
-		// add posting to term
-		term addPosting(string text, int docId){
-			t.t = text;
-			for(set<int>::iterator i=t.ids.begin(); i!=t.ids.end(); ++i){
-				if(*i == docId){
-					for(int j = 0; j < t.postings.size(); j++){
-						if(t.postings[j].first == docId){
-							t.postings[j].second++;
-							return t;
-						}
-					}
-				}
-			}
-			t.ids.insert(docId);
-			posting p = make_pair(docId, 1);
-			t.postings.push_back(p);
-
-			return t;
-		}
-
 		/*		
 			if term is in word index 
 			- display list of positings for that term
@@ -114,9 +113,12 @@ class docIndex{
 		}
 
 		void createIndex(){
+			initVars();
+
 			ifstream input; 
-			int fileCount = 1;
+			int fileCount = 1, z = 0;
 			string word;
+
 			// used to take out stop words in data files
 			ifstream stopWords; 
 			vector<string>stopList;
@@ -141,39 +143,41 @@ class docIndex{
 
 				// read current document
 				if(input.is_open()){
-					while(!input.eof()){
+					index.indexDocs[z].first = fileCount;
+					string inTerms[30];
+					while(input >> word){
 						int stopFlag = false;
 
-						input >> word;
 						transform(word.begin(), word.end(), word.begin(), ::tolower); 
-						
-						// take out stop words then count terms
+						int termCount = 0;
+						size_t punct = word.find_first_of(",./<>?\\:;\'\"!@#$%^&*(){}[]-_=+");
 
-						// take out hyphenated words
-						// posting list
-
-						// batch of documents -> partial index -> index merge
-						// sorted list -> merge lists of the same
+						while (punct != string::npos){
+							inTerms[termCount] = word.substr(0, punct);
+							word = word.substr(punct + 1, word.size());
+							punct = word.find_first_of(",./<>?\\:;\'\"!@#$%^&*(){}[]-_=+");
+							termCount++;
+						}
+						inTerms[termCount] = word;
 
 						for(int i = 0; i < stopList.size(); i++){
-							if(strcmp(word.c_str(), (stopList[i]).c_str())){
+							if(strcmp(word.c_str(), (stopList[i]).c_str()) == 0){
 								stopFlag = true;
 								break;
 							}
 						}
-						if(!stopFlag){
-							cout << "flag true" << endl;
-							addTerm(word, fileCount);
-							index.indexDocs[fileCount--].second++;
-						}
+						if(stopFlag){ continue; }
+
+						index.addTerm(word, fileCount);
+						index.indexDocs[z].second++;
+
+						termCount++;
 					}
-
-					// document index
-
 				}
 				input.close();
 
-				fileCount++;
+				cout << "    file" << index.indexDocs[z].first << "  seen." << endl;
+				fileCount++; z++;
 			}
 		}
 
@@ -187,12 +191,19 @@ class docIndex{
 		}
 
 		void test(string input){
-			int exists = exist(input);
-			if(exists == -1){	// if term is in index
+			int i, ind = -1;
+			for(i = 0; i < index.terms.size(); i++){
+				if(strcmp(input.c_str(), index.terms[i].t.c_str()) == 0){
+					ind = i;
+					break;
+				}
+			}
+
+			if(ind == -1){	// if term is in index
 				cout << "Term not found in index." << endl;
 				return;
 			}
-			tfidf(exists);
+			tfidf(ind);
 		}
 
 		//testing purposes
@@ -209,7 +220,7 @@ class docIndex{
 			output << "\nPosting List contains:\n";
 			for(int i = 0; i < index.terms.size(); i++){
 				term k = index.terms[i];
-				output << k.t << endl << "    num docs with term: " << k.ids.size();
+				output << k.t << "(" << k.ids.size() << ")" << endl;
 				for(int j = 0; j < k.postings.size(); j++){
 					output << "    Doc: " << k.postings[j].first << ": " << k.postings[j].second << " times\n";
 				}
