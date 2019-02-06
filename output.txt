@@ -1,0 +1,44 @@
+Last login: Wed Feb  6 10:21:29 on ttys001
+Sabrinas-MacBook-Pro:ps1-vector-space-model-swong040 Sabrina$ g++ -Wall -w -std=c++11 main.cpp -o main.out;
+Sabrinas-MacBook-Pro:ps1-vector-space-model-swong040 Sabrina$ ./main.out;
+Index created.
+
+Enter a term to query: 
+total
+   total: (tf, idf, tf*idf).
+	Doc 11 : (0.0019802, 2.30259, 0.00455957)
+	Doc 16 : (0.00231481, 2.30259, 0.00533006)
+
+Enter a term to query: 
+yESterDay
+Term not found in index.
+
+Enter a term to query: 
+aLsO
+   also: (tf, idf, tf*idf).
+	Doc 1 : (0.00638298, 0.287682, 0.00183627)
+	Doc 2 : (0.00464037, 0.287682, 0.00133495)
+	Doc 3 : (0.00289017, 0.287682, 0.000831451)
+	Doc 4 : (0.00477327, 0.287682, 0.00137318)
+	Doc 5 : (0.00606061, 0.287682, 0.00174353)
+	Doc 7 : (0.00275482, 0.287682, 0.000792513)
+	Doc 8 : (0.00571429, 0.287682, 0.0016439)
+	Doc 9 : (0.00219298, 0.287682, 0.000630882)
+	Doc 10 : (0.00593472, 0.287682, 0.00170731)
+	Doc 11 : (0.0019802, 0.287682, 0.000569667)
+	Doc 12 : (0.00380952, 0.287682, 0.00109593)
+	Doc 13 : (0.00184502, 0.287682, 0.000530779)
+	Doc 14 : (0.00190476, 0.287682, 0.000547966)
+	Doc 16 : (0.00462963, 0.287682, 0.00133186)
+	Doc 20 : (0.00203666, 0.287682, 0.000585911)
+
+Enter a term to query: 
+7
+   7: (tf, idf, tf*idf).
+	Doc 1 : (0.00425532, 1.89712, 0.00807285)
+	Doc 10 : (0.00296736, 1.89712, 0.00562944)
+	Doc 15 : (0.00268097, 1.89712, 0.00508611)
+
+Enter a term to query: 
+QuiT
+Sabrinas-MacBook-Pro:ps1-vector-space-model-swong040 Sabrina$ 

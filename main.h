@@ -22,7 +22,7 @@ struct term{
 	set<int> ids; // num of docs with term
 	vector<posting> postings; // list of term postings
 
-		// add posting to term
+	// add posting to term
 	void addPosting(string text, int docId){
 		t = text;
 		for(set<int>::iterator i=ids.begin(); i!=ids.end(); ++i){
@@ -77,26 +77,26 @@ class docIndex{
 			index.indexDocs.resize(20);
 			t.t = "";			
 		}
+
 		/*		
 			if term is in word index 
 			- display list of positings for that term
 			- for each posting, generate the term weightings (tf, idf, tf-idf) as such
 		*/
-		void print(string text, vector<termsInDoc> docs){
-			t.t = text;
+		void tfidf(int termInd, vector<termsInDoc> docs){
 			int k = 20; // total num of docs
-			int pSize = t.postings.size(); // num of docs with term
+			int pSize = index.terms[termInd].postings.size(); // num of docs with term
 			
 			// IDF(t) = log_e(Total number of documents / Number of documents with term t in it).
 			double idf = log(k / (double)pSize);
 
-			cout << "Format of result: (tf, idf, tf*idf)." << endl;
+			cout << "   " << index.terms[termInd].t << ": (tf, idf, tf*idf)." << endl;
 
 			for(int i = 0; i < pSize; i++){
 				int id, n;
-				int freq = t.postings[i].second; // freq of term in doc
+				int freq = index.terms[termInd].postings[i].second; // freq of term in doc
 				for(int j = 0; j < docs.size(); j++){
-					if(t.postings[i].first == docs[j].first){
+					if(index.terms[termInd].postings[i].first == docs[j].first){
 						id = docs[j].first;
 						n = docs[j].second;	// total num terms in doc
 						break;
@@ -105,7 +105,7 @@ class docIndex{
 				// TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document).
 				double tf = freq / (double)n;
 
-				cout << "Doc: " << id << " : (" 
+				cout << "\tDoc " << id << " : (" 
 					 << tf << ", " 
 					 << idf << ", " 
 					 << tf * idf << ")" << endl;
@@ -131,7 +131,7 @@ class docIndex{
 				}
 			}
 			stopWords.close();
-			cout << "   Stop Words vector created." << endl;
+			// cout << "   Stop Words vector created." << endl;
 
 			while (fileCount < 21){
 				ostringstream fileNum;
@@ -176,7 +176,7 @@ class docIndex{
 				}
 				input.close();
 
-				cout << "    file" << index.indexDocs[z].first << "  seen." << endl;
+				// cout << "   file" << index.indexDocs[z].first << "  seen." << endl;
 				fileCount++; z++;
 			}
 		}
@@ -186,8 +186,8 @@ class docIndex{
 			createIndex();
 		}
 
-		void tfidf(int ind){
-			print(index.terms[ind].t, index.indexDocs);
+		void print(int ind){
+			tfidf(ind, index.indexDocs);
 		}
 
 		void test(string input){
@@ -203,7 +203,7 @@ class docIndex{
 				cout << "Term not found in index." << endl;
 				return;
 			}
-			tfidf(ind);
+			print(ind);
 		}
 
 		//testing purposes
@@ -220,13 +220,14 @@ class docIndex{
 			output << "\nPosting List contains:\n";
 			for(int i = 0; i < index.terms.size(); i++){
 				term k = index.terms[i];
-				output << k.t << "(" << k.ids.size() << ")" << endl;
+				output << k.t << "(" << k.ids.size() << ")" << endl << "\t";
 				for(int j = 0; j < k.postings.size(); j++){
-					output << "    Doc: " << k.postings[j].first << ": " << k.postings[j].second << " times\n";
+					output << "(" << k.postings[j].first << ": " << k.postings[j].second << ") ";
 				}
+				output << endl;
 			}
 
-			cout << "   Document Index file created. Stop words omitted." << endl;
+			cout << "   Document Index file created." << endl;
 
 			output.close();
 		}

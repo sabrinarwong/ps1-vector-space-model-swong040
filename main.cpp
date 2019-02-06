@@ -8,7 +8,7 @@ using namespace std;
 int main(){
 
 	// create index here
-	cout << "Creating index." << endl;
+	// cout << "Creating index." << endl;
 	docIndex *index = new docIndex();
 
 	// index->print_index(); // testing purposes

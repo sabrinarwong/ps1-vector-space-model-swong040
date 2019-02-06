@@ -11,9 +11,6 @@ g++ -Wall -w -std=c++11 main.cpp -o main.out;
 ```
 The user can type in a word and the program will return whether or not the term is in the index. If the term is, then a postings list with the term and its corresponding (tf, idf, tf.idf) result is shown.
 
-## Design of Code
-// TBA
-
 ## About
 Included in this repo is: 
 1. an excel sheet of Part 1
@@ -21,7 +18,7 @@ Included in this repo is:
 	a. file *main.h* has the code for docIndex() and test()
 3. the output file (output.txt) of the tests ran.
 
-## Assumptions and Disclaimers
+## Assumptions
 * Terms are not stemmed.
 
 ## Contributing
@@ -29,5 +26,3 @@ Sabrina Wong
 swong040@ucr.edu
 861195047
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
